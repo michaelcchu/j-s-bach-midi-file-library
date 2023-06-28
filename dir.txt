@@ -29,3 +29,5 @@ bwv799.mid
 bwv800.mid
 bwv801.mid
 Johann-Sebastian-Bach-Sinfonia-1.mid
+Johann-Sebastian-Bach-Sinfonia-5.mid
+Johann-Sebastian-Bach-Sinfonia-6.mid
