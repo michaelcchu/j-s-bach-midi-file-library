@@ -1,1 +1,1 @@
-bwv791.mid: measure 28: deleted incorrect D5 / replaced slur with tie in lilypond file
+Johann-Sebastian-Bach-Sinfonia-5.ly: measure 28: deleted incorrect D5 / replaced slur with tie in lilypond file
