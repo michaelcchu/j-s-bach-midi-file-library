@@ -3,3 +3,4 @@ Where the midi files came from:
 Mutopia
 - Bach Inventions
 - Bach Sinfonias
+- Bach WTC 1
