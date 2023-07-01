@@ -34,3 +34,9 @@ Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Prelude-2.mid
 Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Fugue-2.mid
 Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Prelude-3.mid
 Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Fugue-3.mid
+Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Prelude-4.mid
+Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Fugue-4.mid
+Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Prelude-5.mid
+Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Fugue-5.mid
+Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Prelude-6.mid
+Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Fugue-6.mid
