@@ -4,3 +4,8 @@ Mutopia
 - Bach Inventions
 - Bach Sinfonias
 - Bach WTC 1
+
+Tools used:
+
+LilyPond
+Frescobaldi
