@@ -29,3 +29,4 @@ Johann-Sebastian-Bach-Sinfonia-13.mid
 Johann-Sebastian-Bach-Sinfonia-14.mid
 Johann-Sebastian-Bach-Sinfonia-15.mid
 Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Fugue-1.mid
+Johann-Sebastian-Bach-Well-Tempered-Clavier-1-Prelude-1.mid
