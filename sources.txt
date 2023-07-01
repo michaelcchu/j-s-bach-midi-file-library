@@ -3,6 +3,7 @@ Where the midi files came from:
 Mutopia
 - Bach Inventions
 - Bach Sinfonias
+- Bach Duettos
 - Bach WTC 1
 
 Tools used:
