@@ -1,12 +1,24 @@
 Where the midi files came from:
 
 Mutopia
+https://www.mutopiaproject.org/piece-list.html
 - Bach Inventions
 - Bach Sinfonias
+
+
 - Bach Duettos
-- Bach WTC 1
+- Bach WTC 1 (Other Than Prelude 7 and Fugue 7)
+
+Kyle Rother's 
+"An 'open source' open score edition of Bach's Well-tempered Clavier":
+https://open.uct.ac.za/handle/11427/13106
+- Bach WTC 1 Fugues
+
+Prelude 7 and Fugue 7
+
 
 Tools used:
 
 LilyPond
+
 Frescobaldi
