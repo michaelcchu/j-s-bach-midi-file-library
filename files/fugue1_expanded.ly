@@ -132,8 +132,8 @@ bass = \relative c {
   c8. d32 c b8 e a, d~ d16 e d c | % m. 11
   b8 e4 d8 c f!4 e8~ | % m. 12
   e8 d4 e8 f!8 e16 d e4 | % m. 13 
-  a4 r r2 | % m. 14
-  r8 g, a b c8. d32 c b8 e | % m. 15
+  a,4 r r2 | % m. 14
+  r8 g a b c8. d32 c b8 e | % m. 15
   a,8 d~ d16 e d c b8 bes a g | % m. 16
   a8 fis' g e d4 e8 f! | % m. 17
   g8. a32 g f8 bes e, a~ a16 bes a g | % m. 18

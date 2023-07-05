@@ -37,7 +37,7 @@ fugue6_expanded.mid
 fugue7_expanded.mid
 fugue8_expanded.mid
 fugue9_expanded.mid
-fugue10_expanded.mid
+fugue10_basic.mid
 fugue11_expanded.mid
 fugue12_expanded.mid
 fugue13_expanded.mid
