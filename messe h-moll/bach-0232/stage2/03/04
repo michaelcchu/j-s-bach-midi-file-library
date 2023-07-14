@@ -1,0 +1,322 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/03/04} [KHM:1040514335]
+TIMESTAMP: DEC/26/2001 [md5sum:f0db2141d2b508ca91b0796062bb7680]
+10/10/94 S. Rasmussen
+WK#:232       MV#:3
+Bach Gesellschaft vi
+Mass in B Minor
+Kyrie II
+Fagotti
+0 72
+Group memberships: score  sound
+score: part 4 of 9
+sound: part 4 of 9
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:3   Q:1   T:0/0  C:22  D:Alla breve
+F#3    2        h     d
+G3     2        h n   d
+E#3    3        h.#   d
+F#3    1        q     d
+measure 2
+G#3    1        q     d        + 
+F#3    1        q     d
+G#3    1        q     d
+A3     1        q     d
+B3     2        h     d
+A3     1        q     d
+G#3    1        q     d
+measure 3
+A3     2        h     d
+G#3    2        h     d
+F#3    2        h     d
+F#3    2-       h     d        -
+measure 4
+F#3    1        q     d
+D#3    1        q #   d
+E3     1        q     d
+C#3    1        q     d 
+B#2    3        h.#   u
+C#3    1        q     u
+measure 5
+C#3    2        h     u
+C#4    4        w     d
+B#3    2        h #   d
+measure 6
+C#4    3        h.    d
+G#3    1        q     d
+C#4    1        q     d
+A#3    1        q #   d
+B3     1        q     d
+C#4    1        q     d
+measure 7
+D4     2        h     d
+C#4    2        h     d
+B3     3        h.    d
+F#3    1        q     d
+measure 8
+B3     1        q     d
+G#3    1        q     d
+A3     1        q     d
+B3     1        q     d
+C#4    2        h     d
+B3     2        h     d
+measure 9
+C#4    2        h     d
+D4     2        h     d
+G#3    2        h     d
+F#3    2        h     d
+measure 10
+C#4    2        h     d
+C#3    2        h     u
+D3     2        h     u 
+C#3    1        q     u
+B2     1        q     u
+measure 11
+C#3    1        q     u
+C#4    2        h     d
+B3     1        q     d
+A3     1        q     d
+G#3    1        q     d
+F#3    2        h     d
+measure 12
+G#3    6        w.    d
+F#3    1        q     d
+G#3    1        q     d
+measure 13
+A3     2        h     d
+G#3    1        q     d
+F#3    1        q     d
+G#3    2        h     d
+G#2    2        h     u
+measure 14
+C#3    2        h     u
+rest   2        h
+rest   4        w
+measure 15
+rest   8
+measure 16
+rest   8
+measure 17
+rest   8
+measure 18
+rest   8
+measure 19
+rest   8
+measure 20
+rest   8
+measure 21
+rest   8
+measure 22
+rest   8
+measure 23
+rest   8
+measure 24
+rest   8
+measure 25
+C#3    2        h     u
+D3     2        h     u        + 
+B#2    3        h.#   u
+C#3    1        q     u
+measure 26
+D#3    1        q #   d
+C#3    1        q     d 
+D#3    1        q     d
+E3     1        q     d
+F#3    2        h     d
+E3     1        q     d
+D#3    1        q     d
+measure 27
+E3     2        h     d
+D#3    2        h #   d
+C#3    2        h     u
+C#3    2        h     u
+measure 28
+D3     2        h     d        + 
+D#3    2        h #   d
+E3     2        h     d
+E#3    2        h #   d
+measure 29
+F#3    3        h.    d
+E3     1        q     d        + 
+D3     1        q     u        + 
+C#3    1        q     u
+B2     2        h     u
+measure 30
+C#3    6        w.    u
+D3     2-       h     u        -
+measure 31
+D3     1        q     u 
+C#3    1        q     u
+D3     1        q     u 
+B2     1        q     u
+C#3    1        q     u
+C#4    2        h     d
+B3     1        q     d
+measure 32
+A#3    1        q #   d
+F#3    1        q     d
+G#3    1        q     d
+A#3    1        q     d
+B3     1        q     d
+A3     1        q n   d
+G#3    1        q     d
+F#3    1        q     d
+measure 33
+E3     2        h     d
+E3     2        h     d
+A2     1        q     u
+A3     2        h     d
+G3     1        q n   d
+measure 34
+F#3    1        q     d
+D3     1        q     d
+E3     1        q     d
+F#3    1        q     d
+G3     2        h n   d
+F#3    1        q     d
+E3     1        q     d
+measure 35
+F#3    2        h     d
+F#2    2        h     u
+B2     2        h     u
+rest   2        h
+measure 36
+rest   8
+measure 37
+rest   8
+measure 38
+rest   8
+measure 39
+rest   8
+measure 40
+rest   8
+measure 41
+F#3    2        h     d
+G3     2        h n   d
+E#3    3        h.#   d
+F#3    1        q     d
+measure 42
+G#3    1        q     d        + 
+F#3    1        q     d
+G#3    1        q     d
+A#3    1        q #   d
+B3     2        h     d
+A3     1        q n   d
+G#3    1        q     d
+measure 43
+A3     2        h     d
+G#3    2        h     d
+F#3    2        h     d
+rest   2        h
+measure 44
+rest   1        q
+B3     2        h     d
+A3     1        q     d
+G#3    1        q     d
+E3     1        q     d
+F#3    1        q     d
+G#3    1        q     d
+measure 45
+A3     1        q     d
+F#3    1        q     d
+G#3    1        q     d
+A#3    1        q #   d
+B3     1        q     d
+A3     1        q n   d
+G#3    1        q     d
+F#3    1        q     d
+measure 46
+E#3    1        q #   d
+C#3    1        q     d 
+D#3    1        q #   d
+E#3    1        q     d
+F#3    1        q     d
+E3     1        q n   d
+D#3    1        q     d        + 
+C#3    1        q     d 
+measure 47
+B#2    2        h #   u
+C#3    1        q     u
+C#3    1        q     u
+G#3    2        h     d
+G#2    2        h     u
+measure 48
+C#3    1        q     u
+D3     1        q     u        + 
+C#3    1        q     u
+B2     1        q     u
+A#2    1        q #   u
+C#3    1        q     u
+F#2    2        h     u
+measure 49
+F#3    3        h.    d
+E3     1        q     d
+D3     1        q     u 
+C#3    1        q     u
+B2     1        q     u
+A2     1        q     u
+measure 50
+G#2    1        q     u
+B2     1        q     u
+E2     2        h     u
+E3     3        h.    d
+D3     1        q     d
+measure 51
+C#3    1        q     d 
+E3     1        q     d
+A2     2        h     u
+rest   4        w
+measure 52
+rest   4        w
+rest   1        q
+C#4    2        h     d
+B3     1        q     d
+measure 53
+A#3    1        q #   d
+F#3    1        q     d
+G#3    1        q     d
+A#3    1        q     d
+B3     1        q     d
+A3     1        q n   d
+G#3    1        q     d
+F#3    1        q     d
+measure 54
+E#3    1        q #   d
+C#3    1        q     d 
+F#3    4        w     d
+G3     2        h n   d
+measure 55
+E#3    3        h.#   d
+F#3    1        q     d
+G#3    1        q     d        + 
+F#3    1        q     d
+G#3    1        q     d
+A3     1        q     d
+measure 56
+B3     2        h     d
+A3     1        q     d
+G#3    1        q     d
+A3     2        h     d
+G#3    2        h     d
+measure 57
+F#3    4-       w     d        -
+F#3    1        q     d
+F#3    1        q     d
+G#3    1        q     d
+A#3    1        q #   d
+measure 58
+B3     1        q     d
+A3     1        q     d        + 
+G#3    1        q     d
+F#3    1        q     d
+E#3    2        h #   d
+F#3    1        q     d
+B2     1        q     u
+measure 59
+C#3    2        h     u
+C#3    2        h     u
+F#2    4        w     u        F 
+mheavy2
+/END

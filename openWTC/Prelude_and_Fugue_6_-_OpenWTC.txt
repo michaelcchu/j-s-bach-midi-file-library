@@ -1,0 +1,18 @@
+MUSICXML : Prelude_and_Fugue_6_-_OpenWTC.mxl
+
+TITLE : Prelude_and_Fugue_6_-_OpenWTC.mxl
+
+SET MARKS :
+1:M1
+27:M27
+45:M45
+
+PLAY MARKS :
+M1
+M27
+M45
+
+PARTS :
+P1_Piano:played/visible
+
+ORNAMENTS :

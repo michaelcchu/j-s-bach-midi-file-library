@@ -1,0 +1,328 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/03/01} [KHM:1040514335]
+TIMESTAMP: DEC/26/2001 [md5sum:da7f3db1731c2e432856be6b492ebe97]
+10/10/94 S. Rasmussen
+WK#:232       MV#:3
+Bach Gesellschaft vi
+Mass in B Minor
+Kyrie II
+Violino 1; Flauto traverso 1,2; Oboe d'amore 1
+0 72
+Group memberships: score  sound
+score: part 1 of 9
+sound: part 1 of 9
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:3   Q:1   T:0/0  C:4  D:Alla breve
+rest   8
+measure 2
+rest   8
+measure 3
+rest   8
+measure 4
+rest   8
+measure 5
+rest   8
+measure 6
+rest   8
+measure 7
+rest   8
+measure 8
+rest   8
+measure 9
+rest   8
+measure 10
+rest   8
+measure 11
+rest   4        w
+C#5    2        h     d
+D5     2        h     d        +
+measure 12
+B#4    3        h.#   d
+C#5    1        q     d
+D#5    1        q #   d
+C#5    1        q     d
+D#5    1        q     d
+E5     1        q     d
+measure 13
+F#5    2        h     d
+E5     1        q     d
+D#5    1        q #   d
+E5     2        h     d
+D#5    2        h     d
+measure 14
+C#5    2        h     d
+E5     4        w     d
+D5     1        q     d        +
+C#5    1        q     d
+measure 15
+B4     2        h     u 
+A#4    2        h #   u
+B4     2        h     u 
+F#5    2-       h     d        -
+measure 16
+F#5    2        h     d
+E5     1        q     d
+D#5    1        q #   d
+C#5    2        h     d
+B#4    2        h #   d
+measure 17
+C#5    2        h     d
+C#5    2-       h     d        -
+C#5    1        q     d
+B4     1        q     d
+A4     1        q     u
+G#4    1        q     u
+measure 18
+A4     2        h     u
+G#4    1        q     u
+A4     1        q     u
+B4     4-       w     d        -
+measure 19
+B4     1        q     d
+C#5    1        q     d
+D5     4        w     d
+C#5    2-       h     d        -
+measure 20
+C#5    2        h     d
+F#5    1        q     d
+E5     1        q     d
+D5     2        h     d
+C#5    1        q     d
+B4     1        q     d
+measure 21
+A4     1        q     d 
+B4     1        q     d
+C#5    1        q     d
+F#4    1        q     u
+D#5    2        h #   d
+E5     1        q     d
+F#5    1        q     d
+measure 22
+G5     2        h n   d
+F#5    2        h     d
+E5     2        h     d
+D5     2-       h     d        -+
+measure 23
+D5     1        q     d
+C#5    2        h     d
+B4     1        q     d
+A4     1        q     d        (
+B4     1        q     d        )
+C#5    1        q     d        (
+D5     1        q     d        )
+measure 24
+E5     4-       w     d        -
+E5     1        q     d
+D5     1        q     d
+D5     2        h     d
+measure 25
+C#5    2        h     d
+B4     1        q     u
+A4     1        q     u
+D#5    3        h.#   d
+E5     1        q     d
+measure 26
+F#5    1        q     d
+E5     1        q     d
+D#5    1        q #   d
+C#5    1        q     d
+B#4    2        h #   d
+C#5    1        q     d
+D#5    1        q     d
+measure 27
+G#4    1        q     u
+C#5    2        h     d
+B#4    1        q #   d
+C#5    1        q     d        (
+B4     1        q n   d        )
+A4     1        q     u        (
+G#4    1        q     u        )
+measure 28
+F#4    1        q     u
+G#4    1        q     u
+A4     2        h     u
+G#4    1        q     u
+A4     1        q     u
+B4     2-       h     d        -
+measure 29
+B4     1        q     d
+A4     1        q     d 
+B4     1        q     d
+C#5    1        q     d
+D5     4-       w     d        -
+measure 30
+D5     1        q     d
+C#5    1        q     d
+B4     1        q     d        (
+A4     1        q     d        )
+B4     1        q     u        (
+A4     1        q     u        )
+G#4    1        q     u        (
+F#4    1        q     u        )
+measure 31
+E#4    2        h #   u
+F#4    4        w     u
+E#4    2        h     u
+measure 32
+F#4    2        h     u
+rest   2        h
+rest   4        w
+measure 33
+rest   1        q
+E5     2        h     d
+D5     1        q     d
+C#5    1        q     d        (
+A4     1        q     d        )
+B4     1        q     d        (
+C#5    1        q     d        )
+measure 34
+D5     1        q     d        (
+C#5    1        q     d        )
+B4     1        q     d        (
+A#4    1        q #   d        )
+B4     1        q     d        (
+E5     1        q     d        )
+D5     1        q     d        (
+C#5    1        q     d        )
+measure 35
+D5     2        h     d
+C#5    2        h     d
+B4     2        h     d
+rest   2        h
+measure 36
+rest   8
+measure 37
+rest   8
+measure 38
+rest   8
+measure 39
+rest   8
+measure 40
+rest   4        w
+B4     2        h     d
+C5     2        h n   d
+measure 41
+A#4    3        h.#   d
+B4     1        q     d
+C#5    1        q     d        +
+B4     1        q     d
+C#5    1        q     d
+D5     1        q     d        +
+measure 42
+E5     2        h     d
+D5     1        q     d
+C#5    1        q     d
+D5     2        h     d
+C#5    2        h     d
+measure 43
+B4     1        q     d
+rest   1        q
+rest   2        h
+rest   1        q
+F#5    2        h     d
+E5     1        q     d
+measure 44
+D#5    1        q #   d        (
+B4     1        q     d        )
+C#5    1        q     d        (
+D#5    1        q     d        )
+E5     1        q     d        (
+D5     1        q n   d        )
+C#5    1        q     d        (
+B4     1        q     d        )
+measure 45
+C#5    4-       w     d        -
+C#5    1        q     d
+F#4    1        q     u
+B4     2-       h     d        -
+measure 46
+B4     1        q     d
+D5     1        q     d
+C#5    1        q     d        (
+B4     1        q     d        )
+A4     1        q     d
+C#5    1        q     d
+F#5    2-       h     d        -
+measure 47
+F#5    1        q     d
+D#5    1        q #   d
+E5     1        q     d
+C#5    1-       q     d        -
+C#5    1        q     d
+A#4    1        q #   d
+B#4    2        h #   d
+measure 48
+C#5    2        h     d
+E5     4        w     d
+D5     1        q     d        +
+C#5    1        q     d
+measure 49
+B4     2        h     d
+A#4    2        h #   d
+B4     2        h     d
+D5     2-       h     d        -
+measure 50
+D5     2        h     d
+C#5    1        q     d
+B4     1        q     d
+A4     2        h     u
+G#4    2        h     u
+measure 51
+A4     1        q     u
+A5     2        h     d
+G#5    1        q     d
+F##5   1        q x   d        (
+D#5    1        q #   d        )
+E#5    1        q #   d        (
+F##5   1        q     d        )
+measure 52
+G#5    1        q     d        (
+F#5    1        q S   d        )+
+E#5    1        q #   d        (
+D#5    1        q #   d        )
+C#5    4-       w     d        -
+measure 53
+C#5    1        q     d
+F#5    2        h     d
+E5     1        q     d
+D#5    2        h #   d
+D5     2        h n   d
+measure 54
+C#5    4        w     d
+F#4    2        h     u
+rest   2        h
+measure 55
+C#5    2        h     d
+D5     2        h     d        +
+B#4    3        h.#   d
+C#5    1        q     d
+measure 56
+D#5    1        q #   d
+C#5    1        q     d
+D#5    1        q     d
+E#5    1        q #   d
+F#5    2        h     d
+E5     1        q n   d
+D#5    1        q     d        + 
+measure 57
+E5     2        h     d
+D5     2        h     d        +
+C#5    2        h     d
+C#5    2-       h     d        -
+measure 58
+C#5    1        q     d
+F#4    1        q     u
+G#4    1        q     u
+A4     1        q     u
+B4     1        q     d
+D5     1        q     d
+C#5    1        q     d
+B4     1        q     d
+measure 59
+A4     2        h     u
+G#4    2        h     u
+F#4    4        w     u        F 
+mheavy2
+/END

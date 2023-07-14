@@ -1,0 +1,428 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/17/04} [KHM:2139021885]
+TIMESTAMP: DEC/26/2001 [md5sum:74675478f2704b5bc3ff066c0079f1b4]
+02/27/95 S. Rasmussen
+WK#:232       MV#:18
+Bach Gesellschaft vi
+Mass in B Minor
+Et resurrexit
+Timpani
+1 72
+Group memberships: score  sound
+score: part 4 of 17
+sound: part 4 of 17
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:0   Q:4   T:3/4  C:22  X:6
+rest   4        q
+rest   2        e
+C3     2        e     u  [
+C3     2        e     u  =
+G2     2        e     u  ]
+measure 2
+C3     4        q     u
+rest   2        e
+C3     2        e     u  [      .
+G2     2        e     u  =      .
+G2     2        e     u  ]      .
+measure 3
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+measure 4
+C3     2        e     u
+rest   2        e
+rest   2        e
+G2     2        e     u  [
+C3     2        e     u  =
+C3     2        e     u  ]
+measure 5
+G2     4        q     u
+rest   2        e
+G2     1        s     u  [[
+G2     1        s     u  ]]
+G2     2        e     u  [
+G2     2        e     u  ]
+measure 6
+C3     2        e     u  [
+G2     2        e     u  ]
+C3     2        e     u  [
+C3     1        s     u  =[
+C3     1        s     u  ]]
+C3     1        s     u  [[
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ]]
+measure 7
+G2     2        e     u
+rest   2        e
+G2     2        e     u
+rest   2        e
+G2     2        e     u
+rest   2        e
+measure 8
+G2     4        q     u
+rest   2        e
+C3     1        s     u  [[
+C3     1        s     u  ]]
+C3     2        e     u
+rest   2        e
+measure 9
+G2     4        q     u
+rest   4        q
+rest   4        q
+measure 10
+rest  12
+measure 11
+rest  12
+measure 12
+rest  12
+measure 13
+rest  12
+measure 14
+rest   4        q
+rest   2        e
+C3     2        e     u  [
+C3     2        e     u  =
+G2     2        e     u  ]
+measure 15
+C3     4        q     u
+rest   2        e
+C3     2        e     u  [
+G2     2        e     u  =
+G2     2        e     u  ]
+measure 16
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+measure 17
+C3     2        e     u
+rest   2        e
+rest   4        q
+rest   4        q
+measure 18
+rest  12
+measure 19
+rest  12
+measure 20
+G2     2        e     u
+rest   2        e
+G2     2        e     u
+rest   2        e
+G2     2        e     u
+rest   2        e
+measure 21
+G2     2        e     u
+rest   2        e
+rest   4        q
+rest   4        q
+measure 22
+rest  12
+measure 23
+rest  12
+measure 24
+rest  12
+measure 25
+rest  12
+measure 26
+rest  12
+measure 27
+rest  12
+measure 28
+rest  12
+measure 29
+rest  12
+measure 30
+rest  12
+measure 31
+rest  12
+measure 32
+rest  12
+measure 33
+rest  12
+measure 34
+rest  12
+measure 35
+rest  12
+measure 36
+rest  12
+measure 37
+rest  12
+measure 38
+rest  12
+measure 39
+rest  12
+measure 40
+rest  12
+measure 41
+rest  12
+measure 42
+rest  12
+measure 43
+rest  12
+measure 44
+rest  12
+measure 45
+rest  12
+measure 46
+rest  12
+measure 47
+rest  12
+measure 48
+rest  12
+measure 49
+rest   4        q
+rest   2        e
+C3     1        s     u  [[
+C3     1        s     u  ]]
+C3     2        e     u
+rest   2        e
+measure 50
+G2     6        q.    u
+rest   2        e
+rest   4        q
+measure 51
+rest  12
+measure 52
+rest  12
+measure 53
+rest  12
+measure 54
+rest  12
+measure 55
+rest  12
+measure 56
+rest  12
+measure 57
+rest  12
+measure 58
+rest  12
+measure 59
+rest  12
+measure 60
+rest  12
+measure 61
+rest  12
+measure 62
+rest  12
+measure 63
+rest  12
+measure 64
+rest  12
+measure 65
+rest  12
+measure 66
+rest  12
+measure 67
+rest  12
+measure 68
+rest  12
+measure 69
+rest  12
+measure 70
+rest  12
+measure 71
+rest  12
+measure 72
+rest  12
+measure 73
+rest  12
+measure 74
+rest  12
+measure 75
+rest  12
+measure 76
+rest  12
+measure 77
+rest  12
+measure 78
+rest  12
+measure 79
+rest  12
+measure 80
+rest  12
+measure 81
+rest  12
+measure 82
+rest  12
+measure 83
+rest  12
+measure 84
+rest  12
+measure 85
+rest  12
+measure 86
+rest   4        q
+rest   2        e
+C3     2        e     u  [
+C3     2        e     u  =
+G2     2        e     u  ]
+measure 87
+C3     4        q     u
+rest   2        e
+C3     2        e     u  [
+G2     2        e     u  =
+G2     2        e     u  ]
+measure 88
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+measure 89
+C3     2        e     u
+rest   2        e
+rest   2        e
+G2     2        e     u  [
+C3     2        e     u  =
+C3     2        e     u  ]
+measure 90
+G2     4        q     u
+rest   2        e
+G2     1        s     u  [[
+G2     1        s     u  ]]
+G2     2        e     u  [
+G2     2        e     u  ]
+measure 91
+C3     2        e     u  [
+G2     2        e     u  ]
+C3     2        e     u  [
+C3     1        s     u  =[
+C3     1        s     u  ]]
+C3     1        s     u  [[
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ]]
+measure 92
+G2     4        q     u
+rest   4        q
+rest   4        q
+measure 93
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+measure 94
+C3     2        e     u
+rest   2        e
+rest   4        q
+rest   4        q
+measure 95
+rest  12
+measure 96
+rest  12
+measure 97
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+C3     2        e     u
+rest   2        e
+measure 98
+C3     2        e     u
+rest   2        e
+rest   4        q
+rest   4        q
+measure 99
+rest  12
+measure 100
+rest  12
+measure 101
+rest  12
+measure 102
+rest  12
+measure 103
+rest  12
+measure 104
+rest  12
+measure 105
+rest  12
+measure 106
+rest  12
+measure 107
+rest  12
+measure 108
+rest  12
+measure 109
+rest   2        e
+G2     2        e     u
+C3     2        e     u  [
+C3     1        s     u  =[
+C3     1        s     u  ]]
+C3     2        e     u  [
+G2     2        e     u  ]
+measure 110
+C3     2        e     u
+rest   2        e
+rest   2        e
+C3     1        s     u  [[
+C3     1        s     u  ]]
+G2     2        e     u  [
+G2     2        e     u  ]
+measure 111
+C3     4        q     u
+rest   4        q
+rest   4        q
+measure 112
+rest  12
+measure 113
+rest  12
+measure 114
+rest  12
+measure 115
+rest  12
+measure 116
+rest  12
+measure 117
+rest  12
+measure 118
+rest  12
+measure 119
+rest  12
+measure 120
+rest  12
+measure 121
+rest  12
+measure 122
+rest  12
+measure 123
+rest  12
+measure 124
+rest  12
+measure 125
+rest  12
+measure 126
+rest  12
+measure 127
+rest  12
+measure 128
+rest  12
+measure 129
+rest   2        e
+G2     2        e     u  [
+C3     2        e     u  =
+C3     2        e     u  =
+C3     2        e     u  =
+G2     2        e     u  ]
+measure 130
+C3     2        e     u  [
+C3     1        s     u  =[
+C3     1        s     u  ]]
+C3     2        e     u  [
+C3     2        e     u  =
+G2     2        e     u  =
+G2     2        e     u  ]
+measure 131
+C3    12        h.    u        F 
+mheavy2
+/END

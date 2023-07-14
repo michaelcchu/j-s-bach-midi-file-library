@@ -1,0 +1,862 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/11/16} [KHM:3844022316]
+TIMESTAMP: DEC/26/2001 [md5sum:6c02927298620ce17b8927fd5a5cdb12]
+12/27/94 S. Rasmussen
+WK#:232       MV#:12
+Bach Gesellschaft vi
+Mass in B Minor
+Cum sancto Spiritu
+TENORE
+1 72 T
+Group memberships: score  sound
+score: part 16 of 18
+sound: part 17 of 19
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:4   T:3/4  C:34  D:Vivace
+rest   2        e
+A3     2        e     u                    Cum
+F#4    2        e     d                    san-
+D4     2        e     d                    cto
+E4     2        e     d  [                 Spi-
+F#4    1        s     d  ]\                -
+G4     1        s     d                    ri-
+measure 2
+F#4    2        e     d                    tu
+F#4    2        e     d                    in
+F#4    2        e     d                    glo-
+F#4    1        s     d                    ri-
+G4     1        s     d                    a
+A4     2        e     d                    De-
+A4     2        e     d                    i
+measure 3
+A4     2        e     d                    Pa-
+E4     2        e     d                    tris,
+rest   4        q
+rest   4        q
+measure 4
+rest   2        e
+E4     2        e     d                    in
+E4     2        e     d                    glo-
+E4     1        s     d                    ri-
+E4     1        s     d                    a
+E4     2        e     d                    De-
+E4     2        e     d                    i
+measure 5
+F#4   12-       h.    d        -           Pa-
+measure 6
+F#4   12-       h.    d        -           -
+measure 7
+F#4   12        h.    d                    -
+measure 8
+B3     2        e     d                    tris,
+E4     2        e     d                    in
+G#4    2        e #   d                    glo-
+E4     1        s     d                    ri-
+E4     1        s     d                    a
+B3     2        e     d                    De-
+E4     2        e     d                    i
+measure 9
+E4     2        e     d                    Pa-
+C#4    2        e     d                    tris,
+rest   4        q
+rest   4        q
+measure 10
+rest  12
+measure 11
+rest   2        e
+G#3    2        e #   u                    cum
+D4     2        e     d                    san-
+B3     2        e     d                    cto
+C#4    2        e     d  [                 Spi-
+D4     1        s     d  ]\                -
+E4     1        s     d                    ri-
+measure 12
+D4     2        e     d                    tu
+D4     2        e     d                    in
+D4     2        e     d                    glo-
+D4     1        s     d                    ri-
+D4     1        s     d                    a
+D4     2        e     d                    De-
+G#3    2        e #   u                    i
+measure 13
+A3    12        h.    u                    Pa-
+measure 14
+C#4   12-       h.    d        -           -
+measure 15
+C#4   12        h.    d                    -
+measure 16
+F#4    2        e     d                    tris,
+F#4    2        e     d                    in
+D#4    2        e #   d                    glo-
+D#4    1        s     d                    ri-
+D#4    1        s     d                    a
+B3     2        e     d                    De-
+B3     2        e     d                    i
+measure 17
+B3     2        e     d                    Pa-
+E4     2        e     d                    tris,
+rest   4        q
+rest   4        q
+measure 18
+rest  12
+measure 19
+rest   2        e
+F#3    2        e     u                    in
+F#3    1        s     u  [[    (           glo-
+G#3    1        s #   u  ]]                -
+A3     4        q     u        )           -
+G#3    1        s     u                    ri-
+F#3    1        s     u                    a
+measure 20
+C#4    2        e     d                    De-
+E4     1        s     d  [[                i_
+D4     1        s     d  ]]                _
+C#4    8        h     d                    Pa-
+measure 21
+A3     2        e     u                    tris,
+A3     2        e     u                    in
+A3     2        e     d  [                 glo-
+D4     2        e     d  =                 -
+C#4    2        e     d  =                 -
+B3     2-       e     d  ]     -           -
+measure 22
+B3     2        e     d  [                 -
+G#3    2        e #   d  =                 -
+B3     2        e     d  =                 -
+E4     2        e     d  =                 -
+D4     2        e     d  =                 -
+C#4    2-       e     d  ]     -           -
+measure 23
+C#4    2        e     d  [                 -
+A3     2        e     d  =                 -
+D4     2        e     d  =                 -
+F#4    2        e     d  =                 -
+E4     2        e     d  =                 -
+D4     2-       e     d  ]     -           -
+measure 24
+D4     2        e     d  [                 -
+B3     2        e     d  =                 -
+E4     2        e     d  =                 -
+G#4    2        e #   d  =                 -
+C#4    2        e     d  =                 -
+E4     2        e     d  ]                 -
+measure 25
+A3    12-       h.    u        -           -
+measure 26
+A3     4        q     u                    -
+A3     2        e     u                    ri-
+A3     2        e     u                    a
+A3     2        e     u                    De-
+A3     2        e     u                    i
+measure 27
+A3    12-       h.    u        -           Pa-
+measure 28
+A3    12-       h.    u        -           -
+measure 29
+A3     8-       h     u        -           -
+A3     2        e     u  [                 -
+B3     2        e     u  ]                 -
+measure 30
+E3     8        h     u                    tris,
+rest   2        e
+B3     2        e     d                    in
+measure 31
+C#4    2        e     d  [                 glo-
+A3     2        e     d  =                 -
+C#4    2        e     d  =                 -
+E4     2        e     d  ]                 -
+A3     4-       q     u        -           -
+measure 32
+A3     2        e     d  [                 -
+G#3    2        e #   d  =                 -
+B3     2        e     d  =                 -
+D4     2        e     d  ]                 -
+G#3    4-       q     u        -           -
+measure 33
+G#3    2        e     u  [                 -
+F#3    2        e     u  =                 -
+A3     2        e     u  =                 -
+C#4    2        e     u  ]                 -
+F#3    4-       q     u        -           -
+measure 34
+F#3    2        e     u                    -
+B3     4        q     d                    -
+B3     1        s     d                    ri-
+B3     1        s     d                    a
+B3     2        e     d                    De-
+B3     2        e     d                    i
+measure 35
+B3     2        e     d                    Pa-
+G#3    2        e #   u                    tris,
+rest   2        e
+B3     2        e     d  [                 De-
+C#4    2        e     d  ]                 -
+D4     2        e     d                    i
+measure 36
+C#4    1        s     d  [[                Pa-
+D4     1        s     d  ==                -
+C#4    1        s     d  ==                -
+B3     1        s     d  =]                -
+A3     2        e     d  ]                 -
+C#4    2        e     d                    tris,
+B3     2        e     d  [                 A-
+D4     2        e     d  ]                 -
+measure 37
+C#4    4        q     d                    men.
+rest   2        e
+E4     2        e     d                    Cum
+A4     2        e     d                    san-
+E4     2        e     d                    cto
+measure 38
+C#4    1        s     d  [[                Spi-
+B3     1        s     d  ==                -
+C#4    1        s     d  ==                -
+D4     1        s     d  =]                -
+E4     2        e     d  ]                 -
+C#4    2        e     d                    ri-
+E4     2        e     d                    tu
+C#4    2        e     d                    in
+measure 39
+A3     2        e     d  [                 glo-
+C#4    1        s     d  =[                -
+B3     1        s     d  ]]                -
+A3     2        e     d  [                 -
+C#4    2        e     d  =                 -
+D4     2        e     d  =                 -
+F#4    2        e     d  ]                 -
+measure 40
+B3     2        e     d  [                 -
+D4     1        s     d  =[                -
+C#4    1        s     d  ]]                -
+B3     2        e     d  [                 -
+D4     2        e     d  =                 -
+E4     2        e     d  =                 -
+G4     2        e     d  ]                 -
+measure 41
+C#4    2        e     d                    -
+E4     1        s     d                    ri-
+D4     1        s     d                    a
+C#4    2        e     d                    De-
+E4     2        e     d                    i
+A3     2        e     u                    Pa-
+G4     2        e     d                    tris,
+measure 42
+F#4    2        e     d                    A-
+E4     1        s     d  [[                men,_
+F#4    1        s     d  =]                _
+D4     2        e     d  ]                 _
+rest   2        e
+rest   1        s
+G3     1        s     u  [[                A-
+F#3    1        s     u  ==                -
+E3     1        s     u  ]]                -
+measure 43
+D3     1        s     u  [[                -
+C#3    1        s     u  ==                -
+D3     1        s     u  ==                -
+E3     1        s     u  ]]                -
+F#3    1        s     u  [[                -
+E3     1        s     u  ==                -
+D3     1        s     u  ==                -
+E3     1        s     u  ]]                -
+F#3    1        s     u  [[                -
+E3     1        s     u  ==                -
+D3     1        s     u  ==                -
+E3     1        s     u  ]]                -
+measure 44
+F#3    1        s     u  [[                -
+D3     1        s     u  ==                -
+E3     1        s     u  ==                -
+F#3    1        s     u  ]]                -
+G3     1        s     u  [[                -
+A3     1        s     u  ==                -
+B3     1        s     u  ==                -
+A3     1        s     u  ]]                -
+C#4    1        s     u  [[                -
+B3     1        s     u  ==                -
+A3     1        s     u  ==                -
+G3     1        s     u  ]]                -
+measure 45
+A3     1        s     u  [[                -
+G3     1        s     u  ==                -
+F#3    1        s     u  ==                -
+G3     1        s     u  ]]                -
+A3     1        s     u  [[                -
+B3     1        s     u  ==                -
+C#4    1        s     u  ==                -
+B3     1        s     u  ]]                -
+D4     1        s     u  [[                -
+C#4    1        s     u  ==                -
+B3     1        s     u  ==                -
+A3     1        s     u  ]]                -
+measure 46
+B3     1        s     u  [[                -
+A3     1        s     u  ==                -
+G#3    1        s #   u  ==                -
+A3     1        s     u  ]]                -
+B3     1        s     d  [[                -
+C#4    1        s     d  ==                -
+D4     1        s     d  ==                -
+C#4    1        s     d  ]]                -
+E4     1        s     d  [[                -
+D4     1        s     d  ==                -
+C#4    1        s     d  ==                -
+B3     1        s     d  ]]                -
+measure 47
+A3     1        s     d  [[                -
+C#4    1        s     d  ==                -
+D4     1        s     d  ==                -
+E4     1        s     d  ]]                -
+F#4    4-       q     d        -           -
+F#4    1        s     d  [[                -
+E4     1        s     d  ==                -
+D4     1        s     d  ==                -
+C#4    1        s     d  ]]                -
+measure 48
+B3     1        s     d  [[                -
+D4     1        s     d  ==                -
+C#4    1        s     d  ==                -
+B3     1        s     d  ]]                -
+E4     4-       q     d        -           -
+E4     1        s     d  [[                -
+D4     1        s     d  ==                -
+C#4    1        s     d  ==                -
+B3     1        s     d  ]]                -
+measure 49
+A3     1        s     d  [[                -
+C#4    1        s     d  ==                -
+B3     1        s     d  ==                -
+A3     1        s     d  ]]                -
+D4     1        s     d  [[                -
+F#4    1        s     d  ==                -
+E4     1        s     d  ==                -
+D4     1        s     d  ]]                -
+E4     2        e     d  [                 -
+G#3    2        e #   d  ]                 -
+measure 50
+A3     2        e     u                    men,
+E4     2        e     d                    cum
+A4     2        e     d                    san-
+E4     2        e     d                    cto
+C#4    1        s     d  [[                Spi-
+D4     1        s     d  =]                -
+E4     2-       e     d  ]     -           -
+measure 51
+E4     1        s     d  [[                -
+D4     1        s     d  ]]                -
+C#4    1        s     d  [[                ri-
+D4     1        s     d  ]]                -
+E4     2        e     d                    tu
+A3     2        e     u                    in
+A3     4-       q     u        -           glo-
+measure 52
+A3     2        e     u  [                 -
+G3     1        s     u  =[                -
+A3     1        s     u  ]]                -
+B3     1        s     u  [[                -
+C#4    1        s     u  ==                -
+A3     1        s     u  ==                -
+B3     1        s     u  ]]                -
+G3     4-       q     u        -           -
+measure 53
+G3     1        s     u  [[                -
+F#3    1        s     u  ]]                -
+E3     1        s     u                    ri-
+F#3    1        s     u                    a
+G3     1        s     u  [[                De-
+F#3    1        s     u  ]]                -
+E3     1        s     u  [[                i_
+D3     1        s     u  ]]                _
+E3     2        e     u                    Pa-
+C#4    2        e     d                    tris,
+measure 54
+D4     6        q.    d                    A-
+C#4    1        s     d  [[                -
+B3     1        s     d  =]                -
+A3     2        e     d  ]                 -
+A3     2        e     u                    men,
+measure 55
+A3     2        e     d  [                 A-
+D4     1        s     d  =[                -
+C#4    1        s     d  ]]                -
+D4     4-       q     d        -           -
+D4     1        s     d  [[                -
+B3     1        s     d  ==                -
+A3     1        s     d  ==                -
+G3     1        s     d  ]]                -
+measure 56
+F#3    2        e     u  [                 -
+A3     2        e     u  ]                 -
+D4     4-       q     d        -           -
+D4     1        s     d  [[                -
+C4     1        s n   d  ==                -
+B3     1        s     d  ==                -
+A3     1        s     d  ]]                -
+measure 57
+G3     4-       q     u        -           -
+G3     1        s     u  [[                -
+F#3    1        s     u  ==                -
+G3     1        s     u  ==                -
+F#3    1        s     u  ]]                -
+E3     2        e     u  [                 -
+A3     2-       e     u  ]     -           -
+measure 58
+A3     1        s     u  [[                -
+B3     1        s     u  ==                -
+C4     1        s n   u  ==                -
+B3     1        s     u  ]]                -
+A3     1        s     u  [[                -
+G3     1        s     u  ==                -
+F#3    1        s     u  ==                -
+G3     1        s     u  =]                -
+A3     2        e     u  ]                 -
+A3     2        e     u                    men,
+measure 59
+D4     2        e     u  [                 A-
+F#3    2        e     u  ]                 -
+B3     2        e     d                    men,
+G4     1        s     d  [[                A-
+F#4    1        s     d  =]                -
+E4     2        e     d  =                 -
+G4     2        e     d  ]                 -
+measure 60
+F#4    4-       q     d        -           -
+F#4    1        s     d  [[                -
+G4     1        s     d  ==                -
+E4     1        s     d  ==                -
+F#4    1        s     d  ]]                -
+D4     2        e     d  [                 -
+F#4    2        e     d  ]                 -
+measure 61
+E4     1        s     d  [[                -
+D4     1        s     d  ]]                -
+C#4    4        q     d                    -
+B3     1        s     d  [[                -
+C#4    1        s     d  =]                -
+A#3    2        e #   d  ]                 -
+F#3    2        e     u                    men,
+measure 62
+rest   2        e
+C#4    2        e     d                    in
+C#4    2        e     d                    glo-
+A#3    1        s #   u                    ri-
+A#3    1        s     u                    a
+F#3    2        e     u                    De-
+E4     2        e     d                    i
+measure 63
+D4     2        e     d  [                 Pa-
+G4     2        e     d  =                 -
+F#4    2        e     d  ]                 -
+E4     1        s     d  [[                tris,_
+D4     1        s     d  ]]                _
+E4     2        e     d  [                 A-
+C#4    2        e     d  ]                 -
+measure 64
+D4     4        q     d                    men,
+rest   4        q
+rest   4        q
+measure 65
+rest  12
+measure 66
+rest  12
+measure 67
+rest  12
+measure 68
+B3     8        h     d                    A-
+B3     4        q     d                    men,
+measure 69
+rest   2        e
+B3     2        e     d                    cum
+B3     2        e     d                    san-
+B3     2        e     d                    cto
+E4     2        e     d                    Spi-
+E4     2        e     d                    ri-
+measure 70
+C#4    4        q     d                    tu,
+rest   4        q
+rest   4        q
+measure 71
+rest  12
+measure 72
+F#3    8        h     u                    A-
+F#3    4        q     u                    men,
+measure 73
+rest   2        e
+C#4    2        e     d                    in
+G#3    2        e #   u                    glo-
+E#3    1        s #   u                    ri-
+E#3    1        s     u                    a
+C#3    2        e     u                    De-
+C#3    2        e     u                    i
+measure 74
+F#3    2        e     u                    Pa-
+A3     2        e     u                    tris,
+rest   4        q
+rest   2        e
+F#4    2        e     d                    in
+measure 75
+C#4    2        e     d                    glo-
+C#4    1        s     d                    ri-
+C#4    1        s     d                    a
+C#4    6        q.    d                    De-
+C#4    2        e     d                    i
+measure 76
+F#4   12-       h.    d        -           Pa-
+measure 77
+F#4   12        h.    d                    -
+measure 78
+D#4   12        h.#   d                    -
+measure 79
+G#3    8        h #   u                    tris,
+rest   2        e
+C#4    2        e     d                    in
+measure 80
+C#4    2        e     d                    glo-
+C#4    1        s     d                    ri-
+C#4    1        s     d                    a
+F#4    2        e     d                    De-
+C#4    2        e     d                    i
+D4     2        e     d  [                 Pa-
+C#4    2        e     d  ]                 -
+measure 81
+C#4    4        q     d                    tris;
+rest   4        q
+rest   4        q
+measure 82
+rest  12
+measure 83
+rest  12
+measure 84
+rest  12
+measure 85
+rest  12
+measure 86
+rest   2        e
+F#3    2        e     u                    cum
+B3     2        e     u                    san-
+F#3    2        e     u                    cto
+D3     1        s     u  [[                Spi-
+E3     1        s     u  ]]                -
+F#3    2        e     u                    ri-
+measure 87
+F#3    4        q     u                    tu,
+rest   4        q
+rest   4        q
+measure 88
+rest  12
+measure 89
+rest  12
+measure 90
+rest   4        q
+rest   2        e
+B3     2        e     d                    cum
+E4     2        e     d                    san-
+B3     2        e     d                    cto
+measure 91
+G#3    1        s #   u  [[                Spi-
+F#3    1        s     u  ==                -
+G#3    1        s     u  ==                -
+A3     1        s     u  =]                -
+B3     2        e     u  ]                 -
+G#3    2        e     u                    ri-
+B3     2        e     u                    tu
+G#3    2        e     u                    in
+measure 92
+E3     2        e     u  [                 glo-
+G#3    1        s #   u  =[                -
+F#3    1        s     u  ]]                -
+E3     2        e     u  [                 -
+G#3    2        e     u  =                 -
+A3     2        e     u  =                 -
+C#4    2        e     u  ]                 -
+measure 93
+F#3    2        e     u  [                 -
+A3     1        s     u  =[                -
+G#3    1        s #   u  ]]                -
+F#3    2        e     u  [                 -
+A3     2        e     u  =                 -
+B3     2        e     u  =                 -
+D4     2        e     u  ]                 -
+measure 94
+G#3    2        e #   u                    -
+B3     1        s     u                    ri-
+A3     1        s     u                    a
+G#3    2        e     u                    De-
+B3     2        e     u                    i
+E3     2        e     u                    Pa-
+E4     2        e     d                    tris,
+measure 95
+C#4    2        e     d                    A-
+B3     1        s     d  [[                men,_
+C#4    1        s     d  =]                _
+A3     2        e     d  ]                 _
+rest   2        e
+rest   1        s
+D4     1        s     d  [[                A-
+C#4    1        s     d  ==                -
+B3     1        s     d  ]]                -
+measure 96
+A3     1        s     u  [[                -
+G#3    1        s #   u  ==                -
+A3     1        s     u  ==                -
+B3     1        s     u  ]]                -
+C#4    1        s     d  [[                -
+B3     1        s     d  ==                -
+A3     1        s     d  ==                -
+B3     1        s     d  ]]                -
+C#4    1        s     d  [[                -
+B3     1        s     d  ==                -
+A3     1        s     d  ==                -
+B3     1        s     d  ]]                -
+measure 97
+C#4    1        s     d  [[                -
+B3     1        s     d  ==                -
+A3     1        s     d  ==                -
+B3     1        s     d  ]]                -
+C#4    1        s     d  [[                -
+D4     1        s     d  ==                -
+E4     1        s     d  ==                -
+D4     1        s     d  ]]                -
+F#4    1        s     d  [[                -
+E4     1        s     d  ==                -
+D4     1        s     d  ==                -
+C#4    1        s     d  ]]                -
+measure 98
+D4     1        s     d  [[                -
+C#4    1        s     d  ==                -
+B3     1        s     d  ==                -
+C#4    1        s     d  ]]                -
+D4     1        s     d  [[                -
+E4     1        s     d  ==                -
+F#4    1        s     d  ==                -
+E4     1        s     d  ]]                -
+G4     1        s     d  [[                -
+F#4    1        s     d  ==                -
+E4     1        s     d  ==                -
+D4     1        s     d  ]]                -
+measure 99
+E4     1        s     d  [[                -
+D4     1        s     d  ==                -
+C#4    1        s     d  ==                -
+D4     1        s     d  ]]                -
+E4     1        s     d  [[                -
+F#4    1        s     d  ==                -
+G4     1        s     d  ==                -
+F#4    1        s     d  ]]                -
+A4     1        s     d  [[                -
+G4     1        s     d  ==                -
+F#4    1        s     d  ==                -
+E4     1        s     d  ]]                -
+measure 100
+D4     6        q.    d                    -
+C#4    1        s     d  [[                men,_
+B3     1        s     d  =]                _
+A3     2        e     d  ]                 _
+A3     2-       e     u        -           A-
+measure 101
+A3     2        e     d  [                 -
+D4     1        s     d  =[                -
+C#4    1        s     d  ]]                -
+D4     4-       q     d        -           -
+D4     1        s     d  [[                -
+B3     1        s     d  ==                -
+A3     1        s     d  ==                -
+G3     1        s     d  ]]                -
+measure 102
+F#3    2        e     u                    -
+A3     2        e     u                    men,
+D4     4-       q     d        -           A-
+D4     1        s     d  [[                -
+C4     1        s n   d  ==                -
+B3     1        s     d  ==                -
+A3     1        s     d  ]]                -
+measure 103
+G3     4-       q     u        -           -
+G3     1        s     u  [[                -
+F#3    1        s     u  ==                -
+G3     1        s     u  ==                -
+F#3    1        s     u  ]]                -
+E3     2        e     u  [                 -
+A3     2-       e     u  ]     -           -
+measure 104
+A3     1        s     u  [[                -
+B3     1        s     u  ==                -
+C4     1        s n   u  ==                -
+B3     1        s     u  ]]                -
+A3     1        s     u  [[                -
+G3     1        s     u  ==                -
+F#3    1        s     u  ==                -
+G3     1        s     u  =]                -
+A3     2        e     u  ]                 -
+A3     2        e     u                    men,
+measure 105
+B3     1        s     d  [[                A-
+A3     1        s     d  ==                -
+B3     1        s     d  ==                -
+C4     1        s n   d  =]                -
+D4     2        e     d  ]                 -
+B3     2        e     d                    men,
+G4     1        s     d  [[                A-
+F#4    1        s     d  ==                -
+E4     1        s     d  ==                -
+D4     1        s     d  ]]                -
+measure 106
+E4     1        s     d  [[                -
+F#4    1        s     d  =]                -
+G4     2-       e     d  ]     -           -
+G4     1        s     d  [[                -
+F#4    1        s     d  ==                -
+E4     1        s     d  ==                -
+D4     1        s     d  ]]                -
+C#4    1        s #   d  [[     +          -
+B3     1        s     d  ==                -
+A3     1        s     d  ==                -
+G3     1        s     d  ]]                -
+measure 107
+A3     1        s     u  [[                -
+B3     1        s     u  ]]                -
+C#4    4        q     d                    -
+A3     2        e     u                    men,
+F#4    1        s     d  [[                A-
+E4     1        s     d  ==                -
+D4     1        s     d  ==                -
+C#4    1        s     d  ]]                -
+measure 108
+D#4    1        s #   d  [[                -
+E4     1        s     d  =]                -
+F#4    2-       e     d  ]     -           -
+F#4    1        s     d  [[                -
+E4     1        s     d  ==                -
+D#4    1        s     d  ==                -
+C#4    1        s     d  =]                -
+B3     2        e     d  ]                 -
+B3     2        e     d                    men,
+measure 109
+B3     1        s     u  [[                A-
+A3     1        s     u  ==                -
+G3     1        s     u  ==                -
+A3     1        s     u  =]                -
+B3     2        e     u  ]                 -
+B3     2        e     u                    men,
+F#4    2        e     d  [                 A-
+B3     2        e     d  ]                 -
+measure 110
+C#4    2        e     d  [                 -
+E4     1        s     d  =[                -
+D4     1        s     d  ==                -
+C#4    1        s     d  ==                -
+B3     1        s     d  ]]                -
+A3     2        e     u                    men,
+D4     2        e     d  [                 A-
+A3     2-       e     d  ]     -           -
+measure 111
+A3     2        e     d  [                 -
+D4     2        e     d  ]                 -
+F#4    2        e     d                    men,
+rest   2        e
+rest   4        q
+measure 112
+rest   2        e
+D4     2        e     d                    in
+D4     2        e     d                    glo-
+D4     1        s     d                    ri-
+D4     1        s     d                    a
+D4     2        e     d                    De-
+D4     2        e     d                    i
+measure 113
+D4    12-       h.    d        -           Pa-
+measure 114
+D4    12-       h.    d        -           -
+measure 115
+D4     8-       h     d        -           -
+D4     2        e     d  [                 -
+E4     2        e     d  ]                 -
+measure 116
+A3     8        h     u                    tris,
+rest   2        e
+A3     2        e     u                    in
+measure 117
+A3     2        e     d  [                 glo-
+D4     1        s     d  =[                -
+C#4    1        s     d  ]]                -
+D4     2        e     d  [                 -
+F#4    2        e     d  =                 -
+E4     2        e     d  =                 -
+D4     2-       e     d  ]     -           -
+measure 118
+D4     2        e     d  [                 -
+G4     2        e     d  =                 -
+B3     2        e     d  =                 -
+G4     2        e     d  =                 -
+F#4    2        e     d  =                 -
+E4     2-       e     d  ]     -           -
+measure 119
+E4     2        e     d  [                 -
+A4     2        e     d  =                 -
+C#4    2        e     d  =                 -
+A4     2        e     d  =                 -
+G4     2        e     d  =                 -
+F#4    2-       e     d  ]     -           -
+measure 120
+F#4    2        e     d  [                 -
+G4     2        e     d  =                 -
+D4     2        e     d  =                 -
+B3     2        e     d  =                 -
+C#4    2        e     d  =                 -
+D4     2        e     d  ]                 -
+measure 121
+C#4    2        e     d                    -
+C#4    1        s     d                    ri-
+B3     1        s     d                    a
+C#4    2        e     d                    De-
+C#4    2        e     d                    i
+D4     2        e     d  [                 Pa-
+A4     1        s     d  =[                -
+G4     1        s     d  ]]                -
+measure 122
+F#4    2        e     d                    -
+D4     2        e     d                    tris,
+rest   2        e
+A3     2        e     u                    in
+D4     4-       q     d        -           glo-
+measure 123
+D4     2        e     d  [                 -
+C#4    2        e     d  =                 -
+E4     2        e     d  ]                 -
+G4     2        e     d                    ri-
+C#4    4-       q     d        -           a_
+measure 124
+C#4    2        e     d                    _
+B3     2        e     d  [                 De-
+D4     2        e     d  ]                 -
+F#4    2        e     d                    i
+B3     4-       q     d        -           Pa-
+measure 125
+B3     2        e     d                    -
+E4     2        e     d                    tris,
+E4     2        e     d                    De-
+E4     2        e     d                    i
+A4     2        e     d                    Pa-
+A4     2        e     d                    tris,
+measure 126
+A4     2        e     d                    A-
+E4     2        e     d                    men,
+rest   2        e
+E4     2        e     d                    in 
+F#4    2        e     d                    glo-
+C#4    1        s     d                    ri-
+C#4    1        s     d                    a
+measure 127
+B3     1        s     d  [[                De-
+C#4    1        s     d  ]]                -
+D4     1        s     d  [[                i_
+E4     1        s     d  ]]                _
+F#4    2        e     d                    Pa-
+B3     2        e     d                    tris,
+E4     4        q     d                    A-
+measure 128
+F#4   12        h.    d        F           men.
+mheavy2
+/END

@@ -1,0 +1,543 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/21/15} [KHM:3937169722]
+TIMESTAMP: DEC/26/2001 [md5sum:0c66f0ece0e86e8a70b23ccd8f8598f9]
+05/22/95 S. Rasmussen
+WK#:232       MV#:23
+Bach Gesellschaft vi
+Mass in B minor
+Osanna
+BASSO 1
+1 72 B
+Group memberships: score  sound
+score: part 15 of 20
+sound: part 15 of 20
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:4   T:3/8  C:22
+D3     2        e     d                    O-
+measure 1
+A3     2        e     d                    san-
+A3     2        e     d                    na,
+A3     2        e     d                    o-
+measure 2
+D4     2        e     d                    san-
+A3     2        e     d                    na,
+rest   2        e
+measure 3
+rest   6
+measure 4
+rest   6
+measure 5
+rest   6
+measure 6
+rest   2        e
+rest   2        e
+D3     2        e     d                    o-
+measure 7
+A3     2        e     d                    san-
+A3     2        e     d                    na,
+A3     2        e     d                    o-
+measure 8
+D4     2        e     d  [                 san-
+A3     1        s     d  =[                -
+F#3    1        s     d  ==                -
+G3     1        s     d  ==                -
+E3     1        s     d  ]]                -
+measure 9
+F#3    2        e     d                    -
+G3     2        e     d                    na,
+A3     2        e     d                    o-
+measure 10
+D3     2        e     d                    san-
+D3     2        e     d                    na,
+F#3    2        e     d                    o-
+measure 11
+G3     2        e     d                    san-
+G2     2        e     u                    na,
+rest   2        e
+measure 12
+rest   2        e
+rest   2        e
+G3     2        e     d                    o-
+measure 13
+F#3    2        e     d                    san-
+E3     2        e     d                    na\0+in
+D3     2        e     d                    ex-
+measure 14
+A3     2        e     d                    cel-
+A3     2        e     d                    sis,
+rest   2        e
+measure 15
+rest   6
+measure 16
+rest   6
+measure 17
+rest   6
+measure 18
+rest   2        e
+rest   2        e
+G3     2        e     d                    o-
+measure 19
+A3     1        s     d  [[                san-
+G3     1        s     d  ==                -
+F#3    1        s     d  ==                -
+A3     1        s     d  ==                -
+G#3    1        s #   d  ==                -
+B3     1        s     d  ]]                -
+measure 20
+A3     1        s     d  [[                -
+G#3    1        s #   d  ==                -
+A3     1        s     d  ==                -
+B3     1        s     d  ==                -
+G#3    1        s     d  ==                -
+A#3    1        s #   d  ]]                -
+measure 21
+B3     2        e     d  [                 -
+F#3    1        s     d  =[                -
+B3     1        s     d  ==                -
+A#3    1        s #   d  ==                -
+C#4    1        s     d  ]]                -
+measure 22
+B3     1        s     d  [[                -
+A3     1        s n   d  ==     +          -
+B3     1        s     d  ==                -
+C#4    1        s     d  ==                -
+A3     1        s     d  ==                -
+B3     1        s     d  ]]                -
+measure 23
+C#4    1        s     d  [[                -
+B3     1        s     d  ==                -
+A3     1        s     d  ==                -
+C#4    1        s     d  ==                -
+B3     1        s     d  ==                -
+D4     1        s     d  ]]                -
+measure 24
+C#4    1        s     d  [[                -
+B3     1        s     d  ==                -
+C#4    1        s     d  ==                -
+D4     1        s     d  ==                -
+B3     1        s     d  ==                -
+C#4    1        s     d  ]]                -
+measure 25
+D4     2        e     d                    -
+F#3    2        e     d                    na\0+in
+A3     2        e     d                    ex-
+measure 26
+D3     1        s     d  [[                cel-
+C#3    1        s     d  ==                -
+D3     1        s     d  ==                -
+E3     1        s     d  ==                -
+F#3    1        s     d  ==                -
+G3     1        s     d  ]]                -
+measure 27
+A3     1        s     d  [[                -
+G3     1        s     d  ==                -
+A3     1        s     d  ==                -
+B3     1        s     d  ==                -
+C#4    1        s     d  ==                -
+A3     1        s     d  ]]                -
+measure 28
+D4     2        e     d                    -
+A3     2        e     d                    sis,
+A#3    2        e #   d                    o-
+measure 29
+B3     2        e     d                    san-
+E3     2        e     d                    na,
+F#3    2        e     d                    o-
+measure 30
+B2     1        s     u  [[                san-
+A#2    1        s #   u  ==                -
+B2     1        s     u  ==                -
+C#3    1        s     u  ==                -
+D3     1        s     u  ==                -
+E3     1        s     u  ]]                -
+measure 31
+F#3    1        s     d  [[                -
+E3     1        s     d  ==                -
+F#3    1        s     d  ==                -
+G#3    1        s #   d  ==                -
+A#3    1        s #   d  ==                -
+F#3    1        s     d  ]]                -
+measure 32
+B3     2        e     d                    -
+B2     2        e     u                    na,
+B3     2        e     d                    o-
+measure 33
+B3     2        e     d                    san-
+A3     2        e     d                    na\0+in
+D3     2        e     d                    ex-
+measure 34
+G2     1        s     u  [[                cel-
+F#2    1        s     u  ==                -
+G2     1        s     u  ==                -
+A2     1        s     u  ==                -
+B2     1        s     u  ==                -
+C3     1        s n   u  ]]                -
+measure 35
+D3     1        s     d  [[                -
+C3     1        s n   d  ==                -
+D3     1        s     d  ==                -
+E3     1        s     d  ==                -
+F#3    1        s     d  ==                -
+D3     1        s     d  ]]                -
+measure 36
+G3     2        e     d                    -
+D3     2        e     d                    sis,
+D#3    2        e #   d                    o-
+measure 37
+E3     2        e     d                    san-
+A2     2        e     u                    na,
+B2     2        e     u                    o-
+measure 38
+E3     1        s     u  [[                san-
+F#3    1        s     u  ==                -
+E3     1        s     u  ==                -
+D3     1        s     u  ==                -
+C#3    1        s     u  ==                -
+B2     1        s     u  ]]                -
+measure 39
+A2     2        e     u                    -
+C#3    2        e     u                    na\0+in
+E3     2        e     d                    ex-
+measure 40
+A3     2        e     d                    cel-
+A2     2        e     u                    sis,
+G3     2        e     d                    o-
+measure 41
+F#3    1        s     d                    san-
+G3     1        s     d                    na
+A3     2        e     d                    in
+A2     2        e     u                    ex-
+measure 42
+D3     2        e     u                    cel-
+D3     2        e     u                    sis,
+rest   2        e
+measure 43
+rest   6
+measure 44
+rest   6
+measure 45
+rest   6
+measure 46
+rest   6
+measure 47
+rest   6
+measure 48
+rest   6
+measure 49
+rest   6
+measure 50
+rest   2        e
+rest   2        e
+A2     2        e     u                    o-
+measure 51
+E3     2        e     d                    san-
+E3     2        e     d                    na\0+in
+E3     2        e     d                    ex-
+measure 52
+A3     2        e     d                    cel-
+E3     2        e     d                    sis,
+rest   2        e
+measure 53
+rest   6
+measure 54
+rest   2        e
+rest   2        e
+F#2    2        e     u                    o-
+measure 55
+C#3    2        e     u                    san-
+C#3    2        e     u                    na\0+in
+C#3    2        e     u                    ex-
+measure 56
+F#3    2        e     d                    cel-
+C#3    2        e     u                    sis,
+rest   2        e
+measure 57
+rest   6
+measure 58
+rest   2        e
+rest   2        e
+D3     2        e     d                    o-
+measure 59
+A3     2        e     d                    san-
+A3     2        e     d                    na,
+A3     2        e     d                    o-
+measure 60
+D4     2        e     d                    san-
+A3     2        e     d                    na,
+rest   2        e
+measure 61
+rest   6
+measure 62
+rest   2        e
+rest   2        e
+B3     2        e     d                    o-
+measure 63
+G3     1        s     d  [[                san-
+F#3    1        s     d  ==                -
+E3     1        s     d  ==                -
+G3     1        s     d  ==                -
+F#3    1        s     d  ==                -
+A3     1        s     d  ]]                -
+measure 64
+G3     1        s     d  [[                -
+F#3    1        s     d  ==                -
+G3     1        s     d  ==                -
+A3     1        s     d  ==                -
+F#3    1        s     d  ==                -
+G#3    1        s #   d  ]]                -
+measure 65
+A3     2        e     d  [                 -
+E3     1        s     d  =[                -
+A3     1        s     d  ==                -
+G#3    1        s #   d  ==                -
+B3     1        s     d  ]]                -
+measure 66
+A3     6-       q.    d        -           -
+measure 67
+A3     6-       q.    d        -           -
+measure 68
+A3     2        e     d                    -
+A3     2        e     d                    na,
+A3     2        e     d                    o-
+measure 69
+G3     2        e     d                    san-
+B3     2        e     d                    na\0+in
+D4     2        e     d                    ex-
+measure 70
+G3     2        e     d                    cel-
+G3     2        e     d                    sis,
+rest   2        e
+measure 71
+rest   2        e
+rest   2        e
+G3     2        e     d                    o-
+measure 72
+E3     2        e     d                    san-
+C#3    2        e     u                    na\0+in
+E3     2        e     d                    ex-
+measure 73
+F#3    2        e     d                    cel-
+F#3    2        e     d                    sis,
+rest   2        e
+measure 74
+rest   6
+measure 75
+rest   6
+measure 76
+rest   6
+measure 77
+rest   2        e
+rest   2        e
+B2     2        e     u                    o-
+measure 78
+E3     2        e     d                    san-
+G#3    2        e #   d                    na\0+in
+E3     2        e     d                    ex-
+measure 79
+A3     2        e     d                    cel-
+A2     2        e     u                    sis,
+rest   2        e
+measure 80
+rest   2        e
+rest   2        e
+A3     2        e     d                    o-
+measure 81
+A3     2        e     d                    san-
+A3     2        e     d                    na\0+in
+A3     2        e     d                    ex-
+measure 82
+D4     2        e     d                    cel-
+A3     2        e     d                    sis,
+rest   2        e
+measure 83
+rest   6
+measure 84
+rest   2        e
+rest   2        e
+A3     2        e     d                    o-
+measure 85
+D4     2        e     d                    san-
+D3     2        e     d                    na,
+rest   2        e
+measure 86
+rest   2        e
+rest   2        e
+A3     2        e     d                    o-
+measure 87
+C4     2        e n   d  [                 san-
+A3     2        e     d  =                 -
+F#3    2        e     d  ]                 -
+measure 88
+D#3    2        e #   d                    -
+D#3    2        e     d                    na,
+rest   2        e
+measure 89
+rest   2        e
+rest   2        e
+B3     2        e     d                    o-
+measure 90
+G3     2        e     d                    san-
+E3     2        e     d                    na\0+in
+G3     2        e     d                    ex-
+measure 91
+A3     6-       q.    d        -           cel-
+measure 92
+A3     2        e     d                    -
+A2     2        e     u                    sis,
+rest   2        e
+measure 93
+rest   6
+measure 94
+rest   2        e
+rest   2        e
+A3     2        e     d                    o-
+measure 95
+G3     2        e     d                    san-
+G3     2        e     d                    na\0+in
+F#3    2        e     d                    ex-
+measure 96
+E3     2        e     d                    cel-
+E3     2        e     d                    sis,
+rest   2        e
+measure 97
+rest   6
+measure 98
+rest   2        e
+rest   2        e
+G3     2        e     d                    o-
+measure 99
+F#3    2        e     d                    san-
+F#3    2        e     d                    na\0+in
+E3     2        e     d                    ex-
+measure 100
+D3     2        e     d                    cel-
+F#3    2        e     d                    sis,
+D3     2        e     d                    o-
+measure 101
+G3     2        e     d                    san-
+G2     2        e     u                    na,
+rest   2        e
+measure 102
+rest   2        e
+rest   2        e
+F#3    2        e     d                    o-
+measure 103
+B3     2        e     d                    san-
+G3     2        e     d                    na\0+in
+A3     2        e     d                    ex-
+measure 104
+D4     2        e     d                    cel-
+D3     2        e     d                    sis,
+rest   2        e
+measure 105
+rest   6
+measure 106
+rest   6
+measure 107
+rest   6
+measure 108
+rest   2        e
+rest   2        e
+D3     2        e     d         f          o-
+P    C33:Y-11
+measure 109
+A3     2        e     d                    san-
+A3     2        e     d                    na\0+in
+A3     2        e     d                    ex-
+measure 110
+D4     2        e     d                    cel-
+A3     2        e     d                    sis,
+G3     2        e     d                    o-
+measure 111
+F#3    2        e     d  [                 san-
+G3     2        e     d  =                 -
+A3     2        e     d  ]                 -
+measure 112
+D3     2        e     d                    -
+D3     2        e     d                    na,
+F#3    2        e     d         p          o-
+P    C33:Y-12
+measure 113
+G3     2        e     d                    san-
+G2     2        e     u                    na,
+rest   2        e
+measure 114
+rest   2        e
+A3     2        e     d         f          in
+P    C33:Y-14
+C#4    2        e     d                    ex-
+measure 115
+D4     2        e     d  [                 cel-
+F#3    2        e     d  =                 -
+A3     2        e     d  ]                 -
+measure 116
+D3     4        q     d                    sis.
+rest   2        e
+measure 117
+rest   6
+measure 118
+rest   6
+measure 119
+rest   6
+measure 120
+rest   6
+measure 121
+rest   6
+measure 122
+rest   6
+measure 123
+rest   6
+measure 124
+rest   6
+measure 125
+rest   6
+measure 126
+rest   6
+measure 127
+rest   6
+measure 128
+rest   6
+measure 129
+rest   6
+measure 130
+rest   6
+measure 131
+rest   6
+measure 132
+rest   6
+measure 133
+rest   6
+measure 134
+rest   6
+measure 135
+rest   6
+measure 136
+rest   6
+measure 137
+rest   6
+measure 138
+rest   6
+measure 139
+rest   6
+measure 140
+rest   6
+measure 141
+rest   6
+measure 142
+rest   6
+measure 143
+rest   6
+measure 144
+rest   6
+measure 145
+rest   6
+measure 146
+rest   6
+measure 147
+rest   6
+measure 148
+rest   6                       F
+mheavy2
+/END

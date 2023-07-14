@@ -1,0 +1,166 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/15/07} [KHM:2507095350]
+TIMESTAMP: DEC/26/2001 [md5sum:350ecbe686629dd18ddf0fd842c5ae85]
+02/11/95 S. Rasmussen
+WK#:232       MV#:16
+Bach Gesellschaft vi
+Mass in B Minor
+Et incarnatus est
+BASSO
+0 72 B
+Group memberships: score  sound
+score: part 7 of 8
+sound: part 7 of 8
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:2   T:3/4  C:22
+rest   6
+measure 2
+rest   6
+measure 3
+rest   6
+measure 4
+rest   6
+measure 5
+rest   6
+measure 6
+rest   6
+measure 7
+rest   6
+measure 8
+B3     2        q     d                    Et
+F#3    2        q     d                    in-
+D3     2        q     d                    car-
+measure 9
+B#2    4        h #   u                    na-
+B#2    2        q     u                    tus
+measure 10
+B2     4        h n   u         +          est
+B3     2        q     d                    de
+measure 11
+A3     2        q     d                    Spi-
+G#3    2        q #   d                    ri-
+F#3    2        q     d                    tu
+measure 12
+D3     6        h.    d                    san-
+measure 13
+C#3    4        h     u                    cto
+rest   2        q
+measure 14
+rest   2        q
+F#3    2        q     d                    ex
+F#3    2        q     d                    Ma-
+measure 15
+E3     4        h     d                    ri-
+E3     2        q     d                    a
+measure 16
+D#3    2        q #   d        (           vir-
+G#3    2        q #   d        )           -
+F#3    2        q     d                    gi-
+measure 17
+E#3    2        q #   d                    ne,
+F#3    2        q     d                    ex
+G#3    2-       q #   d        -           Ma-
+measure 18
+G#3    2        q     d                    -
+A3     2        q     d                    ri-
+B3     2        q     d                    a
+measure 19
+C#4    4        h     d                    vir-
+C#3    2        q     u                    gi-
+measure 20
+F#3    4        h     d                    ne,
+rest   2        q
+measure 21
+rest   6
+measure 22
+rest   6
+measure 23
+rest   6
+measure 24
+rest   6
+measure 25
+rest   6
+measure 26
+rest   6
+measure 27
+C#4    2        q     d                    et
+A3     2        q     d                    in-
+F#3    2        q     d                    car-
+measure 28
+D#3    4        h #   d                    na-
+D#3    2        q     d                    tus
+measure 29
+E3     4        h     d                    est
+E3     2        q     d                    de
+measure 30
+A#2    4        h #   u                    Spi-
+A#3    2        q #   d                    ri-
+measure 31
+B3     2        q     d                    tu
+E#3    4        h #   d                    san-
+measure 32
+F#3    2        q     d                    cto
+rest   2        q
+rest   2        q
+measure 33
+rest   2        q
+B3     2        q     d                    ex
+B3     2        q     d                    Ma-
+measure 34
+A3     4        h     d                    ri-
+A3     2        q     d                    a
+measure 35
+G#3    2        q #   d        (           vir-
+C#4    2        q     d        )           -
+B3     2        q     d                    gi-
+measure 36
+A#3    2        q #   d                    ne,
+B3     2        q     d                    ex
+C#4    2-       q     d        -           Ma-
+measure 37
+C#4    2        q     d                    -
+D4     2        q     d                    ri-
+E#3    2        q #   d                    a
+measure 38
+F#3    4        h     d                    vir-
+F#3    2        q     d                    gi-
+measure 39
+B2     2        q     u                    ne,
+rest   2        q
+rest   2        q
+measure 40
+rest   6
+measure 41
+rest   6
+measure 42
+B2     2        q     u                    et
+D3     2        q     d        (           ho-
+E3     2        q     d        )           -
+measure 43
+C#3    2        q     u                    mo
+E3     2        q     d        (           fa-
+F#3    2        q     d        )           -
+measure 44
+D3     2        q     d                    ctus
+F#3    2        q     d        (           est,_
+G3     2        q     d        )           _
+measure 45
+E3     6-       h.    d        -           ho-
+measure 46
+E3     6-       h.    d        -           -
+measure 47
+E3     1        e     d  [                 -
+G3     1        e     d  =                 -
+F#3    1        e     d  =                 -
+E3     1        e     d  ]                 -
+D#3    1        e #   d  [                 mo_
+E3     1        e     d  ]                 _
+measure 48
+A#2    4        h #   u                    fa-
+A#2    2        q     u                    ctus
+measure 49
+B2     6        h.    u        F           est.
+mheavy2
+/END

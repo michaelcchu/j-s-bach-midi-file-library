@@ -1,0 +1,555 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/14/06} [KHM:3515421732]
+TIMESTAMP: DEC/26/2001 [md5sum:0485f30bed234c8e0acfbd8e0860b9c2]
+01/31/95 S. Rasmussen
+WK#:232       MV#:15
+Bach Gesellschaft vi
+Mass in B Minor
+Duetto: Et in unum Dominum
+SOPRANO
+1 76 S
+Group memberships: score  sound
+score: part 6 of 8
+sound: part 6 of 8
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:1   Q:8   T:0/0  C:4  D:Andante
+rest  32
+measure 2
+rest  32
+measure 3
+rest  32
+measure 4
+rest  32
+measure 5
+rest  32
+measure 6
+rest  32
+measure 7
+rest  32
+measure 8
+rest  32
+measure 9
+G4     8        q     u                    Et
+rest   4        e
+G4     4        e     u                    in
+A4     4        e     u                    u-
+G4     4        e     u                    num,
+rest   4        e
+G4     4        e     u                    in
+measure 10
+A4     4        e     u                    u-
+B4     4        e     u                    num
+C5     8-       q     d        -           Do-
+C5     4        e     d  [                 -
+B4     2        s     d  =[                -
+A4     2        s     d  ]]                -
+C5     2        s     u  [[                -
+B4     2        s     u  ==                -
+A4     2        s     u  ==                -
+G4     2        s     u  ]]                -
+measure 11
+A4     4        e     u  [                 -
+D4     4        e     u  ]                 -
+D5     8-       q     d        -           -
+D5     4        e     d  [                 -
+C5     2        s     d  =[                -
+B4     2        s     d  ]]                -
+D5     2        s     d  [[                -
+C5     2        s     d  ==                -
+B4     2        s     d  ==                -
+A4     2        s     d  ]]                -
+measure 12
+B4     4        e     u  [                 -
+E4     4        e     u  ]                 -
+E5     8-       q     d        -           -
+E5     4        e     d  [                 -
+D5     2        s     d  =[                -
+C5     2        s     d  ]]                -
+E5     2        s     d  [[                -
+D5     2        s     d  ==                -
+C5     2        s     d  ==                -
+B4     2        s     d  ]]                -
+measure 13
+C5     2        s     d  [[                -
+B4     2        s     d  ==                -
+C5     2        s     d  ==                -
+E5     2        s     d  ]]                -
+D5     2        s     d  [[                -
+C5     2        s     d  ==                -
+B4     2        s     d  ==                -
+A4     2        s     d  ]]                -
+B4     2        s     d  [[                -
+A4     2        s     d  ==                -
+B4     2        s     d  ==                -
+D5     2        s     d  ]]                -
+C5     2        s     d  [[                -
+B4     2        s     d  ==                -
+A4     2        s     d  ==                -
+G4     2        s     d  ]]                -
+measure 14
+A4     4        e     u                    -
+C5     2        s     d                    mi-
+B4     2        s     d                    num
+C5     8-       q     d        -           Je-
+C5     4        e     d  [                 -
+B4     4        e     d  =                 -
+C#5    4        e #   d  =                 -
+D5     4        e     d  ]                 -
+measure 15
+E5     4        e     d                    -
+D5     2        s     d  [[                sum_
+C#5    2        s #   d  ]]                _
+D5     4        e     d  [                 Chri-
+E5     4        e     d  ]                 -
+A4     4        e     u                    stum,
+rest   4        e
+A5     8-       q     d        -           Je-
+measure 16
+A5     4        e     d                    -
+F#5    2        s     d  [[                sum,_
+D5     2        s     d  ]]                _
+E5     2        s     d  [[                Je-
+C#5    2        s #   d  ==                -
+A4     2        s     d  ==                -
+C#5    2        s     d  =]                -
+D5     6        e.    d  ]                 -
+E5     2        s     d                    sum
+C#5    6        e.    d  [     (           Chri-
+D5     2        s     d  ]\    )           -
+measure 17
+D5     8        q     d                    stum,
+D5     4        e     d                    Fi-
+D5     2        s     d                    li-
+D5     2        s     d                    um
+D5     4        e     d                    De-
+C#5    2        s #   d  [[                i_
+B4     2        s     d  ]]                _
+C#5    4        e     d                    u-
+C#5    4        e     d                    ni-
+measure 18
+C#5    2        s #   d                    ge-
+A#4    2        s #   u                    ni-
+B4     4        e     u                    tum,
+rest   8        q
+rest  16        h
+measure 19
+B4     8        q     u                    et
+rest   4        e
+B4     4        e     u                    in
+B4     4        e     u                    u-
+A4     4        e     u                    num
+rest   8        q
+measure 20
+A4    16-       h     u        -           Do-
+A4     2        s     u                    -
+G4     2        s     u                    mi-
+G4     4        e     u                    num
+rest   8        q
+measure 21
+D5    12        q.    d                    Je-
+D5     4        e     d                    sum
+D5     4        e     d                    Chri-
+C5     4        e     d                    stum,
+rest   8        q
+measure 22
+C5    16-       h     d        -           Je-
+C5     4        e     d  [                 -
+B4     2        s     d  =[                -
+A4     2        s     d  ]]                -
+D5     2        s     d  [[                -
+C5     2        s     d  ]]                -
+B4     2        s     u  [[                sum_
+A4     2        s     u  ]]                _
+measure 23
+G4     4        e     u                    Chri-
+D4     4        e     u                    stum,
+G4     4        e     u                    et
+B4     4        e     u                    in
+A4     4        e     u                    u-
+A4     4        e     u                    num
+A4     2        s     d  [[                Do-
+E5     2        s     d  ==                -
+D5     2        s     d  ==                -
+C5     2        s     d  ]]                -
+measure 24
+B4     2        s     u                    -
+A4     2        s     u                    mi-
+B4     4        e     u                    num,
+rest   4        e
+D5     4        e     d                    in
+C#5    4        e #   d                    u-
+C#5    4        e     d                    num
+C#5    2        s     d  [[                Do-
+G5     2        s     d  ==                -
+F#5    2        s     d  ==                -
+E5     2        s     d  ]]                -
+measure 25
+D5     2        s     d                    -
+C#5    2        s #   d                    mi-
+D5     4        e     d                    num
+G5     4        e     d                    Je-
+E5     4        e     d                    sum
+C#5    4        e     d                    Chri-
+B4     2        s     u  [[                stum,_
+A4     2        s     u  ]]                _
+F#5    8-       q     d        -           Fi-
+measure 26
+F#5    4        e     d                    -
+G4     2        s     u                    li-
+F#4    2        s     u                    um
+G4     8-       q     u        -           De-
+G4     4        e     d  [                 -
+E5     2        s     d  =[                -
+D5     2        s     d  =]                -
+E5     4        e     d  ]                 -
+G4     4        e     u                    i
+measure 27
+F#4    2        s     u  [[                u-
+A4     2        s     u  ]]                -
+B4     2        s     d  [[                ni-
+C#5    2        s #   d  ]]                -
+D5     8-       q     d        -           ge-
+D5     4        e     d  [                 -
+C#5    2        s     d  =[                -
+B4     2        s     d  =]                -
+C#5    6        e.    d  ]                 -
+D5     2        s     d                    ni-
+measure 28
+D5     8        q     d                    tum;
+rest   8        q
+rest  16        h
+measure 29
+rest  32
+measure 30
+rest  32
+measure 31
+rest  32
+measure 32
+rest  32
+measure 33
+rest  32
+measure 34
+A4     8        q     u                    et
+rest   4        e
+A4     4        e     u                    ex
+B4     4        e     u                    Pa-
+A4     4        e     u                    tre,
+rest   4        e
+A4     4        e     u                    ex
+measure 35
+B4     4        e     u                    Pa-
+D5     2        s     d  [[                tre_
+C5     2        s     d  ]]                _
+D5     8-       q     d        -           na-
+D5     2        s     d  [[                -
+B4     2        s     d  ]]                -
+C5     4        e     d                    tum,
+rest   8        q
+measure 36
+E4     8        q     u                    et
+rest   4        e
+E4     4        e     u                    ex
+B4     2        s     u  [[                Pa-
+G4     2        s     u  ]]                -
+E4     4        e     u                    tre,
+rest   4        e
+E4     4        e     u                    ex
+measure 37
+F#4    4        e     u                    Pa-
+G4     4        e     u                    tre
+A4    12        q.    u                    na-
+G4     4        e     u                    tum
+C5     4        e     d                    an-
+B4     4        e     d                    te
+measure 38
+A#4    2        s #   u  [[                o-
+F#4    2        s     u  ==                -
+F#4    1        t     u  ==[    t          -
+S  C33:men3s33t67 
+E4     1        t     u  ==]               -
+F#4    2        s     u  ]]                -
+B4     8-       q     u        -           -
+B4     4        e     u  [                 -
+A#4    2        s #   u  =[     +          -
+G#4    2        s #   u  ]]                -
+A#4    2        s     u  [[                -
+F#4    2        s     u  ==                -
+B4     2        s     u  ==                -
+C#5    2        s #   u  ]]                -
+measure 39
+D5     4        e     d                    -
+C#5    4        e #   d                    mni-
+B4     4        e     u  [                 a_
+A#4    4        e #   u  ]                 _
+B4    16-       h     u        -           sae-
+measure 40
+B4     4        e     u  [                 -
+A4     4        e n   u  ]      +          -
+G4     8-       q     u        -           -
+G4     2        s     u                    -
+F#4    2        s     u                    cu-
+F#4    4        e     u                    la,
+E5     4        e     d                    an-
+D5     2        s     d  [[                te_
+C#5    2        s #   d  ]]                _
+measure 41
+D5     2        s     d  [[                o-
+E5     2        s     d  ]]                -
+F#5    2        s     d                    mni-
+D5     2        s     d                    a
+B4     8-       q     d        -           sae-
+B4     6        e.    d  [                 -
+C#5    2        s #   d  ]\                -
+A#4    6        e.#   u  [                 cu-
+B4     2        s     u  ]\                -
+measure 42
+B4     8        q     u                    la;
+rest   8        q
+rest  16        h
+measure 43
+rest  32
+measure 44
+rest  32
+measure 45
+rest  32
+measure 46
+rest  32
+measure 47
+rest  32
+measure 48
+rest   8        q
+D5     4        e     d                    De-
+B4     4        e     d                    um
+rest   4        e
+D5     4        e     d                    de
+E5     4        e     d                    De-
+D5     4        e     d                    o,
+measure 49
+rest   8        q
+B4     4        e     d                    lu-
+D5     2        s     d                    men
+C#5    2        s #   d                    de
+D5    16-       h     d        -           lu-
+measure 50
+D5     2        s     d                    -
+B4     2        s     d                    mi-
+C5     4        e n   d         +          ne,
+rest   4        e
+A4     8        q     u                    De-
+A4     4        e     u                    um
+B4     4        e     u                    ve-
+A4     4        e     u                    rum
+measure 51
+rest   4        e
+E4     4        e     u                    de
+F#4    4        e     u                    De-
+G#4    4        e #   u                    o
+A4    16-       h     u        -           ve-
+measure 52
+A4     4        e     u                    -
+G4     4        e n   u         +          ro
+C5     4        e     d                    ge-
+B4     4        e     d                    ni-
+A4     4        e     u                    tum,
+F#4    4        e     u                    non
+B4     8-       q     u        -           fa-
+measure 53
+B4     4        e     u                    -
+A4     2        s     u  [[                ctum,_
+G4     2        s     u  ]]                _
+A4     4        e     u                    con-
+B4     4        e     d                    sub-
+C5     4        e     d                    stan-
+B4     4        e     d                    ti-
+A4     4        e     u                    a-
+G#4    4        e #   u                    lem
+measure 54
+A4    12        q.    u                    Pa-
+G4     4        e n   u         +          -
+F#4   16-       h     u        -           -
+measure 55
+F#4    4        e     u                    -
+E4     4        e     u                    tri,
+C5     4        e     d                    per
+B4     2        s     u  [[                quem_
+A4     2        s     u  ]]                _
+B4     2        s     d  [[                o-
+E5     2        s     d  ]]                -
+C5     2        s     d                    mni-
+A4     2        s     u                    a
+F#4    6        e.    u                    fa-
+E4     2        s     u                    cta
+measure 56
+E4     8        q     u                    sunt,
+E5     2        s     d  [[                De-
+D#5    2        s #   d  ]]                -
+E5     4        e     d                    um
+rest   8        q
+F#5    4        e     d                    ve-
+E5     4        e     d                    rum
+measure 57
+rest   4        e
+D5     4        e     d                    de
+D5     2        s     d  [[                De-
+C5     2        s     d  ]]                -
+D5     4        e     d                    o
+rest   4        e
+D5     6        e.    d  [                 ve-
+E5     2        s     d  ]\                -
+C5     4        e     d                    ro,
+measure 58
+rest   4        e
+E4     4        e     u                    de
+C5    16        h     d                    De-
+B4     4        e     u  [                 o_
+A4     4        e     u  ]                 _
+measure 59
+G4    16-       h     u        -           ve-
+G4     4        e     u  [                 -
+F#4    4        e     u  ]                 -
+F#4    8        q     u                    ro,
+measure 60
+rest  16        h
+rest   4        e
+F#4    4        e     u                    per
+F#5    4        e     d                    quem
+F#5    4-       e     d        -           o-
+measure 61
+F#5    4        e     d  [                 -
+E5     2        s     d  =[                -
+D#5    2        s #   d  ]]                -
+E5     2        s     d  [[                -
+D5     2        s n   d  ]]                -
+C5     2        s     d  [[                mni-
+B4     2        s     d  ]]                -
+A#4    4        e #   u                    a
+B4     2        s     d  [[                fa-
+A4     2        s n   d  =]                -
+B4     4        e     d  ]                 -
+C5     4        e     d                    cta,
+measure 62
+G4     8        q     u        (           fa-
+F#4    2        s     u  [[                -
+E4     2        s     u  ]]    )           -
+F#4    4        e     u                    cta
+E4     8        q     u                    sunt;
+rest   8        q
+measure 63
+rest  32
+measure 64
+rest  32
+measure 65
+rest   4        e
+A4     4        e     u                    qui
+A4     4        e     u                    pro-
+A4     2        s     u                    pter
+A4     2        s     u                    nos
+A4    12        q.    u                    ho-
+E4     4        e     u                    mi-
+measure 66
+E4     8        q     u                    nes
+rest   8        q
+A4     4        e     u                    et
+E5     2        s     d                    pro-
+D5     2        s     d                    pter
+C5     2        s     d  [[                no-
+B4     2        s     d  ]]                -
+A4     2        s     u                    stram
+G4     2        s     u                    sa-
+measure 67
+F#4    2        s     u  [[                lu-
+E4     2        s     u  ]]                -
+D4     4        e     u                    tem,
+D5     4        e     d                    pro-
+D5     4        e     d                    pter
+D5     6        e.    d  [                 no-
+E5     1        t     d  =[[               -
+F5     1        t n   d  ]]]               -
+E5     2        s     d  [[                stram_
+D5     2        s     d  ]]                _
+C5     2        s     d  [[                sa-
+B4     2        s     d  ]]                -
+measure 68
+E5     4        e     d  [                 lu-
+C5     4        e     d  ]                 -
+E5     4        e     d                    tem
+G5     4        e     d                    de-
+C5     6        e.    d  [     (           scen-
+D5     1        t     d  =[[               -
+E5     1        t     d  =]]               -
+D5     4        e     d  ]     )           -
+C5     2        s     d                    dit
+C5     2        s     d                    de
+measure 69
+C5     4        e     d                    coe-
+B4     4        e     d                    lis,
+rest   8        q
+rest   4        e
+F#4    4        e     u                    qui
+G4     4        e     u                    pro-
+A4     4        e     u                    pter
+measure 70
+Bf4    4        e f   d                    nos
+Ef5    4        e f   d                    et
+D5     4        e     d                    pro-
+C5     4        e     d                    pter
+Bf4    8        q     d                    no-
+B4     4        e n   d                    stram
+C5     4        e     d                    sa-
+measure 71
+D5     4        e     d  [                 lu-
+Ef5    4        e f   d  ]                 -
+F5     4        e n   d                    tem
+D5     4        e     d                    de-
+B4     4        e n   u  [      +          scen-
+G4     4        e     u  ]                 -
+B4     4        e     u                    dit,
+D5     4        e     d                    de-
+measure 72
+Ef5    6        e.f   d  [                 scen-
+F5     1        t n   d  =[[               -
+G5     1        t     d  ]]]               -
+C5     4        e     d                    dit,
+Ef5    4        e     d                    de-
+Ef5    8        q     d                    scen-
+D5     4        e     d                    dit
+C5     4        e     d                    de
+measure 73
+Bf4   16        h f   u                    coe-
+A4     8        q     u                    lis,
+rest   8        q
+measure 74
+D4     4        e     u                    et
+F#4    4        e     u                    qui
+F#4    4        e     u                    pro-
+A4     4        e     u                    pter
+A4     4        e     u                    no-
+C5     2        s     d                    stram
+Bf4    2        s f   d                    sa-
+C5     8-       q     d        -           lu-
+measure 75
+C5     4        e     d                    -
+Bf4    2        s f   d  [[                tem_
+A4     2        s     d  =]                _
+Bf4    4        e     d  ]                 _
+G4     4        e     u                    de-
+G4    16-       h     u        -           scen-
+measure 76
+G4     4        e     u                    -
+F#4    2        s     u                    dit
+E4     2        s     u                    de
+F#4    8        q     u                    coe-
+G4     8        q     u                    lis.
+rest   8        q
+measure 77
+rest  32
+measure 78
+rest  32
+measure 79
+rest  32
+measure 80
+rest  32
+mheavy2
+/END

@@ -1,0 +1,537 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/02/02} [KHM:2509239614]
+TIMESTAMP: DEC/26/2001 [md5sum:35911e03012288fbd2c15f14b008506c]
+10/10/94 S. Rasmussen
+WK#:232       MV#:2
+Bach Gesellschaft vi
+Mass in B Minor
+Duetto: Christe 
+SOPRANO 1
+1 76 S
+Group memberships: score  sound
+score: part 2 of 4
+sound: part 2 of 4
+& 
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:24   T:1/1  C:4
+rest  96
+measure 2
+rest  96
+measure 3
+rest  96
+measure 4
+rest  96
+measure 5
+rest  96
+measure 6
+rest  96
+measure 7
+rest  96
+measure 8
+rest  96
+measure 9
+rest  96
+measure 10
+A4    48-       h     u        -           Chri-
+A4    24        q     u                    -
+C5     6        s n   d  [[                -
+B4     6        s     d  ]]                -
+C5    12        e     d                    ste,
+measure 11
+C5    12        e n   d                    Chri-
+B4    12        e     d                    ste
+rest  12        e
+B4    12        e     d                    e-
+E4    12        e     u  [                 lei-
+G4     6        s     u  =[                -
+F#4    6        s     u  ]]                -
+G4    12        e     u  [                 -
+B4     4        s  3  u  =[    *           -
+A4     4        s  3  u  ==                -
+G4     4        s  3  u  ]]    !           -
+measure 12
+G4    12        e     u  [                 -
+F#4   12        e     u  ]                 -
+F#4   12        e     u                    son,
+G4    12        e     u                    e-
+A4     6        s     u  [[                lei-
+B4     6        s     u  ]]                -
+C5    24        q n   d                    -
+B4     6        s     u  [[                -
+A4     6        s     u  ]]                -
+measure 13
+B4    12        e     d  [                 -
+C#5    6        s     d  =[    +           -
+D5     6        s     d  ]]                -
+E5    24-       q     d        -           -
+E5    12        e     d  [                 -
+C#5   12        e     d  ]                 -
+D5    12        e     d                    son,
+rest  12        e
+measure 14
+rest  24        q
+F#5   24-       q     d        -           Chri-
+F#5   12        e     d                    -
+E5     6        s     d  [[                ste,_
+D5     6        s     d  ]]                _
+E5     6        s     d  [[                Chri-
+D5     6        s     d  ]]                -
+C#5    6        s     d                    ste
+B4     6        s     d                    e-
+measure 15
+E5    48-       h     d        -           le-
+E5    12        e     d                    -
+A4    12        e     u                    i-
+B4    12        e     d                    son,
+C#5   12        e     d                    e-
+measure 16
+D5    48-       h     d        -           le-
+D5    12        e     d                    -
+B4    12        e     d                    i-
+G#4   12        e #   u                    son,
+D5    12        e     d                    e-
+measure 17
+C#5    6        s     u  [[                lei-
+B4     6        s     u  ==                -
+A4     6        s     u  ==                -
+G#4    6        s #   u  ]]                -
+A4     6        s     d  [[                -
+B4     6        s     d  =]                -
+C5    12-       e n   d  ]     -           -
+C5    12        e     d  [                 -
+B4     6        s     d  =[                -
+C5     6        s     d  ]]                -
+D5    12        e     d  [                 -
+B4    12        e     d  ]                 -
+measure 18
+A4    12        e     u  [                 -
+G#4   12        e #   u  ]                 -
+G#4   12        e     u                    son,
+rest  12        e
+C#5   48-       h     d        -           Chri-
+measure 19
+C#5   24        q     d                    -
+E5     6        s     d  [[                -
+D5     6        s     d  ]]                -
+E5    12        e     d                    ste,
+E5    12        e     d                    Chri-
+D5    12        e     d                    ste
+rest  12        e
+D5    12        e     d                    e-
+measure 20
+G#4   12        e #   u  [                 le-
+B4     6        s     u  =[                -
+A4     6        s     u  ]]                -
+B4    12        e     d  [                 -
+D5     4        s  3  d  =[    *           -
+C#5    4        s  3  d  ==                -
+B4     4        s  3  d  ]]    !           -
+B4    12        e     d                    -
+A4    12        e     u                    i-
+A4    12        e     u                    son,
+B4    12        e     d                    e-
+measure 21
+C#5    6        s     d  [[                lei-
+D5     6        s     d  ]]                -
+E5    24        q     d                    -
+D5     6        s     d  [[                -
+C#5    6        s     d  ]]                -
+D5     6        s     d  [[                -
+C#5    6        s     d  ==                -
+B4     6        s     d  ==                -
+C#5    6        s     d  ]]                -
+D5     6        s     d  [[                -
+E5     6        s     d  =]                -
+F5    12-       e n   d  ]     -           -
+measure 22
+F5    12        e     d  [                 -
+E5    12        e     d  ]                 -
+gD5    6        e     u        ( 
+S  C1:t50 
+C#5   12        e     d        )           son,
+rest  12        e
+rest  48        h
+measure 23
+rest  24        q
+F#5   24-       q     d        -+          Chri-
+F#5   12        e     d                    -
+E5     6        s     d  [[                ste,_
+D#5    6        s #   d  ]]                _
+E5     6        s     d  [[                Chri-
+D#5    6        s     d  ]]                -
+C#5    6        s     d                    ste
+B4     6        s     d                    e-
+measure 24
+E5    48-       h     d        -           le-
+E5    12        e     d                    -
+D#5   12        e #   d                    i-
+E5    12        e     d                    son,
+F#5   12        e     d                    e-
+measure 25
+B4    48-       h     d        -           le-
+B4    12        e     d                    -
+G#4   12        e #   u                    i-
+E4    12        e     u                    son,
+B4    12        e     d                    e-
+measure 26
+A4    12        e     u  [                 lei-
+B4    12        e     u  ]                 -
+C5    24-       q n   d        -           -
+C5    12        e     d  [                 -
+B4    12        e     d  ]                 -
+B4    12        e     d                    son,
+rest  12        e
+measure 27
+rest  48        h
+D5    48-       h     d        -           Chri-
+measure 28
+D5    24        q     d                    -
+C#5    6        s     d  [[                -
+D5     6        s     d  ]]                -
+B4    12        e     d                    ste,
+C#5   12        e     d                    Chri-
+B4     6        s     d                    ste
+A4     6        s     u                    e-
+E5    24-       q     d        -           le-
+measure 29
+E5    12        e     d                    -
+E5    12        e     d                    i-
+D5     6        s     d  [[                son,_
+E5     6        s     d  ]]                _
+C#5   12        e     d                    e-
+D5    24-       q     d        -           le-
+D5     6        s     d  [[                -
+B4     6        s     d  =]                -
+C#5   12-       e     d  ]     -           -
+measure 30
+C#5    6        s     d  [[                -
+D5     6        s     d  =]                -
+B4    12-       e     d  ]     -           -
+B4     6        s     u  [[                -
+G#4    6        s #   u  =]                -
+A4    12-       e     u  ]     -           -
+A4    12        e     d  [                 -
+D#5    6        s #   d  =[                -
+E5     6        s     d  ]]                -
+F#5   12        e     d  [                 -
+E5     6        s     d  =[                -
+D#5    6        s     d  ]]                -
+measure 31
+E5    12        e     d                    -
+D5    12        e     d        +           i-
+C#5   12        e     d                    son,
+F#5   12        e     d                    e-
+B4    48-       h     d        -           le-
+measure 32
+B4    12        e     d                    -
+A4     6        s     u  [[                i-
+G#4    6        s #   u  ]]                -
+A4    12        e     u                    son,
+B4    12        e     d                    e-
+E4    12        e     u        (           le-
+A4    24        q     u        )           -
+G#4   12        e     u                    i-
+measure 33
+A4    24        q     u                    son.
+rest  24        q
+rest  48        h
+measure 34
+rest  96
+measure 35
+rest  96
+measure 36
+rest  96
+measure 37
+rest  96
+measure 38
+rest  96
+measure 39
+rest  96
+measure 40
+rest  96
+measure 41
+rest  96
+measure 42
+C#5   48-       h     d        -           Chri-
+C#5   24        q     d                    -
+D#5    6        s #   d  [[                ste_
+C#5    6        s     d  ]]                _
+D#5   12        e     d                    e-
+measure 43
+E5    24        q     d                    le-
+rest  12        e                          -
+D5    12        e     d        +           -
+C#5   12        e     d  [                 -
+B4     6        s     d  =[                -
+A#4    6        s #   d  =]                -
+B4    18        e.    d  ]                 -
+C#5    6        s     d                    i-
+measure 44
+A#4   12        e #   u                    son,
+C#5    6        s     d  [[                e-
+B4     6        s     d  ]]                -
+C#5   24-       q     d        -           le-
+C#5    6        s     d  [[                -
+B4     6        s     d  ==                -
+C#5    6        s     d  ==                -
+D5     6        s     d  ]]                -
+E5    24-       q     d        -           -
+measure 45
+E5    12        e     d  [                 -
+D5     6        s     d  =[                -
+C#5    6        s     d  ]]                -
+D#5   24-       q #   d        -           -
+D#5    6        s     d  [[                -
+C#5    6        s     d  ==                -
+D#5    6        s     d  ==                -
+E5     6        s     d  ]]                -
+F#5   24-       q     d        -           -
+measure 46
+F#5   12        e     d                    -
+E5    12        e     d                    i-
+E5    12        e     d                    son,
+rest  12        e
+rest  24        q
+E5    24-       q     d        -           Chri-
+measure 47
+E5    12        e     d                    -
+D5     6        s     d  [[                ste,_
+C5     6        s n   d  ]]                _
+D5     6        s     d  [[                Chri-
+C5     6        s     d  ]]                -
+B4     6        s     d                    ste
+A4     6        s     u                    e-
+D5    48-       h     d        -           le-
+measure 48
+D5    12        e     d                    -
+G4    12        e     u                    i-
+A4    12        e     u                    son,
+B4    12        e     d                    e-
+C5    48-       h n   d        -           le-
+measure 49
+C5    12        e     d  [                 -
+B4    12        e     d  ]                 -
+B4    12        e     u  [                 -
+A4    12        e     u  ]                 -
+G4    48-       h     u        -           -
+measure 50
+G4    12        e     u                    -
+F#4   12        e     u                    i-
+F#4   12        e     u                    son,
+C#5   12        e     d                    e-
+D5    12        e     d  [                 le-
+C#5   12        e     d  ]                 -
+D5    12        e     d  [                 i-
+C#5   12        e     d  ]                 -
+measure 51
+D5    24        q     d                    son,
+rest  12        e
+D#5   12        e #   d                    e-
+E5    12        e     d  [                 le-
+D#5   12        e     d  ]                 -
+E5    12        e     d  [                 i-
+D#5   12        e     d  ]                 -
+measure 52
+E5    12        e     d                    son,
+C#5   12        e     d                    Chri-
+D5    12        e     d        +           ste
+A#4   12        e #   u                    e-
+B4    18        e.    d  [                 le-
+C#5    6        s     d  ]\                -
+A#4   24        q     u                    i-
+measure 53
+B4    24        q     d                    son.
+rest  24        q
+rest  48        h
+measure 54
+rest  96
+measure 55
+rest  96
+measure 56
+rest  96
+measure 57
+rest  96
+measure 58
+rest  96
+measure 59
+rest  48        h
+rest  12        e
+E5    12        e     d                    Chri-
+B4    12        e     d                    ste
+C#5   12        e     d                    e-
+measure 60
+D5    12        e     d  [                 le-
+E5    12        e     d  ]                 -
+F#5   24-       q     d        -           -
+F#5   12        e     d                    -
+B4    12        e     d                    i-
+E5     6        s     d  [[                son,_
+F#5    3        t     d  ==[               _
+G5     3        t     d  ]]]               _
+F#5    6        s     d  [[                e-
+E5     6        s     d  ]]                -
+measure 61
+C#5    6        s     d  [[                le-
+B4     6        s     d  ]]                -
+C#5    6        s     d  [[                i-
+B4     6        s     d  ]]                -
+A4    12        e     u                    son,
+C#5   12        e     d                    e-
+D5    12        e     d  [                 le-
+E5    12        e     d  ]                 -
+F#5   12        e     d  [                 i-
+D5    12        e     d  ]                 -
+measure 62
+B4    12        e     d                    son,
+B4    12        e     d                    e-
+E5    24-       q     d        -           le-
+E5    12        e     d                    -
+E5     6        s     d  [[                i-
+D5     6        s     d  ]]                -
+E5    12        e     d                    son,
+C#5   12        e     d                    Chri-
+measure 63
+D5    12        e     d                    ste
+A4    12        e     u                    e-
+D5    24-       q     d        -           le-
+D5    12        e     d                    -
+C5     6        s n   d  [[                i-
+B4     6        s     d  ]]                -
+C5    12        e     d                    son,
+A4    12        e     u                    Chri-
+measure 64
+F#4   12        e     u                    ste
+A4    12        e     u                    e-
+C5    24-       q n   d        -           le-
+C5    12        e     d  [                 -
+B4     6        s     d  =[                -
+A4     6        s     d  ]]                -
+B4    12        e     d  [                 -
+C#5   12        e #   d  ]                 -
+measure 65
+D5    12        e     d  [                 -
+E5    12        e     d  ]                 -
+F#5   24-       q     d        -           -
+F#5   12        e     d                    -
+E5     6        s     d  [[                i-
+D5     6        s     d  ]]                -
+E5    12        e     d                    son,
+C#5   12        e     d                    Chri-
+measure 66
+A4    12        e     u                    ste
+C#5   12        e     d                    e-
+E5    24-       q     d        -           le-
+E5    12        e     d                    -
+D5    12        e     d                    i-
+D5    12        e     d                    son,
+A4    12        e     u                    e-
+measure 67
+B4    12        e     u  [                 le-
+A4    12        e     u  ]                 -
+B4    12        e     u  [                 i-
+A4    12        e     u  ]                 -
+G4    24        q     u                    son,
+rest  12        e
+B4    12        e     d                    e-
+measure 68
+E5    12        e     d  [                 le-
+F#5   12        e     d  =                 -
+G5    12        e     d  =                 -
+E5    12        e     d  ]                 -
+C#5   12        e     d                    -
+B4    12        e     d                    i-
+A4    12        e     u                    son,
+rest  12        e
+measure 69
+G4    48-       h     u        -           Chri-
+G4    24        q     u                    -
+F#4    6        s     u  [[                -
+G4     6        s     u  ]]                -
+E4    12        e     u                    ste,
+measure 70
+F#4   12        e     u                    Chri-
+E4     6        s     u                    ste
+D4     6        s     u                    e-
+C5    24-       q n   d        -           le-
+C5    12        e     d  [                 -
+D5     6        s     d  =[                -
+C5     6        s     d  ]]                -
+B4     6        s     d  [[                -
+C5     6        s     d  =]                -
+A4    12        e     d  ]                 -
+measure 71
+B4    12        e     d  [                 -
+C#5    6        s     d  =[                -
+D5     6        s     d  ]]                -
+E5    12        e     d  [                 -
+D5     6        s     d  =[                -
+C5     6        s n   d  ]]                -
+B4    18        e.    u  [                 -
+A4     3        t     u  =[[               -
+G4     3        t     u  ]]]               -
+F#4   18        e.    u  [                 -
+G4     3        t     u  =[[               -
+A4     3        t     u  ]]]               -
+measure 72
+B4     6        s     d  [[                -
+C5     6        s n   d  ]]                -
+D5    12        e     d                    i-
+G#4   12        e #   u                    son,
+D5    12        e     d                    Chri-
+C#5   12        e #   d                    ste
+D5     6        s     d  [[                e-
+E5     6        s     d  ]]                -
+D5    24-       q     d        -           le-
+measure 73
+D5    48-       h     d        -           -
+D5    12        e     d                    -
+C#5   12        e     d                    i-
+D5    12        e     d                    son,
+E5    12        e     d                    e-
+measure 74
+A4    12        e     u        (           le-
+D5    24        q     d        )           -
+C#5   12        e     d                    i-
+D5    12        e     d                    son,
+C5    12        e n   d                    e-
+B4    12        e     u  [                 le-
+A4    12        e     u  ]                 -
+measure 75
+B4    12        e     u  [                 -
+G4    12        e     u  =                 -
+A4    12        e     u  ]                 -
+G4    12        e     u                    i-
+A4    12        e     u                    son,
+D5     6        s     d  [[                Chri-
+B4     6        s     d  ]]                -
+G4    12        e     u                    ste
+F#4    6        s     u  [[                e-
+E4     6        s     u  ]]                -
+measure 76
+F#4   18        e.    u  [                 le-
+G4     6        s     u  ]\                -
+E4    18        e.    u  [                 i-
+D4     6        s     u  ]\                -
+D4    24        q     u                    son.
+rest  24        q
+measure 77
+rest  96
+measure 78
+rest  96
+measure 79
+rest  96
+measure 80
+rest  96
+measure 81
+rest  96
+measure 82
+rest  96
+measure 83
+rest  96
+measure 84
+rest  96
+measure 85
+rest  96
+mheavy2
+/END

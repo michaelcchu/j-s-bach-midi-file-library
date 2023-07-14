@@ -1,0 +1,498 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/11/s01} [KHM:3844022316]
+TIMESTAMP: DEC/26/2001 [md5sum:bbd110f21af42381da0009e8ec45b030]
+12/22/94 S. Rasmussen
+WK#:232       MV#:12
+Bach Gesellschaft vi
+Mass in B Minor
+Cum sancto Spiritu
+Tromba 1
+1 72
+Group memberships: score 
+score: part 1 of 18
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:0   Q:24   T:3/4  C:4  I:2  D:Vivace
+rest  72      1 w     u
+back  72
+*               D +     (Corno da caccia)
+P  C25:f31  C17:Y-11
+E4    24      2 q     d
+rest  24      2 q
+rest  24      2 q
+measure 2
+$  I:1
+*               D +     (Tromba)
+P  C25:f31
+rest  12        e
+E5    12        e     d  [
+G5    12        e     d  =
+C6    12        e     d  ]
+G5    12        e     d  [
+F5     6        s     d  =[
+E5     6        s     d  ]]
+measure 3
+F5    24        q     d
+rest  24        q
+rest  24        q
+measure 4
+rest  12        e
+F5    12        e     d  [
+B5    12        e     d  =
+D6    12        e     d  ]
+F5    12        e     d  [
+E5     6        s     d  =[
+D5     6        s     d  ]]
+measure 5
+E5    72-       h.    d        -
+measure 6
+E5    72-       h.    d        -
+measure 7
+E5    72        h.    d
+measure 8
+D5    72-       h.    d        -
+measure 9
+D5    12        e     d  [
+G4    12        e     d  =     (
+G4    12        e     d  =
+G4    12        e     d  =
+G4    12        e     d  =
+G4    12        e     d  ]     )
+measure 10
+G4    12        e     u
+rest  12        e
+rest  24        q
+rest  24        q
+measure 11
+rest  12        e
+D5    12        e     d  [     (
+D5    12        e     d  =
+D5    12        e     d  =
+D5    12        e     d  =
+D5    12        e     d  ]     )
+measure 12
+D5    12        e     d
+rest  12        e
+rest  24        q
+rest  24        q
+measure 13
+rest  72
+measure 14
+rest  72
+measure 15
+rest  72
+measure 16
+rest  72
+measure 17
+rest  72
+measure 18
+rest  72
+measure 19
+rest  72
+measure 20
+rest  72
+measure 21
+rest  72
+measure 22
+rest  72
+measure 23
+rest  72
+measure 24
+rest  72
+measure 25
+rest  12        e
+D5    12        e     d  [
+G5    12        e     d  =
+B5    12        e     d  =
+G5    12        e     d  =
+D5    12        e     d  ]
+measure 26
+rest  12        e
+G5    12        e     d  [
+B5    12        e     d  =
+D6    12        e     d  =
+B5    12        e     d  =
+G5    12        e     d  ]
+measure 27
+rest  12        e
+Bf5   12        e f   d  [
+G5    12        e     d  =
+E5    12        e     d  =
+G5    12        e     d  =
+Bf5   12        e     d  ]
+measure 28
+rest  12        e
+Bf5   12        e f   d  [
+G5    12        e     d  =
+D5    12        e     d  =
+G5    12        e     d  =
+Bf5   12        e     d  ]
+measure 29
+rest  12        e
+Bf5   12        e f   d  [
+G5    12        e     d  =
+E5    12        e     d  =
+G5    12        e     d  =
+A5    12        e     d  ]
+measure 30
+rest  12        e
+A5    12        e     d  [
+F#5   12        e #   d  =
+D5    12        e     d  =
+F#5   12        e     d  =
+A5    12        e     d  ]
+measure 31
+G5    12        e     d  [
+B5     6        s     d  =[
+A5     6        s     d  ]]
+B5    48-       h     d        -
+measure 32
+B5    12        e     d  [
+A5     6        s     d  =[
+G5     6        s     d  ]]
+A5    48-       h     d        -
+measure 33
+A5    12        e     d  [
+G5     6        s     d  =[
+F#5    6        s #   d  ]]
+G5    48-       h     d        -
+measure 34
+G5    12        e     d  [
+A5     6        s     d  =[    (
+B5     3        t     d  ==[
+C6     3        t     d  ]]]   )
+C6    12        e     d  [
+A5     6        s     d  =[    (
+B5     3        t     d  ==[
+C6     3        t     d  ]]]   )
+C6    12        e     d  [
+A5     6        s     d  =[    (
+B5     3        t     d  ==[
+C6     3        t     d  ]]]   )
+measure 35
+C6    36        q.    d
+C6    12        e     d  [
+B5    12        e     d  =
+A5    12        e     d  ]
+measure 36
+G5     6        s     d  [[
+F#5    6        s #   d  ==
+G5     6        s     d  ==
+A5     6        s     d  ]]
+B5    12        e     d  [
+G5    12        e     d  =
+D5    12        e     d  =
+F#5   12        e     d  ]
+measure 37
+G5    24        q     d
+rest  24        q
+rest  24        q
+measure 38
+rest  72
+measure 39
+rest  72
+measure 40
+rest  72
+measure 41
+rest  72
+measure 42
+rest  72
+measure 43
+rest  72
+measure 44
+rest  72
+measure 45
+rest  72
+measure 46
+rest  72
+measure 47
+rest  72
+measure 48
+rest  72
+measure 49
+rest  72
+measure 50
+rest  72
+measure 51
+rest  72
+measure 52
+rest  72
+measure 53
+rest  72
+measure 54
+rest  72
+measure 55
+rest  72
+measure 56
+rest  72
+measure 57
+rest  72
+measure 58
+rest  72
+measure 59
+rest  72
+measure 60
+rest  72
+measure 61
+rest  72
+measure 62
+rest  72
+measure 63
+rest  72
+measure 64
+rest  72
+measure 65
+rest  72
+measure 66
+rest  72
+measure 67
+rest  72
+measure 68
+rest  72
+measure 69
+rest  72
+measure 70
+B5    72-       h.    d        -
+measure 71
+B5    72        h.    d
+measure 72
+A5    72-       h.    d        -
+measure 73
+A5    72        h.    d
+measure 74
+G5     6        s     d  [[
+F#5    6        s #   d  ==
+G5     6        s     d  ==
+A5     6        s     d  ]]
+B5    12        e     d
+rest  12        e
+rest  24        q
+measure 75
+G5     6        s     d  [[
+F#5    6        s #   d  ==
+G5     6        s     d  ==
+A5     6        s     d  ]]
+B5    12        e     d
+rest  12        e
+rest  24        q
+measure 76
+G5     6        s     d  [[
+F#5    6        s #   d  ==
+G5     6        s     d  ==
+F#5    6        s     d  ]]
+G5    12        e     d
+rest  12        e
+rest  24        q
+measure 77
+G5     6        s     d  [[
+F#5    6        s #   d  ==
+G5     6        s     d  ==
+F#5    6        s     d  ]]
+G5    12        e     d
+rest  12        e
+rest  24        q
+measure 78
+G5     6        s     d  [[
+F#5    6        s #   d  ==
+G5     6        s     d  ==
+F#5    6        s     d  ]]
+G5    12        e     d
+rest  12        e
+rest  24        q
+measure 79
+B5     6        s     d  [[
+C6     6        s     d  ==
+B5     6        s     d  ==
+C6     6        s     d  ]]
+B5    12        e     d
+rest  12        e
+rest  24        q
+measure 80
+B5     6        s     d  [[
+C6     6        s     d  ==
+B5     6        s     d  ==
+C6     6        s     d  ]]
+B5    12        e     d
+rest  12        e
+rest  24        q
+measure 81
+B5     6        s     d  [[
+C6     6        s     d  ==
+B5     6        s     d  ==
+A5     6        s     d  ]]
+G5    12        e     d
+rest  12        e
+rest  24        q
+measure 82
+rest  72
+measure 83
+rest  72
+measure 84
+rest  72
+measure 85
+rest  72
+measure 86
+rest  72
+measure 87
+rest  72
+measure 88
+rest  72
+measure 89
+rest  72
+measure 90
+rest  72
+measure 91
+rest  72
+measure 92
+rest  72
+measure 93
+rest  72
+measure 94
+rest  72
+measure 95
+rest  72
+measure 96
+rest  72
+measure 97
+rest  72
+measure 98
+rest  72
+measure 99
+rest  72
+measure 100
+rest  72
+measure 101
+rest  72
+measure 102
+rest  72
+measure 103
+rest  72
+measure 104
+rest  72
+measure 105
+rest  72
+measure 106
+rest  72
+measure 107
+rest  72
+measure 108
+rest  72
+measure 109
+rest  72
+measure 110
+rest  72
+measure 111
+E5    24        q     d
+rest  24        q
+rest  24        q
+measure 112
+G5    24        q     d
+rest  24        q
+rest  24        q
+measure 113
+C6    24        q     d
+rest  24        q
+rest  24        q
+measure 114
+C6    24        q     d
+rest  24        q
+rest  24        q
+measure 115
+C6    24        q     d
+rest  24        q
+rest  24        q
+measure 116
+B5    24        q     d
+rest  24        q
+rest  24        q
+measure 117
+C6    24        q     d
+rest  24        q
+rest  24        q
+measure 118
+rest  72
+measure 119
+rest  72
+measure 120
+rest  72
+measure 121
+rest  72
+measure 122
+rest  12        e
+G5     6        s     d  [[
+F5     6        s     d  ]]
+E5     6        s     d  [[
+D5     6        s     d  ==
+C5     6        s     d  ==
+D5     6        s     d  ]]
+E5     6        s     d  [[
+F5     6        s     d  ==
+G5     6        s     d  ==
+E5     6        s     d  ]]
+measure 123
+A5     6        s     d  [[
+G5     6        s     d  ==
+F5     6        s     d  ==
+E5     6        s     d  ]]
+D5     6        s     d  [[
+E5     6        s     d  ==
+D5     6        s     d  ==
+C5     6        s     d  ]]
+D5     6        s     d  [[
+E5     6        s     d  ==
+F5     6        s     d  ==
+D5     6        s     d  ]]
+measure 124
+G5     6        s     d  [[
+F5     6        s     d  ==
+E5     6        s     d  ==
+D5     6        s     d  ]]
+C5     6        s     d  [[
+D5     6        s     d  ==
+C5     6        s     d  ==
+B4     6        s     d  ]]
+C5     6        s     d  [[
+D5     6        s     d  ==
+E5     6        s     d  ==
+C5     6        s     d  ]]
+measure 125
+F5    12        e     d  [
+D5     6        s     d  =[    (
+E5     3        t     d  ==[
+F5     3        t     d  ]]]   )
+F5    12        e     d  [
+D5     6        s     d  =[    (
+E5     3        t     d  ==[
+F5     3        t     d  ]]]   )
+F5    12        e     d  [
+D5     6        s     d  =[    (
+E5     3        t     d  ==[
+F5     3        t     d  ]]]   )
+measure 126
+F5    36        q.    d
+G5     6        s     d  [[
+F5     6        s     d  ]]
+E5     4        s  3  d  [[     *
+F5     4        s  3  d  ==
+E5     4        s  3  d  ]]     !
+D5     4        s  3  d  [[     *
+E5     4        s  3  d  ==
+D5     4        s  3  d  ]]     !
+measure 127
+C5     6        s     d  [[
+D5     6        s     d  ==
+E5     6        s     d  ==
+F5     6        s     d  ]]
+G5     6        s     d  [[
+F5     6        s     d  ==
+A5     6        s     d  ==
+G5     6        s     d  ]]
+F5     6        s     d  [[
+E5     6        s     d  ==
+D5     6        s     d  ==
+E5     6        s     d  ]]
+measure 128
+C5    72        h.    d        F
+mheavy2
+/END

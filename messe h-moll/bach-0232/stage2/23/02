@@ -1,0 +1,328 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/23/02} [KHM:397154507]
+TIMESTAMP: DEC/26/2001 [md5sum:c9ae9b81b619798a7e970c4aa39ff5f4]
+05/28/95 S. Rasmussen
+WK#:232       MV#:25
+Bach Gesellschaft vi
+Mass in B minor
+Aria: Agnus Dei
+ALTO
+0 75 A
+Group memberships: score  sound
+score: part 2 of 3
+sound: part 2 of 3
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:-2   Q:4   T:1/1  C:4
+rest  16
+measure 2
+rest  16
+measure 3
+rest  16
+measure 4
+rest  16
+measure 5
+rest  16
+measure 6
+rest  16
+measure 7
+rest  16
+measure 8
+rest  16
+measure 9
+D5     2        e     d  [     (           A-
+C5     2        e     d  ]     )           -
+A4     2        e     u  [     (           gnus_
+Bf4    2        e     u  ]     )           _
+Bf4    8-       h     u        -           De-
+measure 10
+Bf4    2        e     u  [                 -
+A4     2        e     u  ]                 -
+F#4    2        e #   u                    i
+G4     2        e     u                    qui
+G4     8-       h     u        -           tol-
+measure 11
+G4     2        e     u  [                 -
+F4     2        e n   u  ]      +          -
+D4     2        e     u                    lis
+Ef4    2        e     u                    pec-
+Ef4    8-       h     u        -           ca-
+measure 12
+Ef4    2        e     u                    -
+D4     2        e     u                    ta
+D4     8        h     u        (           mun-
+C4     4        q     u        )           -
+measure 13
+D4     4        q     u                    di,
+rest   2        e
+D4     2        e     u                    qui
+Bf4    1        s     u  [[    (           tol-
+G4     1        s     u  ]]    )           -
+C4     4        q     u                    lis
+Bf4    2        e     u                    pec-
+measure 14
+A4     1        s     u  [[    (           ca-
+F#4    1        s #   u  ]]    )           -
+C5     2        e     d                    ta,
+rest   2        e
+D4     2        e     u                    pec-
+Bf4    1        s     u  [[    (           ca-
+G4     1        s     u  ]]                -
+Af4    4        q f   u        )           -
+G4     2        e     u                    ta
+measure 15
+F#4    2        e #   u  [     (           mun-
+E4     2        e n   u  ]     )           -
+D4     2        e     u                    di,
+A4     2        e     u  [     (           mi-
+Bf4    2        e     u  ]     )           -
+F#4    2        e #   u         +          se-
+G4     4-       q     u        -           re-
+measure 16
+G4     6        q.    u                    -
+A4     1        s     u  [[                -
+Bf4    1        s     u  ]]                -
+A4     1        s     u  [[                -
+F4     1        s n   u  ]]     +          -
+E4     1        s n   u  [[                re_
+D4     1        s     u  ]]                _
+F4     2        e     u  [     (           no-
+E4     2        e     u  ]     )           -
+measure 17
+D4     2        e     u                    bis,
+A3     2        e     u  [                 mi-
+D4     2        e     u  ]                 -
+F4     2        e     u                    se-
+B3     2        e n   u  [                 re-
+D4     2        e     u  ]                 -
+G4     4-       q     u        -           -
+measure 18
+G4     2        e     u  [                 -
+E4     2        e n   u  ]                 -
+D4     2        e     u  [     (           re_
+C#4    2        e #   u  ]     )           _
+D4     2        e     u  [     (           no-
+Bf4    2        e     u  ]     )           -
+F#4    2        e #   u  [     (           bis,_
+G4     2        e     u  ]     )           _
+measure 19
+G4     6        q.    u                    mi-
+F#4    1        s #   u  [[                se-
+E4     1        s n   u  ]]                -
+F#4    1        s     u  [[    (           re-
+A4     1        s     u  ]]                -
+C5     4        q     d        )           -
+Bf4    1        s     u  [[                re_
+A4     1        s     u  ]]                _
+measure 20
+D5     2        e     d  [                 no-
+C5     2        e     d  ]                 -
+Bf4    2        e     u                    bis,
+A4     2        e     u                    qui
+Bf4    6        q.    u                    tol-
+A4     1        s     u                    lis
+G4     1        s     u                    pec-
+measure 21
+F4     2        e     u  [     (           ca-
+E4     2        e n   u  ]     )           -
+D4     2        e     u                    ta,
+A4     2        e     u                    pec-
+G#4    1        s #   u  [[    (           ca-
+B4     1        s n   u  ]]                -
+D4     4        q     u        )           -
+C#4    1        s #   u  [[                ta_
+B3     1        s n   u  ]]                _
+measure 22
+C#4    1        s #   u  [[                mun-
+E4     1        s n   u  ]]                -
+G4     2        e     u                    di,
+rest   2        e
+F4     1        s     u                    mi-
+E4     1        s     u                    se-
+F4     2        e     u                    re-
+A4     2        e     u                    re
+F4     2        e     u  [     (           no-
+E4     1        s     u  =[                -
+D4     1        s     u  ]]    )           -
+measure 23
+D4     4        q     u                    bis.
+rest   4        q
+rest   8        h
+measure 24
+rest  16
+measure 25
+rest  16
+measure 26
+rest  16
+measure 27
+A4     2        e     u  [     (           A-
+G4     2        e     u  ]     )           -
+E4     2        e n   u  [     (           gnus_
+F4     2        e     u  ]     )           _
+F4     8-       h     u        -           De-
+measure 28
+F4     2        e     u  [                 -
+Af4    2        e f   u  ]                 -
+G4     2        e     u                    i
+F4     2        e     u                    qui
+E4     2        e n   u  [                 tol-
+F#4    2        e #   u  =                 -
+G4     2        e     u  =                 -
+A4     2        e n   u  ]                 -
+measure 29
+Bf4    2        e     u  [                 -
+A4     2        e     u  ]                 -
+F#4    2        e #   u                    lis
+G4     2        e     u                    pec-
+G4     8-       h     u        -           ca-
+measure 30
+G4     2        e     u  [                 -
+Bf4    2        e     u  ]                 -
+A4     2        e     u  [                 ta_
+G4     2        e     u  ]                 _
+F#4    2        e #   u  [                 mun-
+E4     2        e n   u  ]                 -
+D4     4        q     u                    di,
+measure 31
+D5     2        e     d  [     (           a-
+C5     2        e     d  ]     )           -
+A4     2        e     u  [     (           gnus_
+Bf4    2        e     u  ]     )           _
+Bf4    8-       h     u        -           De-
+measure 32
+Bf4    2        e     u  [                 -
+A4     2        e     u  ]                 -
+F#4    2        e #   u                    i
+G4     2        e     u                    qui
+G4     8-       h     u        -           tol-
+measure 33
+G4     2        e     u  [                 -
+F4     2        e n   u  ]      +          -
+D4     2        e     u                    lis
+Ef4    2        e     u                    pec-
+Ef4    8-       h     u        -           ca-
+measure 34
+Ef4    2        e     u                    -
+D4     2        e     u         F          ta,
+rest   2        e
+D4     2        e     u                    qui
+Bf4    1        s     u  [[    (           tol-
+G4     1        s     u  ]]    )           -
+C4     4        q     u                    lis
+Bf4    2        e     u                    pec-
+measure 35
+A4     1        s     u  [[    (           ca-
+F#4    1        s #   u  ]]    )           -
+C5     2        e     d                    ta,
+rest   2        e
+D4     2        e     u                    pec-
+Bf4    1        s     u  [[    (           ca-
+G4     1        s     u  ]]                -
+Af4    4        q f   u        )           -
+G4     2        e     u                    ta
+measure 36
+F#4    2        e #   u  [                 mun-
+E4     2        e n   u  ]                 -
+D4     2        e     u                    di,
+C4     2        e     u                    qui
+B3     1        s n   u  [[    (           tol-
+D4     1        s     u  ]]                -
+F4     4        q n   u        )           -
+Ef4    1        s f   u                    lis
+D4     1        s     u                    pec-
+measure 37
+Ef4    1        s     u  [[                ca-
+D4     1        s     u  ]]                -
+C4     2        e     u                    ta,
+rest   4        q
+rest   2        e
+Af4    4        q f   u                    mi-
+G4     1        s     u  [[                se-
+F4     1        s     u  ]]                -
+measure 38
+Ef4    2        e     u  [                 re-
+D4     2        e     u  ]                 -
+C4     2        e     u                    re,
+Bf3    2        e f   u         +          qui
+A3     1        s     u  [[    (           tol-
+E4     1        s n   u  ]]                -
+G4     4        q     u        )           -
+F4     1        s     u                    lis
+E4     1        s     u                    pec-
+measure 39
+F4     1        s     u  [[                ca-
+E4     1        s n   u  ]]                -
+D4     2        e     u                    ta,
+rest   2        e
+Bf4    4        q     u                    mi-
+D4     2        e     u                    se-
+C#4    1        s #   u  [[                re-
+E4     1        s n   u  ]]     +          -
+A4     1        s     u  [[                re_
+G4     1        s     u  ]]                _
+measure 40
+F#4    2        e #   u  [                 no-
+E4     2        e n   u  ]                 -
+D4     2        e     u                    bis,
+E4     2        e     u  [     (           mi-
+F#4    2        e     u  ]     )           -
+A4     2        e     u                    se-
+D5     4-       q     d        -           re-
+measure 41
+D5     2        e     d  [                 -
+Ef5    2        e     d  ]                 -
+F#4    2        e #   u  [     (           re_
+G4     2        e     u  ]     )           _
+G4     2        e     u  [     (           no-
+Ef4    2        e     u  ]     )           -
+B3     2        e n   u  [     (           bis,_
+C4     2        e     u  ]     )           _
+measure 42
+C4     2        e     u        (           mi-
+C5     4        q     d        )           -
+Bf4    1        s f   u  [[    (+          se-
+A4     1        s     u  ]]    )           -
+D5     1        s     d  [[    (           re-
+Bf4    1        s     d  ]]    )           -
+A4     1        s     u  [[    (           re_
+G4     1        s     u  ]]    )           _
+Bf4    2        e     u  [     (           no-
+A4     2        e     u  ]     )           -
+measure 43
+G4     2        e     u                    bis,
+Af4    4        q f   u                    mi-
+G4     1        s     u  [[                se-
+F4     1        s     u  ]]                -
+Ef4    2        e     u  [     (           re-
+B3     2        e n   u  =                 -
+C4     2        e     u  ]     )           -
+G4     2        e     u                    re
+measure 44
+F#4    1        s #   u  [[                no-
+G4     1        s     u  ]]                -
+A4     2        e     u                    bis,
+rest   2        e
+Ef4    1        s     u                    mi-
+D4     1        s     u                    se-
+gC5    5        s     u        (
+S  C1:t50 
+Bf4    2        e     u        )           re-
+A4     1        s     u  [[                re_
+G4     1        s     u  ]]                _
+F#4    3        e.#   u  [     (+          no-
+G4     1        s     u  ]\    )           -
+measure 45
+G4     4        q     u                    bis.
+rest   4        q
+rest   8        h
+measure 46
+rest  16
+measure 47
+rest  16
+measure 48
+rest  16
+measure 49
+rest  16
+mheavy2
+/END

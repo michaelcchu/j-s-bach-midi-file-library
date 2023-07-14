@@ -1,0 +1,172 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/06/01} [KHM:1001833641]
+TIMESTAMP: DEC/26/2001 [md5sum:30237e4dceb2f3a4669f71cbea0de4b8]
+11/28/94 S. Rasmussen
+WK#:232       MV#:7
+Bach Gesellschaft vi
+Mass in B Minor
+Gratias agimus
+Tromba 1
+1 72
+Group memberships: score  sound
+score: part 1 of 15
+sound: part 1 of 15
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:0   Q:2   T:0/0  C:4  D:Alla breve
+rest  16
+measure 2
+rest  16
+measure 3
+rest  16
+measure 4
+rest  16
+measure 5
+rest  16
+measure 6
+rest  16
+measure 7
+rest  16
+measure 8
+rest  16
+measure 9
+rest  16
+measure 10
+rest  16
+measure 11
+rest  16
+measure 12
+rest  16
+measure 13
+rest  16
+measure 14
+rest  16
+measure 15
+rest   8        w
+C5     8        w     d
+measure 16
+D5     4        h     d
+E5     4        h     d
+F5     4        h     d
+E5     2        q     d
+D5     2        q     d
+measure 17
+E5     2        q     d
+C5     2        q     d
+F5     8        w     d
+E5     4        h     d
+measure 18
+D5     8        w     d
+C5     8        w     d
+measure 19
+rest  16
+measure 20
+rest  16
+measure 21
+rest  16
+measure 22
+rest  16
+measure 23
+rest  16
+measure 24
+rest  16
+measure 25
+rest  16
+measure 26
+rest   8        w
+rest   4        h
+C5     4        h     d
+measure 27
+D5     4        h     d
+E5     4        h     d
+F5     4        h     d
+E5     2        q     d
+D5     2        q     d
+measure 28
+E5     2        q     d
+C5     2        q     d
+F5     8        w     d
+E5     4        h     d
+measure 29
+D5     4        h     d
+C5     8        w     d
+rest   4        h
+measure 30
+rest  16
+measure 31
+rest  16
+measure 32
+rest   4        h
+G5     4        h     d
+A5     4        h     d
+B5     4        h     d
+measure 33
+C6     4        h     d
+B5     2        q     d
+A5     2        q     d
+B5     2        q     d
+G5     2        q     d
+C6     4-       h     d        -
+measure 34
+C6     4        h     d
+B5     4        h     d
+A5     8        w     d
+measure 35
+G5     2        q     d
+F5     1        e     d  [
+E5     1        e     d  ]
+F5     8        w     d
+E5     4-       h     d        -
+measure 36
+E5     2        q     d
+D5     1        e     d  [
+C5     1        e     d  ]
+G5     4-       h     d        -
+G5     2        q     d
+F5     1        e     d  [
+E5     1        e     d  ]
+A5     4        h     d
+measure 37
+G5     8        w     d
+F#5    4        h #   d
+G5     4-       h     d        -
+measure 38
+G5     4        h     d
+F#5    4        h #   d
+G5     8        w     d
+measure 39
+rest  16
+measure 40
+rest  16
+measure 41
+rest  16
+measure 42
+rest   4        h
+G5     4        h     d
+A5     4        h     d
+B5     4        h     d
+measure 43
+C6     8-       w     d        -
+C6     1        e     d  [
+B5     1        e     d  =
+A5     1        e     d  =
+G5     1        e     d  ]
+A5     4-       h     d        -
+measure 44
+A5     2        q     d
+D5     2        q     d
+G5     8        w     d
+F5     4-       h     d        -
+measure 45
+F5     2        q     d
+E5     1        e     d  [
+D5     1        e     d  ]
+E5     2        q     d
+A5     2        q     d
+E5     4        h     d
+D5     4        h     d
+measure 46
+C5    16        b     d        F 
+mheavy2
+/END

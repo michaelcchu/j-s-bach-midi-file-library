@@ -1,0 +1,702 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/10/01} [KHM:519079216]
+TIMESTAMP: DEC/26/2001 [md5sum:cb2ca45102a41dd0c4e1ccbf0fa03191]
+12/14/94 S. Rasmussen
+WK#:232       MV#:11
+Bach Gesellschaft vi
+Mass in B Minor
+Aria: Quoniam tu solus
+Corno da caccia
+1 75
+Group memberships: score  sound
+score: part 1 of 5
+sound: part 1 of 5
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:0   Q:4   T:3/4  C:4  X:6
+C5     4        q     d
+C6     4        q     d
+B5     4        q     d
+measure 2
+C6     4        q     d
+C5     8        h     d
+measure 3
+G4     4        q     u
+F5     4        q     d
+E5     4        q     d
+measure 4
+D5     4        q     d
+G4     8        h     u
+measure 5
+rest   2        e
+G5     2        e     d  [
+A5     2        e     d  =
+G5     2        e     d  ]
+F#5    4        q #   d         t
+S  C33:hn8s13t87
+measure 6
+G5     2        e     d  [
+D5     2        e     d  =
+G5     2        e     d  =
+F5     2        e n   d  ]      +
+E5     4-       q     d        -
+measure 7
+E5     2        e     d  [
+A5     1        s     d  =[
+G5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+D5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+D5     1        s     d  ]]
+measure 8
+G5     4        q     d
+C5     8-       h     d        -
+measure 9
+C5     2        e     d  [
+C6     1        s     d  =[
+B5     1        s     d  ]]
+A5     1        s     d  [[
+B5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+measure 10
+D5     1        s     d  [[
+E5     1        s     d  =]
+F5     2-       e     d  ]     -
+F5     1        s     d  [[
+D5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 11
+E5     1        s     d  [[
+F5     1        s     d  ==
+D5     1        s     d  ==
+E5     1        s     d  ]]
+C5     1        s     d  [[
+D5     1        s     d  ==
+C5     1        s     d  ==
+D5     1        s     d  ]]
+D5     3        e.    d  [
+C5     1        s     d  ]\
+measure 12
+C5     4        q     d
+rest   2        e
+C5     2        e     d
+G4     1        s     u  [[
+E4     1        s     u  =]
+G4     2        e     u  ]
+measure 13
+E4     4        q     u
+rest   4        q
+rest   4        q
+measure 14
+G4     4        q     u
+rest   4        q
+rest   4        q
+measure 15
+C4     4        q     u
+rest   4        q
+rest   4        q
+measure 16
+rest  12
+measure 17
+rest  12
+measure 18
+rest  12
+measure 19
+rest  12
+measure 20
+C5     4        q     d
+C6     4        q     d
+B5     4        q     d
+measure 21
+C6     4        q     d
+C5     4        q     d
+rest   4        q
+measure 22
+rest  12
+measure 23
+rest  12
+measure 24
+rest  12
+measure 25
+rest   2        e
+A5     1        s     d  [[
+G5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+D5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+D5     1        s     d  ]]
+measure 26
+G5     6        q.    d
+A5     1        s     d  [[
+G5     1        s     d  ]]
+F5     1        s     d  [[
+E5     1        s     d  ==
+D5     1        s     d  ==
+C5     1        s     d  ]]
+measure 27
+F5     2        e     d  [
+G5     1        s     d  =[
+A5     1        s     d  ]]
+G5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+D5     1        s     d  ]]
+C5     2        e     d  [
+C6     2        e     d  ]
+measure 28
+B5     2        e     d  [
+G5     2        e     d  =     (
+G5     2        e     d  =
+G5     2        e     d  =
+G5     2        e     d  =
+G5     2        e     d  ]     )
+measure 29
+G5    12-       h.    d        -
+measure 30
+G5     2        e     d  [
+G4     2        e     d  =
+C5     2        e     d  =
+C5     2        e     d  =
+C5     2        e     d  =
+C5     2        e     d  ]
+measure 31
+C5    12-       h.    d        -
+measure 32
+C5     2        e     d  [
+A5     1        s     d  =[
+G5     1        s     d  ]]
+F#5    1        s #   d  [[
+G5     1        s     d  ==
+E5     1        s     d  ==
+F#5    1        s     d  ]]
+D5     1        s     d  [[
+E5     1        s     d  ==
+D5     1        s     d  ==
+C5     1        s     d  ]]
+measure 33
+D5     2        e     d
+rest   2        e
+rest   4        q
+rest   4        q
+measure 34
+rest  12
+measure 35
+rest  12
+measure 36
+rest  12
+measure 37
+rest  12
+measure 38
+rest  12
+measure 39
+rest   2        e
+G5     1        s     d  [[
+F5     1        s     d  ]]
+E5     1        s     d  [[
+F5     1        s     d  ==
+D5     1        s     d  ==
+E5     1        s     d  ]]
+C5     2        e     d
+rest   2        e
+measure 40
+rest   2        e
+D5     2-       e     d        -
+D5     1        s     d  [[
+C5     1        s     d  ==
+B4     1        s     d  ==
+C5     1        s     d  ]]
+D5     1        s     d  [[
+E5     1        s     d  ==
+F#5    1        s #   d  ==
+D5     1        s     d  ]]
+measure 41
+G5     2        e     d
+rest   2        e
+rest   4        q
+rest   4        q
+measure 42
+rest  12
+measure 43
+rest  12
+measure 44
+rest  12
+measure 45
+G4     4        q     u
+G5     4        q     d
+F#5    4        q #   d
+measure 46
+G5     4        q     d
+G4     8        h     u
+measure 47
+D5     4        q     d
+C6     4        q     d
+B5     4        q     d
+measure 48
+A5     4        q     d
+D5     8-       h     d        -
+measure 49
+D5     2        e     d  [
+D5     1        s     d  =[
+C5     1        s     d  ]]
+D5     1        s     d  [[
+E5     1        s     d  =]
+F5     2-       e     d  ]     -
+F5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+F5     1        s     d  ]]
+measure 50
+E5     1        s     d  [[
+D5     1        s     d  ==
+C5     1        s     d  ==
+D5     1        s     d  ]]
+E5     1        s     d  [[
+F#5    1        s #   d  =]
+G5     2-       e     d  ]     -
+G5     1        s     d  [[
+B5     1        s     d  ==
+A5     1        s     d  ==
+G5     1        s     d  ]]
+measure 51
+F#5    1        s #   d  [[
+E5     1        s     d  ==
+D5     1        s     d  ==
+E5     1        s     d  ]]
+F#5    1        s     d  [[
+G5     1        s     d  ==
+A5     1        s     d  ==
+B5     1        s     d  ]]
+C6     1        s     d  [[
+B5     1        s     d  ==
+A5     1        s     d  ==
+C6     1        s     d  ]]
+measure 52
+B5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+F#5    1        s #   d  ]]
+G5     2        e     d  [
+A5     2        e     d  = 
+D5     2        e     d  = 
+F#5    2        e     d  ]
+measure 53
+G5     4        q     d
+rest   4        q
+rest   4        q
+measure 54
+rest   2        e
+A5     1        s     d  [[
+G5     1        s     d  ]]
+F5     1        s n   d  [[     + 
+G5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+D5     1        s     d  [[
+E5     1        s     d  ==
+C5     1        s     d  ==
+D5     1        s     d  ]]
+measure 55
+Bf4    2        e f   d
+rest   2        e
+rest   4        q
+rest   4        q
+measure 56
+rest  12
+measure 57
+rest  12
+measure 58
+rest  12
+measure 59
+rest  12
+measure 60
+E5     4        q     d
+A5     4        q     d
+G#5    4        q #   d         t
+S  C33:hn8s13t87
+measure 61
+A5     2        e     d  [
+E5     2        e     d  =
+F5     2        e     d  =
+E5     2        e     d  ]
+D5     4        q     d         t
+S  C33:n8s13t87 
+measure 62
+C5     4        q     d
+rest   4        q
+rest   4        q
+measure 63
+rest  12
+measure 64
+rest  12
+measure 65
+rest  12
+measure 66
+rest  12
+measure 67
+rest   2        e
+E5     2        e     d  [
+F5     2        e     d  =
+E5     2        e     d  ]
+D5     4-       q     d        -
+measure 68
+D5     2        e     d  [
+D5     2        e     d  =
+E5     2        e     d  =
+D5     2        e     d  ]
+C5     4-       q     d        -
+measure 69
+C5     2        e     d  [
+A5     1        s     d  =[
+G5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+D5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+D5     1        s     d  ]]
+measure 70
+G5     4        q     d
+C5     8-       h     d        -
+measure 71
+C5     2        e     d  [
+F5     1        s     d  =[
+E5     1        s     d  ]]
+D5     1        s     d  [[
+E5     1        s     d  ==
+D5     1        s     d  ==
+E5     1        s     d  ]]
+F5     1        s     d  [[
+E5     1        s     d  ==
+F5     1        s     d  ==
+D5     1        s     d  ]]
+measure 72
+E5     2        e     u  [
+E4     2        e     u  =     (
+E4     2        e     u  =
+E4     2        e     u  =
+E4     2        e     u  =
+E4     2        e     u  ]     )
+measure 73
+E4     2        e     u  [     (
+E4     2        e     u  =
+E4     2        e     u  =
+E4     2        e     u  =
+E4     2        e     u  =
+E4     2        e     u  ]     )
+measure 74
+E4     2        e     u  [     (
+E4     2        e     u  =
+E4     2        e     u  =
+E4     2        e     u  =
+E4     2        e     u  =
+E4     2        e     u  ]     )
+measure 75
+E4     4        q     u
+rest   4        q
+rest   4        q
+measure 76
+rest   2        e
+B5     1        s     d  [[
+A5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+F#5    1        s #   d  ==
+G5     1        s     d  ]]
+E5     1        s     d  [[
+F#5    1        s     d  ==
+D5     1        s     d  ==
+E5     1        s     d  ]]
+measure 77
+C5     2        e     d
+rest   2        e
+rest   4        q
+rest   4        q
+measure 78
+rest  12
+measure 79
+rest  12
+measure 80
+rest  12
+measure 81
+rest  12
+measure 82
+G4     4        q     u
+G5     2        e     d  [     (
+F#5    2        e #   d  =     )
+G5     2        e     d  =     (
+F#5    2        e     d  ]     )
+measure 83
+E5     4        q     d
+rest   4        q
+rest   4        q
+measure 84
+rest  12
+measure 85
+rest  12
+measure 86
+rest  12
+measure 87
+rest  12
+measure 88
+rest  12
+measure 89
+rest  12
+measure 90
+C4     2        e     u  [     (
+C4     2        e     u  =
+C4     2        e     u  =
+C4     2        e     u  =
+C4     2        e     u  =
+C4     2        e     u  ]     )
+measure 91
+G4     2        e     u  [     (
+G4     2        e     u  =
+G4     2        e     u  =
+G4     2        e     u  =
+G4     2        e     u  =
+G4     2        e     u  ]     )
+measure 92
+G4     2        e     u
+rest   2        e
+rest   4        q
+rest   4        q
+measure 93
+rest  12
+measure 94
+rest  12
+measure 95
+rest  12
+measure 96
+rest  12
+measure 97
+C5     4        q     d
+C6     4        q     d
+B5     4        q     d
+measure 98
+C6     4        q     d
+C5     4        q     d
+rest   4        q
+measure 99
+G4     4        q     u
+F5     4        q     d
+E5     4        q     d
+measure 100
+D5     4        q     d
+G4     4        q     u
+rest   4        q
+measure 101
+rest  12
+measure 102
+rest   2        e
+G5     1        s     d  [[
+F5     1        s     d  ]]
+E5     1        s     d  [[
+F5     1        s     d  ==
+D5     1        s     d  ==
+E5     1        s     d  ]]
+C5     1        s     d  [[
+E5     1        s     d  ==
+D5     1        s     d  ==
+C5     1        s     d  ]]
+measure 103
+F5     4        q     d
+rest   4        q
+rest   4        q
+measure 104
+rest  12
+measure 105
+rest  12
+measure 106
+rest   2        e
+G5     2        e     d  [
+A5     2        e     d  =
+G5     2        e     d  ]
+F#5    4        q #   d
+measure 107
+G5     2        e     d  [
+D5     2        e     d  =
+G5     2        e     d  =
+F5     2        e n   d  ]      +
+E5     4-       q     d        -
+measure 108
+E5     2        e     d  [
+A5     1        s     d  =[
+G5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+D5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+D5     1        s     d  ]]
+measure 109
+G5     2        e     d  [     (
+G5     2        e     d  =
+G5     2        e     d  =
+G5     2        e     d  =
+G5     2        e     d  =
+G5     2        e     d  ]     )
+measure 110
+G5     2        e     d  [
+A5     1        s     d  =[
+G5     1        s     d  ]]
+F5     2        e     d  [     (
+F5     2        e     d  =
+F5     2        e     d  =
+F5     2        e     d  ]     )
+measure 111
+F5     2        e     d  [
+G5     1        s     d  =[
+F5     1        s     d  ]]
+E5     2        e     d  [     (
+E5     2        e     d  =
+E5     2        e     d  =
+E5     2        e     d  ]     )
+measure 112
+E5     2        e     d  [
+C6     1        s     d  =[
+B5     1        s     d  ]]
+A5     1        s     d  [[
+B5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+measure 113
+D5     1        s     d  [[
+E5     1        s     d  =]
+F5     2-       e     d  ]     -
+F5     1        s     d  [[
+D5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 114
+E5     1        s     d  [[
+F5     1        s     d  ==
+D5     1        s     d  ==
+E5     1        s     d  ]]
+C5     1        s     d  [[
+D5     1        s     d  ==
+C5     1        s     d  ==
+D5     1        s     d  ]]
+D5     3        e.    d  [      t
+S  C33:n6s17t84 
+C5     1        s     d  ]\
+measure 115
+C5     2        e     d
+rest   2        e
+rest   4        q
+rest   4        q
+measure 116
+C5     4        q     d
+C6     4        q     d
+B5     4        q     d
+measure 117
+C6     4        q     d
+C5     8        h     d
+measure 118
+G4     4        q     u
+F5     4        q     d
+E5     4        q     d
+measure 119
+D5     4        q     d
+G4     8        h     u
+measure 120
+rest   2        e
+G5     2        e     d  [
+A5     2        e     d  =
+G5     2        e     d  ]
+F#5    4        q #   d
+measure 121
+G5     2        e     d  [
+D5     2        e     d  =
+G5     2        e     d  =
+F5     2        e n   d  ]      +
+E5     4-       q     d        -
+measure 122
+E5     2        e     d  [
+A5     1        s     d  =[
+G5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+D5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+D5     1        s     d  ]]
+measure 123
+G5     4        q     d
+C5     8-       h     d        -
+measure 124
+C5     2        e     d  [
+C6     1        s     d  =[
+B5     1        s     d  ]]
+A5     1        s     d  [[
+B5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+measure 125
+D5     1        s     d  [[
+E5     1        s     d  =]
+F5     2-       e     d  ]     -
+F5     1        s     d  [[
+D5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 126
+E5     1        s     d  [[
+F5     1        s     d  ==
+D5     1        s     d  ==
+E5     1        s     d  ]]
+C5     1        s     d  [[
+D5     1        s     d  ==
+C5     1        s     d  ==
+D5     1        s     d  ]]
+D5     3        e.    d  [
+C5     1        s     d  ]\
+measure 127
+C5     4        q     d
+rest   2        e
+C5     2        e     d
+G4     1        s     u  [[
+E4     1        s     u  =]
+G4     2        e     u  ]
+mdouble
+/END

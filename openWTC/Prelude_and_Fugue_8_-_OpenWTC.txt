@@ -1,0 +1,18 @@
+MUSICXML : Prelude_and_Fugue_8_-_OpenWTC.mxl
+
+TITLE : Prelude_and_Fugue_8_-_OpenWTC.mxl
+
+SET MARKS :
+1:M1
+41:M41
+88:M88
+
+PLAY MARKS :
+M1
+M41
+M88
+
+PARTS :
+P1_Piano:played/visible
+
+ORNAMENTS :

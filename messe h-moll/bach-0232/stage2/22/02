@@ -1,0 +1,375 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/22/02} [KHM:25593487]
+TIMESTAMP: DEC/26/2001 [md5sum:4e32d69cf55b165bece8d213edf75a66]
+05/27/95 S. Rasmussen
+WK#:232       MV#:24
+Bach Gesellschaft vi
+Mass in B minor
+Aria: Benedictus
+TENORE
+0 75 T
+Group memberships: score  sound
+score: part 2 of 3
+sound: part 2 of 3
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:8   T:3/4  C:34
+rest   8        q
+measure 1
+rest  24
+measure 2
+rest  24
+measure 3
+rest  24
+measure 4
+rest  24
+measure 5
+rest  24
+measure 6
+rest  24
+measure 7
+rest  24
+measure 8
+rest  24
+measure 9
+rest  24
+measure 10
+rest  24
+measure 11
+rest  24
+measure 12
+rest   8        q
+rest   8        q
+D4     2        s     d  [[                Be-
+C#4    2        s     d  ==                -
+B3     2        s     d  ]]                -
+D4     2        s     d                    ne-
+measure 13
+C#4    4        e     d                    di-
+F#3    4        e     u                    ctus,
+E4     6        e.    d  [     (           be-
+F#4    1        t     d  =[[               -
+G4     1        t     d  ]]]               -
+F#4    4        e     d        )           -
+E4     4        e     d                    ne-
+measure 14
+D4     4        e     d                    di-
+E4     2        s     d                    ctus
+C#4    2        s     d                    qui
+D4     6        e.    d  [     (           ve-
+E4     1        t     d  =[[               -
+F#4    1        t     d  ]]]   )           -
+B3     4        e     d                    nit,
+D4     4        e     d                    qui
+measure 15
+C#4    2        s     d  [[    (           ve-
+F#4    2        s     d  ]]    )           -
+E#4    4        e #   d                    nit
+rest   4        e
+F#4    4        e     d                    in
+E4     2        s n   d  [[    (           no-
+D4     2        s     d  ]]    )           -
+C#4    2        s     d                    mi-
+B3     2        s     d                    ne
+measure 16
+A#3    2        s #   d  [[    (           Do-
+E4     2        s     d  ]]    )           -
+D4     4        e     d                    mi-
+C#4    8        q     d                    ni,
+rest   4        e
+F#3    4        e     u                    qui
+measure 17
+D4     2        s     d  [[                ve-
+C#4    2        s     d  ]]                -
+B3     4        e     d                    nit,
+rest   4        e
+A3     4        e     u  [                 be-
+G#3    4        e #   u  ]                 -
+D4     4        e     d                    ne-
+measure 18
+C#4    4        e     d                    di-
+D4     2        s     d                    ctus
+B3     2        s     d                    qui
+C#4    6        e.    d  [     (           ve-
+D4     1        t     d  =[[               -
+E4     1        t     d  ]]]   )           -
+A3     4        e     u                    nit,
+C#4    2        s     d  [[                qui_
+E4     2        s     d  ]]                _
+measure 19
+G4     2        s     d  [[                ve-
+F#4    2        s     d  ]]                -
+E4     4        e     d                    nit
+rest   4        e
+D#4    4        e #   d                    in
+E4     4        e     d                    no-
+F#4    2        s     d                    mi-
+G4     2        s     d                    ne
+measure 20
+A4     2        s     d  [[                Do-
+F#4    2        s     d  ]]                -
+G4     4        e     d                    mi-
+G4     8        q     d                    ni,
+rest   4        e
+E4     4        e     d                    in
+measure 21
+D4     2        s     d  [[    (           no-
+C#4    2        s     d  ==                -
+B3     2        s     d  ==                -
+A3     2        s     d  ]]                -
+A4     2        s     d  [[                -
+F#4    2        s     d  ]]    )           -
+E4     2        s     d                    mi-
+D4     2        s     d                    ne
+F#4    2        s     d  [[                Do-
+E4     2        s     d  ]]                -
+D4     2        s     d  [[                mi-
+C#4    2        s     d  ]]                -
+measure 22
+D4     8        q     d                    ni,
+rest   4        e
+F#4    4        e     d  [     (           be-
+E4     2        s     d  =[                -
+G4     2        s     d  ]]    )           -
+F#4    4        e     d                    ne-
+measure 23
+E4     2        s     d  [[    (           di-
+C#4    2        s     d  ]]    )           -
+A3     4        e     u                    ctus,
+rest   4        e
+F#4    4        e     d  [     (           be-
+E4     2        s     d  =[                -
+G4     2        s     d  ]]    )           -
+F#4    4        e     d                    ne-
+measure 24
+E4     2        s     d  [[                di-
+G#4    2        s #   d  =]                -
+A4     4        e     d  ]                 -
+A3     8        q     u                    ctus
+rest   4        e
+G4     4        e n   d                    qui
+measure 25
+F#4    2        s     d  [[                ve-
+E4     2        s     d  ]]                -
+D4     2        s     d                    nit
+C#4    2        s     d                    in
+D4     2        s     d  [[                no-
+A3     2        s     d  ]]                -
+B3     2        s     u                    mi-
+G3     2        s     u                    ne
+F#3    2        s     u  [[                Do-
+E3     2        s     u  ]]                -
+D4     2        s     d  [[                mi-
+C#4    2        s     d  ]]                -
+measure 26
+D4     8        q     d                    ni.
+rest   8        q
+rest   8        q
+measure 27
+rest  24
+measure 28
+rest  24
+measure 29
+rest  24
+measure 30
+rest  24
+measure 31
+rest   8        q
+rest   8        q
+rest   4        e
+F#3    2        s     u  [[    (           Be-
+G3     2        s     u  ]]                -
+measure 32
+A3     2        s     u  [[                -
+B3     2        s     u  ]]                -
+C4     8        q n   d        )           -
+B3     4        e     u                    ne-
+A3     4        e     u                    di-
+G3     4        e     u                    ctus,
+measure 33
+F#3    4        e     u                    be-
+gE4    5        s     u        (
+S  C1:t33 
+D#4    4        e #   d        )           ne-
+E4     4        e     d                    di-
+G3     2        s     u  [[                ctus_
+F#3    2        s     u  =]                _
+E3     4        e     u  ]                 _
+B3     4        e     d                    qui
+measure 34
+C4     2        s n   d  [[                ve-
+E4     2        s     d  ]]                -
+G4     4        e     d                    nit
+rest   4        e
+B3     4        e     u                    in
+A#3    2        s #   u  [[                no-
+B3     2        s     u  ]]                -
+C#4    2        s #   d                    mi-
+D4     2        s     d                    ne
+measure 35
+E4     2        s     d  [[                Do-
+D4     2        s     d  ]]                -
+C#4    2        s     d  [[                mi-
+B3     2        s     d  ]]                -
+F#4    8        q     d                    ni,
+rest   4        e
+C#4    2        s     d                    be-
+E4     2        s     d                    ne-
+measure 36
+D4     2        s     d  [[    (           di-
+C#4    2        s     d  ]]                -
+B3     8        q     d        )           -
+F#3    4        e     u                    ctus,
+G3     2        s     u  [[                be-
+F#3    2        s     u  ]]                -
+E3     2        s     u  [[                ne-
+F#3    2        s     u  ]]                -
+measure 37
+F#3    2        s     u  [[                di-
+A#3    2        s #   u  =]                -
+C#4    4-       e     u  ]     -           -
+C#4    2        s     d  [[                -
+D4     2        s     d  ]]                -
+E4     2        s     d                    ctus
+G4     2        s     d                    qui
+F#4    2        s     d  [[    (           ve-
+E4     2        s     d  ==                -
+D4     2        s     d  ==                -
+C#4    2        s     d  ]]                -
+measure 38
+D#4    2        s #   d  [[                -
+F#4    2        s     d  ]]    )           -
+A4     4        e     d                    nit
+rest   4        e
+C4     4        e n   d                    in
+B3     2        s     d  [[                no-
+D#4    2        s     d  ]]                -
+F#4    2        s     d                    mi-
+A3     2        s     u                    ne
+measure 39
+G3     2        s     u  [[                Do-
+F#3    2        s     u  ]]                -
+A3     4        e     u                    mi-
+G3     8        q     u                    ni,
+rest   4        e
+E4     2        s     d  [[                qui_
+F#4    1        t     d  ==[               _
+G4     1        t     d  ]]]               _
+measure 40
+G4     2        s     d  [[    (           ve-
+E4     2        s     d  ]]    )           -
+D4     2        s     d                    nit
+C#4    2        s     d                    in
+F#4    2        s     d  [[    (           no-
+D4     2        s     d  ]]    )           -
+C#4    2        s     d                    mi-
+B3     2        s     d                    ne
+D4     2        s     d  [[    (           Do-
+C#4    2        s     d  ]]    )           -
+B3     2        s     u  [[    (           mi-
+A#3    2        s #   u  ]]    )           -
+measure 41
+B3     8        q     d                    ni,
+rest   4        e
+D4     4        e     d  [     (           be-
+C#4    2        s     d  =[                -
+E4     2        s     d  ]]    )           -
+D4     4        e     d                    ne-
+measure 42
+C#4    4        e     d  [                 di-
+A#3    4        e #   d  ]                 -
+F#3    4        e     u                    ctus,
+D4     4        e     d  [     (           be-
+E4     2        s     d  =[                -
+D4     2        s     d  ]]    )           -
+C#4    2        s     d  [[    (           ne-
+B3     2        s     d  ]]    )           -
+measure 43
+C#4    2        s     d  [[                di-
+E#4    2        s #   d  =]                -
+F#4    4        e     d  ]                 -
+F#3    8        q     u                    ctus
+rest   4        e
+A#3    4        e #   u                    qui
+measure 44
+B3     2        s     d  [[                ve-
+C#4    2        s     d  ]]                -
+D4     2        s     d                    nit
+E4     2        s     d                    in
+F#4    2        s     d  [[                no-
+E4     2        s     d  ]]                -
+G4     2        s     d                    mi-
+F#4    2        s     d                    ne
+E4     2        s     d  [[                Do-
+D4     2        s     d  ]]                -
+C#4    2        s     d  [[                mi-
+B3     2        s     d  ]]                -
+measure 45
+$  Q:24 
+E#4   12        e #   d                    ni,
+B3    12        e     u                    qui
+gC#4   5        s     u        (
+S  C1:t50 
+B3     8        s     u  [[    )           ve-
+A#3    4        s #   u  =]                -
+B3    12-       e     u  ]     -           -
+B3     6        s     u  [[                -
+A#3    6        s     u  =]                -
+B3    12-       e     u  ]     -           -
+measure 46
+$  Q:8 
+B3     2        s     u  [[                -
+A#3    2        s #   u  ]]                -
+E4     4        e     d                    nit,
+rest   4        e
+G4     4        e     d                    qui
+F#4    2        s     d  [[                ve-
+E4     2        s     d  ]]                -
+D4     2        s     d                    nit
+C#4    2        s     d                    in
+measure 47
+D4     2        s     d  [[    (           no-
+B3     2        s     d  ==                -
+A#3    2        s #   d  ==                -
+B3     2        s     d  ]]                -
+E3     2        s     u  [[                -
+D4     2        s     u  ]]    )           -
+C#4    2        s     d                    mi-
+B3     2        s     d                    ne
+F#3    2        s     u  [[                Do-
+B3     2        s     u  ]]                -
+C#4    2        s     d  [[                mi-
+A#3    2        s #   d  ]]     +          -
+measure 48
+B3     8        q     d                    ni.
+rest   8        q
+rest   8        q
+measure 49
+rest  24
+measure 50
+rest  24
+measure 51
+rest  24
+measure 52
+rest  24
+measure 53
+rest  24
+measure 54
+rest  24
+measure 55
+rest  24
+measure 56
+rest  24
+measure 57
+rest  24                       F
+*               B       Osanna da Capo
+P  C25:f33
+mheavy2
+/FINE 
+Sound directions for grace notes: In measure 45, I have 
+taken advantage of MuseData's ability to separate aural 
+from visual representation by giving the notated grace-plus- 
+two sixteenth-notes a sound value of three triplet sixteenths.  
+-- S. Rasmussen 
+/END

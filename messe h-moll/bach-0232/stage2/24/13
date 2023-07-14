@@ -1,0 +1,306 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/24/13} [KHM:2004227025]
+TIMESTAMP: DEC/26/2001 [md5sum:ae84aab92a88c1beba4c1d9e8bf53937]
+05/29/95 S. Rasmussen
+WK#:232       MV#:26
+Bach Gesellschaft vi
+Mass in B minor
+Dona nobis pacem
+BASSO
+1 72 B
+Group memberships: score  sound
+score: part 13 of 14
+sound: part 13 of 14
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:2   T:0/0  C:22
+rest   4        h
+D3     4        h     d        (           Do-
+E3     4        h     d        )           -
+F#3    4        h     d                    na
+measure 2
+G3     4        h     d                    no-
+F#3    2        q     d                    -
+E3     2        q     d                    -
+F#3    2        q     d                    -
+D3     2        q     d                    bis
+G3     4-       h     d        -           pa-
+measure 3
+G3     4        h     d                    -
+F#3    4        h     d                    cem,
+E3     8        w     d                    pa-
+measure 4
+D3     8        w     d                    cem,
+rest   8        w
+measure 5
+rest   4        h
+A3     8        w     d                    pa-
+G#3    4        h #   d                    cem,
+measure 6
+A3     2        q     d                    do-
+G3     1        e n   d  [      +          -
+F#3    1        e     d  ]                 -
+E3     1        e     d  [                 -
+F#3    1        e     d  =                 -
+D3     1        e     d  =                 -
+E3     1        e     d  ]                 -
+F#3    1        e     d  [                 -
+E3     1        e     d  =                 -
+F#3    1        e     d  =                 -
+G3     1        e     d  ]                 -
+F#3    1        e     d  [                 -
+G3     1        e     d  =                 -
+F#3    1        e     d  =                 -
+E3     1        e     d  ]                 -
+measure 7
+D3     2        q     d                    -
+B2     2        q     u                    na
+E3     4        h     d                    no-
+A2     8        w     u                    bis,
+measure 8
+rest   8        w
+rest   4        h
+D3     4        h     d        (           do-
+measure 9
+E3     4        h     d        )           -
+F#3    4        h     d                    na
+G3     4        h     d                    no-
+F#3    2        q     d                    -
+E3     2        q     d                    -
+measure 10
+F#3    2        q     d                    -
+B2     2        q     u                    bis
+B3     4-       h     d        -           pa-
+B3     2        q     d                    -
+A3     4        h     d                    -
+D4     2        q     d                    cem,
+measure 11
+G3     2        q     d                    do-
+B3     2        q     d                    na
+A3     2        q     d        (           no-
+G3     2        q     d        )           -
+F#3    8        w     d                    bis
+measure 12
+rest  16
+measure 13
+rest   4        h
+B3     8        w     d                    pa-
+A#3    4        h #   d                    cem,
+measure 14
+B3     1        e     d  [                 pa-
+C#4    1        e     d  =                 -
+A3     1        e n   d  =      +          -
+B3     1        e     d  ]                 -
+C#4    1        e     d  [                 -
+D4     1        e     d  =                 -
+B3     1        e     d  =                 -
+C#4    1        e     d  ]                 -
+D4     1        e     d  [                 -
+C#4    1        e     d  =                 -
+D4     1        e     d  =                 -
+E4     1        e     d  ]                 -
+D4     1        e     d  [                 -
+E4     1        e     d  =                 -
+D4     1        e     d  =                 -
+C#4    1        e     d  ]                 -
+measure 15
+B3     8-       w     d        -           -
+B3     2        q     d                    -
+C#4    2        q     d                    -
+D4     4        h     d                    cem,
+measure 16
+A3     4        h     d                    do-
+G3     2        q     d        (           na_
+F#3    2        q     d        )           _
+E3     4        h     d                    no-
+A3     4        h     d                    bis
+measure 17
+D3     4        h     d        (           pa-
+E3     4        h     d        )           -
+A2     8-       w     u        -           cem,_
+measure 18
+A2     4        h     u                    _
+A#2    1        e #   u  [                 do-
+B2     1        e     u  =                 -
+G#2    1        e #   u  =                 -
+A#2    1        e     u  ]                 -
+B2     1        e     u  [                 -
+C#3    1        e     u  =                 -
+A#2    1        e     u  =                 -
+B2     1        e     u  ]                 -
+C#3    1        e     u  [                 -
+D3     1        e     u  =                 -
+B2     1        e     u  =                 -
+C#3    1        e     u  ]                 -
+measure 19
+D3     1        e     u  [                 -
+C#3    1        e     u  =                 -
+D3     1        e     u  =                 -
+E3     1        e     u  ]                 -
+C3     1        e n   u  [                 -
+B2     1        e     u  =                 -
+C3     1        e     u  =                 -
+D3     1        e     u  ]                 -
+B2     2        q     u                    -
+B2     2        q     u                    na
+E3     4        h     d                    no-
+measure 20
+A2     4        h     u                    bis
+B2     4        h     u                    pa-
+E3     4        h     d                    cem,
+rest   4        h
+measure 21
+rest  16
+measure 22
+rest   8        w
+rest   4        h
+D3     4-       h     u        -           pa-
+measure 23
+D3     4        h     u                    -
+C#3    4        h     u                    cem,
+D3     2        q     u                    do-
+C#3    1        e     u  [                 -
+B2     1        e     u  ]                 -
+A2     1        e     u  [                 -
+B2     1        e     u  =                 -
+G#2    1        e #   u  =                 -
+A2     1        e     u  ]                 -
+measure 24
+B2     1        e     u  [                 -
+A2     1        e     u  =                 -
+B2     1        e     u  =                 -
+C#3    1        e     u  ]                 -
+B2     1        e     u  [                 -
+D3     1        e     u  =                 -
+C#3    1        e     u  =                 -
+B2     1        e     u  ]                 -
+A2     2        q     u                    -
+B2     2        q     u                    na
+C#3    4        h     u                    no-
+measure 25
+F#2    2        q     u                    bis,
+rest   2        q
+B3     4-       h     d        -           do-
+B3     2        q     d                    -
+A3     2        q     d                    na
+G3     2        q     d                    no-
+F#3    2        q     d                    bis
+measure 26
+E3     4        h     d        (           pa-
+A3     4        h     d        )           -
+D3     4        h     d                    cem,
+rest   4        h
+measure 27
+rest  16
+measure 28
+rest   8        w
+D3     8        w     d        (           do-
+measure 29
+E3     4        h     d        )           -
+F#3    4        h     d                    na
+G3     4        h     d                    no-
+F#3    2        q     d                    -
+E3     2        q     d                    -
+measure 30
+F#3    2        q     d                    -
+D3     2        q     d                    bis
+G3     8        w     d                    pa-
+F#3    4        h     d                    cem,
+measure 31
+E3     4        h     d        (           pa-
+A3     4        h     d        )           -
+D3     2        q     d                    cem,
+rest   2        q
+B3     4-       h     d        -           do-
+measure 32
+B3     2        q     d                    -
+C#4    2        q     d                    -
+D4     2        q     d        (           na_
+B3     2        q     d        )           _
+G3     2        q     d                    no-
+E3     2        q     d                    bis
+A3     4        h     d                    pa-
+measure 33
+D3     4        h     d                    cem,
+rest   4        h
+rest   8        w
+measure 34
+rest  16
+measure 35
+rest   8        w
+A2     8        w     u        (           do-
+measure 36
+B2     4        h     u        )           -
+C#3    4        h     u                    na
+D3     4        h     u                    no-
+C#3    2        q     u                    -
+B2     2        q     u                    -
+measure 37
+C#3    2        q     u                    -
+A2     2        q     u                    bis
+D3     8        w     d                    pa-
+C#3    4        h     u                    cem,
+measure 38
+B2     8        w     u                    pa-
+A2     4        h     u                    cem,
+A3     4-       h     d        -           pa-
+measure 39
+A3     4        h     d                    -
+G#3    4        h #   d                    cem,
+A3     1        e     d  [                 do-
+B3     1        e     d  =                 -
+A3     1        e     d  =                 -
+G3     1        e n   d  ]                 -
+F#3    1        e     d  [                 -
+G3     1        e     d  =                 -
+E3     1        e     d  =                 -
+F#3    1        e     d  ]                 -
+measure 40
+G#3    1        e #   d  [                 -
+A3     1        e     d  =                 -
+F#3    1        e     d  =                 -
+G#3    1        e     d  ]                 -
+A#3    1        e #   d  [                 -
+B3     1        e     d  =                 -
+G#3    1        e     d  =                 -
+A#3    1        e     d  ]                 -
+B3     8-       w     d        -           -
+measure 41
+B3     2        q     d                    -
+A3     1        e n   d  [      +          -
+G3     1        e     d  ]                 -
+A3     1        e     d  [                 -
+B3     1        e     d  =                 -
+C#4    1        e     d  =                 -
+A3     1        e     d  ]                 -
+D4     2        q     d                    -
+A3     2        q     d                    -
+D4     4-       h     d        -           -
+measure 42
+D4     4        h     d                    -
+C4     4        h n   d                    na
+B3     8-       w     d        -           no-
+measure 43
+B3     4        h     d                    -
+A3     4        h     d                    bis
+G#3    8        w #   d                    pa-
+measure 44
+A3     2        q     d                    cem,
+A3     4        h     d                    do-
+D3     2        q     d                    na
+G3     2        q n   d        (+          no-
+F#3    2        q     d                    -
+G3     2        q     d        )           -
+E3     2        q     d                    bis
+measure 45
+F#3    6        h.    d                    pa-
+G3     2        q     d                    -
+A3     4        h     d                    -
+A2     4        h     u                    -
+measure 46
+D3    16        b     d        F           cem.
+*               B       Fine
+P  C25:f33  C17:Y100
+mheavy2
+/END

@@ -1,0 +1,480 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/19a/s05} [KHM:3208088985]
+TIMESTAMP: DEC/26/2001 [md5sum:d9a4dd47e5f0ffe55cd03ca9298a3dc3]
+03/29/95 S. Rasmussen
+WK#:232       MV#:20a
+Bach Gesellschaft vi
+Mass in B Minor
+Confiteor
+BASSO
+0 72 B
+Group memberships: score  
+score: part 5 of 6
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:3   Q:2   T:0/0  C:22
+rest   8
+measure 2
+rest   8
+measure 3
+rest   8
+measure 4
+rest   8
+measure 5
+rest   8
+measure 6
+rest   8
+measure 7
+rest   4        h
+C#3    4        h     u                    Con-
+measure 8
+D3     6        h.    d                    fi-
+D3     2        q     d                    te-
+measure 9
+C#3    2        q     u                    or,
+F#2    2        q     u                    con-
+F#3    4-       h     d        -           fi-
+measure 10
+F#3    4        h     d                    -
+E#3    4        h #   d                    te-
+measure 11
+F#3    2        q     d                    or
+G#3    2        q     d                    u-
+A3     2        q     d                    num
+F#3    2        q     d                    ba-
+measure 12
+B3     8-       w     d        -           pti-
+measure 13
+B3     4        h     d                    -
+A3     2        q     d        (           sma,_
+G#3    2        q     d        )           _
+measure 14
+A3     2        q     d        (           u-
+G#3    2        q     d        )           -
+F#3    2        q     d                    num
+E3     2        q     d                    ba-
+measure 15
+D3     8        w     d                    pti-
+measure 16
+C#3    4        h     u                    sma
+rest   4        h
+measure 17
+rest   8
+measure 18
+rest   8
+measure 19
+rest   8
+measure 20
+rest   8
+measure 21
+rest   8
+measure 22
+rest   8
+measure 23
+rest   8
+measure 24
+rest   4        h
+A3     2        q     d                    in
+A3     2        q     d                    re-
+measure 25
+A3     2        q     d                    mis-
+D3     2        q     d                    si-
+G3     4-       h n   d        -           o-
+measure 26
+G3     2        q     d                    -
+F#3    1        e     d  [                 nem_
+E3     1        e     d  ]                 _
+F#3    2        q     d                    pec-
+D3     2        q     d                    ca-
+measure 27
+E3     8        w     d                    to-
+measure 28
+D3     2        q     d                    rum,
+F#3    2        q     d        (           in_
+G3     2        q n   d        )           _
+D3     2        q     d                    re-
+measure 29
+E3     2        q     d                    mis-
+C#3    2        q     u                    si-
+F#3    2        q     d                    o-
+E3     2        q     d                    nem
+measure 30
+D#3    2        q #   d        (           pec-
+G3     4        h n   d        )           -
+F#3    2        q     d                    ca-
+measure 31
+E#3    4        h #   d        (           to-
+F#3    4        h     d        )           -
+measure 32
+B2     4        h     u                    rum,
+rest   4        h
+measure 33
+rest   8
+measure 34
+rest   8
+measure 35
+rest   8
+measure 36
+rest   8
+measure 37
+rest   8
+measure 38
+rest   8
+measure 39
+rest   8
+measure 40
+rest   4        h
+G#3    4        h     d                    con-
+measure 41
+A3     6        h.    d                    fi-
+A3     2        q     d                    te-
+measure 42
+G#3    2        q     d                    or,
+C#3    2        q     u                    con-
+C#4    4-       h     d        -           fi-
+measure 43
+C#4    4        h     d                    -
+B#3    4        h #   d                    te-
+measure 44
+C#4    4        h     d                    or
+C#3    4-       h     u        -           u-
+measure 45
+C#3    2        q     u        (           -
+D#3    2        q #   u        )           -
+E3     2        q     d                    num
+C#3    2        q     u                    ba-
+measure 46
+F#3    8        w     d                    pti-
+measure 47
+E3     2        q     d                    sma
+E4     4        h     d                    in
+E4     2        q     d                    re-
+measure 48
+E4     2        q     d                    mis-
+A3     2        q     d                    si-
+D4     4-       h     d        -           o-
+measure 49
+D4     2        q     d                    -
+C#4    1        e     d  [                 nem_
+B3     1        e     d  ]                 _
+C#4    2        q     d                    pec-
+A3     2        q     d                    ca-
+measure 50
+B3     8-       w     d        -           to-
+measure 51
+B3     2        q     d                    -
+A3     1        e     d  [                 rum,_
+G#3    1        e     d  ]                 _
+A3     2        q     d                    in
+A3     2        q     d                    re-
+measure 52
+A3     2        q     d                    mis-
+D3     2        q     d                    si-
+G3     4-       h n   d        -           o-
+measure 53
+G3     2        q     d                    -
+F#3    1        e     d  [                 nem_
+E3     1        e     d  ]                 _
+F#3    2        q     d                    pec-
+D3     2        q     d                    ca-
+measure 54
+E3     4        h     d        (           to-
+A3     4        h     d        )           -
+measure 55
+D3     4        h     d                    rum,
+rest   4        h
+measure 56
+rest   8
+measure 57
+rest   4        h
+E3     4        h     d                    con-
+measure 58
+F#3    6        h.    d                    fi-
+F#3    2        q     d                    te-
+measure 59
+E3     2        q     d                    or,
+A2     2        q     u                    con-
+A3     4-       h     d        -           fi-
+measure 60
+A3     4        h     d                    -
+G#3    4        h     d                    te-
+measure 61
+A3     2        q     d                    or
+F#3    2        q     d                    u-
+B3     2        q     d                    num
+A3     2        q     d                    ba-
+measure 62
+G#3    2        q     d                    pti-
+E3     2        q     d                    sma
+A3     2        q     d                    in
+A3     2        q     d                    re-
+measure 63
+A3     2        q     d                    mis-
+D#3    2        q #   d                    si-
+G#3    4-       h     d        -           o-
+measure 64
+G#3    2        q     d                    -
+F#3    1        e     d  [                 nem_
+E3     1        e     d  ]                 _
+F#3    2        q     d                    pec-
+B2     2        q     u                    ca-
+measure 65
+E3     4        h     d                    to-
+E#3    4        h #   d                    -
+measure 66
+F#3    4        h     d                    -
+F##3   4        h x   d                    -
+measure 67
+G#3    8        w     d                    -
+measure 68
+F##3   4        h x   d                    -
+G#3    4        h     d                    -
+measure 69
+C#3    8        w     u                    rum,
+measure 70
+rest   8
+measure 71
+rest   8
+measure 72
+rest   8
+measure 73
+G#3    4        h     d        (           con-
+A3     4        h     d        )           -
+measure 74
+B3     4        h     d                    fi-
+B3     4        h     d                    te-
+measure 75
+B3     4        h     d                    or
+rest   4        h
+measure 76
+rest   4        h
+B3     4        h     d                    u-
+measure 77
+B3     4        h     d                    num
+B3     4        h     d                    ba-
+measure 78
+B3     8        w     d                    pti-
+measure 79
+A3     4        h     d                    sma
+rest   4        h
+measure 80
+rest   8
+measure 81
+A3     4        h     d                    in
+A3     4        h     d                    re-
+measure 82
+G#3    4        h     d                    mis-
+F#3    4        h     d                    si-
+measure 83
+B3     4        h     d                    o-
+C#4    4        h     d                    nem
+measure 84
+rest   8
+measure 85
+B3     4        h     d                    pec-
+A3     4        h     d                    ca-
+measure 86
+B3     8        w     d                    to-
+measure 87
+A3     4        h     d                    rum,
+rest   4        h
+measure 88
+rest   4        h
+C#4    2        q     d                    in
+C#4    2        q     d                    re-
+measure 89
+C#4    2        q     d                    mis-
+F#3    2        q     d                    si-
+B3     4-       h     d        -           o-
+measure 90
+B3     2        q     d                    -
+A3     1        e     d  [                 nem_
+G#3    1        e     d  ]                 _
+A3     2        q     d                    pec-
+F#3    2        q     d                    ca-
+measure 91
+G#3    8        w     d                    to-
+measure 92
+F#3    8        w     d                    rum,
+measure 93
+rest   8
+measure 94
+rest   8
+measure 95
+rest   8
+measure 96
+rest   8
+measure 97
+rest   4        h
+C#4    2        q     d                    in
+C#4    2        q     d                    re-
+measure 98
+C#4    2        q     d                    mis-
+F#3    2        q     d                    si-
+B3     4-       h     d        -           o-
+measure 99
+B3     2        q     d                    -
+A3     1        e     d  [                 nem_
+G#3    1        e     d  ]                 _
+A3     2        q     d                    pec-
+A2     2        q     u                    ca-
+measure 100
+E3     4        h     d                    to-
+E3     4        h     d                    rum,
+measure 101
+rest   8
+measure 102
+rest   4        h
+A#3    4        h #   d                    con-
+measure 103
+B3     6        h.    d                    fi-
+B3     2        q     d                    te-
+measure 104
+A3     2        q n   d         +          or,
+D3     2        q     d                    con-
+D4     4-       h     d        -           fi-
+measure 105
+D4     4        h     d                    -
+C#4    4        h     d                    te-
+measure 106
+D4     4        h     d                    or
+D3     4-       h     d        -           u-
+measure 107
+D3     2        q     d        (           -
+E3     2        q     d        )           -
+F#3    2        q     d                    num
+D3     2        q     d                    ba-
+measure 108
+E3     6        h.    d        (           pti-
+F#3    2        q     d        )           -
+measure 109
+B2     4        h     u                    sma
+B3     2        q     d                    in
+B3     2        q     d                    re-
+measure 110
+B3     2        q     d                    mis-
+E3     2        q     d                    si-
+A3     4-       h     d        -           o-
+measure 111
+A3     2        q     d                    -
+A3     1        e     d  [                 nem_
+G3     1        e n   d  ]                 _
+A3     2        q     d                    pec-
+D3     2        q     d                    ca-
+measure 112
+G3     8        w n   d                    to-
+measure 113
+F#3    2        q     d                    rum,
+B2     2        q     u                    con-
+B3     4-       h     d        -           fi-
+measure 114
+B3     4        h     d                    -
+A#3    4        h #   d                    te-
+measure 115
+B3     6        h.    d                    or
+A3     2        q n   d         +          u-
+measure 116
+G#3    2        q #   d         +          num
+E3     2        q     d                    ba-
+A3     2        q     d                    pti-
+G3     2        q n   d                    sma
+measure 117
+F#3    2        q     d                    in
+D3     2        q     d                    re-
+E3     2        q     d                    mis-
+F#3    2        q     d                    si-
+measure 118
+G3     2        q n   d                    o-
+A3     2        q     d                    -
+B3     2        q     d                    -
+G3     2        q     d                    -
+measure 119
+E3     2        q     d                    -
+F#3    2        q     d                    -
+G3     2        q n   d        (           nem_
+E3     2        q     d        )           _
+measure 120
+C3     2        q n   u        (           pec-
+D3     2        q     u        )           -
+E3     2        q     d        (           ca-
+D3     2        q     d        )           -
+measure 121
+*               D +     Adagio
+P  C25:f33
+C#3    8        w #   u         +          to-
+measure 122
+D3     8-       w     d        -           rum._
+measure 123
+D3     4        h     d                    _
+D4     4-       h     d        -           Et_
+measure 124
+D4     4        h     d                    _
+C4     4        h n   d                    ex-
+measure 125
+Bf3    8        w f   d        (           pe-
+measure 126
+A3     8        w     d        )           -
+measure 127
+Bf3    8-       w f   d        -           cto,_
+measure 128
+Bf3    4        h     d                    -
+A3     4        h     d                    ex-
+measure 129
+G#3    8        w #   d         +          pe-
+measure 130
+G3     8        w n   d                    -
+measure 131
+F3     8-       w n   d        -           -
+measure 132
+F3     4        h     d                    -
+E3     2        q     d        (           cto_
+D3     2        q     d        )           _
+measure 133
+C#3    2        q     u                    re-
+A3     2        q     d                    sur-
+B3     2        q     d                    re-
+C#4    2        q     d                    cti-
+measure 134
+D4     2        q     d                    o-
+A3     2        q     d                    nem
+F#3    2        q     d                    mor-
+D3     2        q     d                    tu-
+measure 135
+G#2    8        w #   u         +          o-
+measure 136
+A2     8-       w     u        -           rum,_
+measure 137
+A2     4        h     u                    _
+rest   4        h
+measure 138
+rest   4        h
+A3     2        q     d        (           ex-
+G3     2        q n   d        )           -
+measure 139
+F#3    8        w     d                    pe-
+measure 140
+E#3    4        h #   d                    cto
+rest   4        h
+measure 141
+rest   4        h
+F#3    2        q     d                    re-
+A3     2        q     d                    sur-
+measure 142
+C#4    6        h.    d                    re-
+C#4    2        q     d                    cti-
+measure 143
+D4     2        q     d                    o-
+D3     2        q     d                    nem
+D3     2        q     d                    mor-
+C3     2        q n   u                    tu-
+mdouble 144
+$  K:2   Q:1
+B2     4        w     u        (           o-
+measure 145
+Bf2    4        w f   u        )           -
+measure 146
+A2     2        h     u                    rum,
+rest   2        h
+measure 147
+/END

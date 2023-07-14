@@ -1,0 +1,329 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/03/05} [KHM:1040514335]
+TIMESTAMP: DEC/26/2001 [md5sum:c2aba5fd360e0302321123ade35b8c9f]
+10/10/94 S. Rasmussen
+WK#:232       MV#:3
+Bach Gesellschaft vi
+Mass in B Minor
+Kyrie II
+SOPRANO 1,2
+0 72 S
+Group memberships: score  sound
+score: part 5 of 9
+sound: part 5 of 9
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:3   Q:1   T:0/0  C:4  D:Alla breve
+rest   8
+measure 2
+rest   8
+measure 3
+rest   8
+measure 4
+rest   8
+measure 5
+rest   8
+measure 6
+rest   8
+measure 7
+rest   8
+measure 8
+rest   8
+measure 9
+rest   8
+measure 10
+rest   8
+measure 11
+rest   4        w
+C#5    2        h     d                    Ky-
+D5     2        h     d        +           ri-
+measure 12
+B#4    3        h.#   d                    e
+C#5    1        q     d                    e-
+D#5    1        q #   d                    lei-
+C#5    1        q     d                    -
+D#5    1        q     d                    -
+E5     1        q     d                    -
+measure 13
+F#5    2        h     d                    -
+E5     1        q     d                    son,
+D#5    1        q #   d                    e-
+E5     2        h     d                    le-
+D#5    2        h     d                    i-
+measure 14
+C#5    2        h     d                    son,
+E5     4        w     d                    e-
+D5     1        q     d        +           -
+C#5    1        q     d                    -
+measure 15
+B4     2        h     d                    le-
+A#4    2        h #   d                    i-
+B4     2        h     d                    son,
+F#5    2-       h     d        -           e-
+measure 16
+F#5    2        h     d                    -
+E5     1        q     d                    -
+D#5    1        q #   d                    -
+C#5    2        h     d                    le-
+B#4    2        h #   d                    i-
+measure 17
+C#5    2        h     d                    son,
+C#5    2-       h     d        -           Ky-
+C#5    1        q     d                    -
+B4     1        q     d                    ri-
+A4     1        q     u                    e
+G#4    1        q     u                    e-
+measure 18
+A4     2        h     u                    lei-
+G#4    1        q     u                    son,
+A4     1        q     u                    e-
+B4     4-       w     d        -           lei-
+measure 19
+B4     1        q     d                    -
+C#5    1        q     d                    -
+D5     4        w     d                    -
+C#5    2-       h     d        -           son,_
+measure 20
+C#5    2        h     d                    _
+F#5    1        q     d                    Ky-
+E5     1        q     d                    ri-
+D5     2        h     d                    e
+C#5    1        q     d        (           e-
+B4     1        q     d        )           -
+measure 21
+A4     1        q     d                    lei-
+B4     1        q     d                    -
+C#5    1        q     d                    -
+F#4    1        q     u                    -
+D#5    2        h #   d                    -
+E5     1        q     d                    son,
+F#5    1        q     d                    e-
+measure 22
+G5     2        h n   d                    le-
+F#5    2        h     d                    i-
+E5     2        h     d                    son,
+D5     2-       h     d        -+          Ky-
+measure 23
+D5     1        q     d                    -
+C#5    2        h     d                    -
+B4     1        q     d                    ri-
+A4     1        q     d        (           e_
+B4     1        q     d        )           _
+C#5    1        q     d        (           e-
+D5     1        q     d        )           -
+measure 24
+E5     4-       w     d        -           le-
+E5     1        q     d                    -
+D5     1        q     d                    -
+D5     2        h     d                    i-
+measure 25
+C#5    2        h     d                    son,
+B4     1        q     d        (           e-
+A4     1        q     u        )           -
+D#5    3        h.#   d                    lei-
+E5     1        q     d                    -
+measure 26
+F#5    1        q     d                    -
+E5     1        q     d                    -
+D#5    1        q #   d                    -
+C#5    1        q     d                    -
+B#4    2        h #   d                    -
+C#5    1        q     d                    son,
+D#5    1        q     d                    e-
+measure 27
+G#4    1        q     u        (           le-
+C#5    2        h     d        )           -
+B#4    1        q #   d                    i-
+C#5    1        q     d        (           son,_
+B4     1        q n   d        )           _
+A4     1        q     u        (           e-
+G#4    1        q     u        )           -
+measure 28
+F#4    1        q     u                    le-
+G#4    1        q     u                    -
+A4     2        h     u                    -
+G#4    1        q     u                    -
+A4     1        q     u                    -
+B4     2-       h     d        -           -
+measure 29
+B4     1        q     d                    -
+A4     1        q     d                    -
+B4     1        q     d                    -
+C#5    1        q     d                    -
+D5     4-       w     d        -           -
+measure 30
+D5     1        q     d                    -
+C#5    1        q     d                    -
+B4     1        q     d        (           i-
+A4     1        q     d        )           -
+B4     1        q     u        (           son,_
+A4     1        q     u        )           _
+G#4    1        q     u        (           e-
+F#4    1        q     u        )           -
+measure 31
+E#4    2        h #   u                    le-
+F#4    4        w     u                    -
+E#4    2        h     u                    i-
+measure 32
+F#4    2        h     u                    son,
+rest   2        h
+rest   4        w
+measure 33
+rest   1        q
+E5     2        h     d                    Ky-
+D5     1        q     d                    ri-
+C#5    1        q     d        (           e_
+A4     1        q     d        )           _
+B4     1        q     d        (           e-
+C#5    1        q     d        )           -
+measure 34
+D5     1        q     d        (           le-
+C#5    1        q     d        )           -
+B4     1        q     d        (           i-
+A#4    1        q #   d        )           -
+B4     1        q     d        (           son,_
+E5     1        q     d        )           _
+D5     1        q     d        (           e-
+C#5    1        q     d        )           -
+measure 35
+D5     2        h     d                    le-
+C#5    2        h     d                    i-
+B4     2        h     d                    son,
+rest   2        h
+measure 36
+rest   8
+measure 37
+rest   8
+measure 38
+rest   8
+measure 39
+rest   8
+measure 40
+rest   4        w
+B4     2        h     d                    Ky- 
+C5     2        h n   d                    ri-
+measure 41
+A#4    3        h.#   d                    e
+B4     1        q     d                    e-
+C#5    1        q     d        +           lei-
+B4     1        q     d                    -
+C#5    1        q     d                    -
+D5     1        q     d        +           -
+measure 42
+E5     2        h     d                    -
+D5     1        q     d                    son,
+C#5    1        q     d                    e-
+D5     2        h     d                    le-
+C#5    2        h     d                    i-
+measure 43
+B4     1        q     d                    son,
+rest   1        q
+rest   2        h
+rest   1        q
+F#5    2        h     d                    Ky-
+E5     1        q     d                    ri-
+measure 44
+D#5    1        q #   d        (           e_
+B4     1        q     d        )           _
+C#5    1        q     d        (           e-
+D#5    1        q     d        )           -
+E5     1        q     d                    le-
+D5     1        q n   d                    -
+C#5    1        q     d                    -
+B4     1        q     d                    -
+measure 45
+C#5    4-       w     d        -           -
+C#5    1        q     d                    -
+F#4    1        q     u                    -
+B4     2-       h     d        -           -
+measure 46
+B4     1        q     d                    -
+D5     1        q     d                    -
+C#5    1        q     d        (           i-
+B4     1        q     d        )           -
+A4     1        q     d                    son,
+C#5    1        q     d                    e-
+F#5    2-       h     d        -           le-
+measure 47
+F#5    1        q     d                    -
+D#5    1        q #   d                    -
+E5     1        q     d                    -
+C#5    1-       q     d        -           -
+C#5    1        q     d                    -
+A#4    1        q #   d                    -
+B#4    2        h #   d                    i-
+measure 48
+C#5    2        h     d                    son,
+E5     4        w     d                    e-
+D5     1        q     d        +           -
+C#5    1        q     d                    -
+measure 49
+B4     2        h     d                    le-
+A#4    2        h #   d                    i-
+B4     2        h     d                    son,
+D5     2-       h     d        -           e-
+measure 50
+D5     2        h     d                    -
+C#5    1        q     d                    -
+B4     1        q     d                    -
+A4     2        h     u                    le-
+G#4    2        h     u                    i-
+measure 51
+A4     1        q     u                    son,
+A5     2        h     d                    Ky-
+G#5    1        q     d                    ri-
+F##5   1        q x   d        (           e_
+D#5    1        q #   d        )           _
+E#5    1        q #   d        (           e-
+F##5   1        q     d        )           -
+measure 52
+G#5    1        q     d        (           le-
+F#5    1        q S   d        )+          -
+E#5    1        q #   d        (           i-
+D#5    1        q #   d        )           -
+C#5    4-       w     d        -           son,_
+measure 53
+C#5    1        q     d                    _
+F#5    2        h     d                    Ky-
+E5     1        q     d                    ri-
+D#5    2        h #   d                    e
+D5     2        h n   d                    e-
+measure 54
+C#5    2        h     d                    le-
+C#5    2        h     d                    i-
+F#4    2        h     u                    son,
+rest   2        h
+measure 55
+C#5    2        h     d                    Ky-
+D5     2        h     d        +           ri-
+B#4    3        h.#   d                    e
+C#5    1        q     d                    e-
+measure 56
+D#5    1        q #   d                    lei-
+C#5    1        q     d                    -
+D#5    1        q     d                    -
+E#5    1        q #   d                    -
+F#5    2        h     d                    -
+E5     1        q n   d                    son,
+D#5    1        q     d        +           e-
+measure 57
+E5     2        h     d                    le-
+D5     2        h     d        +           i-
+C#5    2        h     d                    son,
+C#5    2-       h     d        -           Ky-
+measure 58
+C#5    1        q     d                    -
+F#4    1        q     u                    ri-
+G#4    1        q     u                    e
+A4     1        q     u                    e-
+B4     1        q     d                    le-
+D5     1        q     d                    -
+C#5    1        q     d                    -
+B4     1        q     d                    -
+measure 59
+A4     2        h     u                    -
+G#4    2        h     u                    i-
+F#4    4        w     u        F           son.
+mheavy2
+/END

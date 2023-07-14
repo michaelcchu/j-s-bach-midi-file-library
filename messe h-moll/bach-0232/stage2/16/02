@@ -1,0 +1,222 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/16/02} [KHM:2202282840]
+TIMESTAMP: DEC/26/2001 [md5sum:a2f6938e86be09e7635233fd25d89af5]
+02/21/95 S. Rasmussen
+WK#:232       MV#:17
+Bach Gesellschaft vi
+Mass in B Minor
+Crucifixus
+Flauto traverso 2
+0 72
+Group memberships: score  sound
+score: part 2 of 10
+sound: part 2 of 10
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:1   Q:1   T:3/2  C:4
+rest   2        h
+B4     2        h     u
+G4     2        h     u
+measure 2
+rest   2        h
+B4     2        h     u
+F#4    2        h     u
+measure 3
+rest   2        h
+A4     2        h     u
+E4     2        h     u
+measure 4
+rest   2        h
+D#4    2        h #   u
+D#4    2        h     u
+measure 5
+E4     2        h     u
+G4     2        h     u
+G5     2        h     d
+measure 6
+rest   2        h
+G#5    2        h #   d
+B4     2        h     d
+measure 7
+rest   2        h
+E5     2        h     d
+E5     2        h     d
+measure 8
+rest   2        h
+D#5    2        h #   d
+D#5    2        h     d
+measure 9
+B4     2        h     u
+G4     2        h     u
+G5     2        h     d
+measure 10
+rest   2        h
+G#5    2        h #   d
+B4     2        h     d
+measure 11
+rest   2        h
+A4     2        h     u
+C5     2        h     d
+measure 12
+rest   2        h
+F#4    2        h     u
+D#5    2        h #   d
+measure 13
+B4     2        h     u
+G4     2        h     u
+E4     2        h     u
+measure 14
+rest   2        h
+A4     2        h     u
+G#4    2        h #   u
+measure 15
+rest   2        h
+A4     2        h     u
+A#4    2        h #   u
+measure 16
+rest   2        h
+D#5    2        h #   d
+F#5    2        h     d
+measure 17
+E5     2        h     d
+C5     2        h     d
+G4     2        h     u
+measure 18
+rest   2        h
+B4     2        h     u
+D4     2        h     u
+measure 19
+rest   2        h
+A4     2        h     u
+A5     2        h     d
+measure 20
+rest   2        h
+F#5    2        h     d
+B5     2        h     d
+measure 21
+B4     2        h     u
+E4     2        h     u
+G4     2        h     u
+measure 22
+rest   2        h
+G#4    2        h #   u
+B4     2        h     u
+measure 23
+rest   2        h
+B4     2        h     u
+A4     2        h     u
+measure 24
+rest   2        h
+F#4    2        h     u
+B4     2        h     u
+measure 25
+B4     2        h     u
+A4     2        h     u
+E5     2        h     d
+measure 26
+rest   2        h
+B4     2        h     u
+G#4    2        h #   u
+measure 27
+rest   2        h
+E4     2        h     u
+F#4    2        h     u
+measure 28
+rest   2        h
+F#4    2        h     u
+B4     2        h     u
+measure 29
+B4     2        h     d
+C#5    2        h #   d
+F#4    2        h     u
+measure 30
+rest   2        h
+E4     2        h     u
+B4     2        h     u
+measure 31
+rest   2        h
+E5     2        h     d
+D#5    2        h #   d
+measure 32
+rest   2        h
+F#5    2        h     d
+A4     2        h     u
+measure 33
+G4     2        h     u
+C5     2        h     d
+E4     2        h     u
+measure 34
+rest   2        h
+E4     2        h     u
+G4     2        h     u
+measure 35
+rest   2        h
+A4     2        h     u
+E5     2        h     d
+measure 36
+rest   2        h
+D#5    2        h #   d
+D#4    2        h #   u
+measure 37
+E4     2        h     u
+E4     2        h     u
+F#4    2        h     u
+measure 38
+rest   2        h
+F4     2        h n   u
+D4     2        h     u
+measure 39
+rest   2        h
+F#4    2        h #   u         +
+E4     2        h     u
+measure 40
+rest   2        h
+A4     2        h     u
+B4     2        h     u
+measure 41
+B5     2        h     d
+G#5    2        h #   d
+B4     2        h     d
+measure 42
+rest   2        h
+B4     2        h     u
+F#4    2        h     u
+measure 43
+rest   2        h
+A4     2        h     u
+E5     2        h     d
+measure 44
+rest   2        h
+D5     2        h     d
+F#4    2        h     u
+measure 45
+E4     2        h     u
+G4     2        h     u
+C5     2        h     d
+measure 46
+rest   2        h
+D5     2        h     d
+F4     2        h n   u
+measure 47
+rest   2        h
+A4     2        h     u
+C5     2        h     d
+measure 48
+rest   2        h
+D#4    2        h #   u
+F#4    2        h     u
+measure 49
+E4     2        h     u
+rest   2        h
+rest   2        h
+measure 50
+rest   6
+measure 51
+rest   6
+measure 52
+rest   6
+measure 53
+rest   6                       F
+mheavy2
+/END

@@ -1,0 +1,222 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/08/07} [KHM:824819528]
+TIMESTAMP: DEC/26/2001 [md5sum:b7506b22c8494034b4f3cdd796f5249f]
+12/08/94 S. Rasmussen
+WK#:232       MV#:9
+Bach Gesellschaft vi
+Mass in B Minor
+Qui tollis
+ALTO
+0 72 A
+Group memberships: score  sound
+score: part 7 of 11
+sound: part 7 of 11
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:4   T:3/4  C:4  D:Lento
+F#4    2        e     u  [                 Qui_
+D4     2        e     u  ]                 _
+measure 1
+B3     4        q     u                    tol-
+B3     4        q     u                    lis
+B3     4        q     u                    pec-
+measure 2
+G4    12-       h.    u        -           ca-
+measure 3
+G4     4        q     u        (           -
+F#4    4        q     u        )           -
+E4     4        q     u                    ta
+measure 4
+D#4    8        h #   u                    mun-
+D#4    4        q     u                    di,
+measure 5
+rest   4        q
+D4     2        e n   u         +          mi-
+C#4    2        e     u                    se-
+C#4    2        e     u                    re-
+B3     2        e     u                    re
+measure 6
+A#3    4        q #   u                    no-
+A#3    4        q     u                    bis,
+rest   4        q
+measure 7
+rest   4        q
+D4     2        e     u  [                 mi-
+E4     2        e     u  ]                 -
+F#4    2        e     u  [                 se-
+B3     2        e     u  ]                 -
+measure 8
+G4    12-       h.    u        -           re-
+measure 9
+G4     2        e     u  [                 -
+F#4    2        e     u  ]                 -
+E4     4        q     u                    -
+D4     4        q     u                    -
+measure 10
+C#4    4        q     u                    -
+D4     4        q     u                    -
+E4     4        q     u                    re
+measure 11
+F#4    8        h     u                    no-
+F#4    4        q     u                    bis,
+measure 12
+rest   4        q
+E#4    4        q #   u                    mi-
+G#4    4        q #   u                    se-
+measure 13
+G#4    2        e #   u  [                 re-
+E#4    2        e #   u  ]                 -
+F#4    4        q     u                    re,
+rest   4        q
+measure 14
+rest   8        h
+F#4    2        e     u  [                 qui_
+D4     2        e     u  ]                 _
+measure 15
+B3     4        q     u                    tol-
+B3     4        q     u                    lis
+B3     4        q     u                    pec-
+measure 16
+G4    12-       h.    u        -           ca-
+measure 17
+G4     4        q     u        (           -
+F#4    4        q     u        )           -
+E4     4        q     u                    ta
+measure 18
+E4     8        h     u                    mun-
+E4     4        q     u                    di,
+measure 19
+rest   4        q
+C#4    4        q     u                    mi-
+A#4    4        q #   u                    se-
+measure 20
+B4     4        q     d                    re-
+D4     2        e     u  [                 -
+E4     2        e     u  =                 -
+F#4    2        e     u  =                 -
+D4     2        e     u  ]                 -
+measure 21
+G4    12-       h.    u        -           -
+measure 22
+G4     4        q     u                    -
+C#4    4        q     u                    -
+F#4    4        q     u                    re
+measure 23
+F#4    8        h     u                    no-
+F#4    4        q     u                    bis,
+measure 24
+E4     2        e     u                    mi-
+F#4    2        e     u                    se-
+G#4    4        q #   u                    re-
+A4     4        q     u                    re
+measure 25
+B4     4        q     d        (           no-
+G#4    4        q #   u        )           -
+C#4    4        q     u                    bis,
+measure 26
+G4     4        q n   u         +          mi-
+B3     4        q     u                    se-
+C#4    4-       q     u        -           re-
+measure 27
+C#4    2        e     u                    -
+F#4    2        e     u                    re
+F#4    2        e     u  [                 no-
+B3     2        e     u  =                 -
+D4     2        e     u  =                 -
+C#4    2        e     u  ]                 -
+measure 28
+C#4    4        q     u                    bis!
+rest   4        q
+rest   4        q
+measure 29
+rest   8        h
+F#4    2        e     u  [                 Qui_
+D4     2        e     u  ]                 _
+measure 30
+B3     4        q     u                    tol-
+B3     4        q     u                    lis
+B3     4        q     u                    pec-
+measure 31
+G#4   12-       h.#   u        -           ca-
+measure 32
+G#4    4        q     u        (           -
+F#4    4        q     u        )           -
+E#4    4        q #   u                    ta
+measure 33
+B4     8        h     d                    mun-
+C#4    4        q     u                    di,
+measure 34
+rest   4        q
+F#4    6        q.    u                    su-
+D4     2        e     u                    sci-
+measure 35
+B3     4        q     u                    pe
+D4     2        e     u                    de-
+E4     2        e     u                    pre-
+F#4    2        e     u                    ca-
+D4     2        e     u                    ti-
+measure 36
+G#4    4        q #   u        (           o-
+E#4    4        q #   u        )           -
+G#4    4        q     u                    nem
+measure 37
+F#4    8        h     u                    no-
+C#4    4        q     u                    stram,
+measure 38
+D4     2        e n   u         +          de-
+C#4    2        e     u                    pre-
+B#3    2        e #   u  [                 ca-
+D#4    2        e #   u  ]                 -
+G#4    2        e #   u  [                 ti-
+F#4    2        e     u  ]                 -
+measure 39
+A4     8        h     u                    o-
+E4     2        e     u  [                 nem,_
+F#4    1        s     u  =[                _
+G#4    1        s #   u  ]]                _
+measure 40
+F#4    6        q.    u                    de-
+A4     2        e     u                    pre-
+B#3    2        e #   u                    ca-
+D#4    2        e #   u                    ti-
+measure 41
+C#4    2        e     u                    o-
+G#3    2        e #   u                    nem
+G#4    4        q #   u        (           no-
+D#4    4        q #   u        )           -
+measure 42
+E4     4        q     u                    stram,
+G#4    4        q #   u                    su-
+E4     4        q     u                    sci-
+measure 43
+C#4    4        q     u                    pe
+F#4    4        q     u                    de-
+F#4    4        q     u                    pre-
+measure 44
+F#4    8        h     u                    ca-
+F#4    4        q     u                    ti-
+measure 45
+B3     4        q     u        (           o-
+G#4    4        q #   u        )           -
+G#4    4        q     u                    nem
+measure 46
+G#4    4        q #   u        (           no-
+F#4    4        q     u        )           -
+F#4    4        q     u                    stram,
+measure 47
+rest   4        q
+D4     4        q     u                    de-
+D4     4        q     u                    pre-
+measure 48
+G#3    6        q.#   u                    ca-
+C#4    2        e     u                    ti-
+F#3    4-       q     u        -           o-
+measure 49
+F#3    2        e     u                    -
+F#4    2        e     u                    nem
+E#4    8        h #   u                    no-
+measure 50
+F#4   12        h.    u        F           stram!
+mheavy2
+/END

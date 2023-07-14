@@ -1,0 +1,319 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/06/11} [KHM:1001833641]
+TIMESTAMP: DEC/26/2001 [md5sum:b8ef2b48450cb699ddac3fb6ea3c8e6d]
+11/28/94 S. Rasmussen
+WK#:232       MV#:7
+Bach Gesellschaft vi
+Mass in B Minor
+Gratias agimus
+SOPRANO 1,2
+1 72 S
+Group memberships: score  sound
+score: part 11 of 15
+sound: part 11 of 15
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:2   T:0/0  C:4  D:Alla breve
+rest  16
+measure 2
+rest  16
+measure 3
+rest   4        h
+A4     4        h     u                    Gra-
+B4     4        h     d                    -
+C#5    4        h     d                    -
+measure 4
+D5     4        h     d                    -
+C#5    2        q     d                    ti-
+B4     2        q     d                    as
+C#5    2        q     d                    a-
+A4     2        q     u                    -
+D5     4-       h     d        -           -
+measure 5
+D5     4        h     d                    -
+C#5    2        q     d                    gi-
+C#5    2        q     d                    mus
+B4     8        w     d                    ti-
+measure 6
+A4     8        w     u                    bi
+rest   8        w
+measure 7
+rest   4        h
+D5     4-       h     d        -           pro-
+D5     2        q     d                    -
+D5     2        q     d                    pter
+C#5    2        q     d                    ma-
+C#5    2        q     d                    gnam
+measure 8
+D5     2        q     d                    glo-
+C#5    1        e     d  [                 -
+B4     1        e     d  ]                 -
+A4     1        e     u  [                 -
+B4     1        e     u  =                 -
+G4     1        e     u  =                 -
+A4     1        e     u  ]                 -
+B4     1        e     u  [                 - 
+A4     1        e     u  =                 - 
+B4     1        e     u  =                 - 
+C5     1        e n   u  ]                 - 
+B4     1        e     u  [                 - 
+C5     1        e     u  =                 - 
+B4     1        e     u  =                 - 
+A4     1        e     u  ]                 - 
+measure 9
+G4     2        q     u                    -
+F#4    1        e     u                    ri-
+E4     1        e     u                    am
+A4     4        h     u                    tu-
+D4     4        h     u                    am,
+rest   4        h
+measure 10
+rest   8        w
+rest   4        h
+A4     4        h     u                    gra-
+measure 11
+B4     4        h     d                    -
+C#5    4        h     d                    -
+D5     4        h     d                    -
+C#5    2        q     d                    ti-
+B4     2        q     d                    as
+measure 12
+C#5    2        q     d                    a-
+F#4    2        q     u                    -
+F#5    4-       h     d        -           -
+F#5    2        q     d                    -
+B4     2        q     d                    -
+E5     4-       h     d        -           -
+measure 13
+E5     2        q     d                    -
+D5     4        h     d                    -
+G5     2        q     d                    -
+C#5    2        q     d                    -
+E5     2        q     d                    -
+D5     2        q     d                    gi-
+C#5    2        q     d                    mus
+measure 14
+B4     4        h     d                    ti-
+B4     4        h     d                    bi,
+rest   8        w
+measure 15
+rest   8        w
+D5     8        w     d                    gra-
+measure 16
+E5     4        h     d                    -
+F#5    4        h     d                    -
+G5     4        h     d                    -
+F#5    2        q     d                    ti-
+E5     2        q     d                    as
+measure 17
+F#5    2        q     d                    a-
+D5     2        q     d                    -
+G5     8        w     d                    -
+F#5    2        q     d                    gi-
+F#5    2        q     d                    mus
+measure 18
+E5     8        w     d                    ti-
+D5     8        w     d                    bi
+measure 19
+rest   8        w
+rest   4        h
+E5     4-       h     d        -           pro-
+measure 20
+E5     2        q     d                    -
+E5     2        q     d                    pter
+D#5    2        q #   d                    ma-
+D#5    2        q     d                    gnam 
+E5     2        q     d                    glo-
+D5     1        e n   d  [                 -
+C5     1        e n   d  ]                 -
+B4     1        e     d  [                 -
+C5     1        e     d  =                 -
+A4     1        e     d  =                 -
+B4     1        e     d  ]                 -
+measure 21
+C5     1        e n   d  [                 -
+B4     1        e     d  =                 -
+C5     1        e     d  =                 -
+D5     1        e     d  ]                 -
+C5     1        e     d  [                 -
+E5     1        e     d  =                 -
+D5     1        e     d  =                 -
+C5     1        e     d  ]                 -
+B4     2        q     d                    -
+C#5    1        e #   d                    ri-
+C#5    1        e     d                    am
+D5     4        h     d                    tu-
+measure 22
+G4     2        q     u                    am,
+rest   2        q
+C#5    4-       h     d        -+          pro-
+C#5    2        q     d                    -
+C#5    2        q     d                    pter
+B4     2        q     d                    ma-
+B4     2        q     d                    gnam
+measure 23
+E5     2        q     d                    glo-
+E5     1        e     d                    ri-
+E5     1        e     d                    am
+A4     4        h     u                    tu-
+A4     2        q     u                    am,
+rest   2        q
+F#5    4-       h     d        -           pro-
+measure 24
+F#5    2        q     d                    -
+F#5    2        q     d                    pter
+E#5    2        q #   d                    ma-
+E#5    2        q     d                    gnam
+F#5    2        q     d                    glo-
+E5     1        e n   d  [                 -
+D5     1        e     d  ]                 -
+C#5    1        e     d  [                 -
+D5     1        e     d  =                 -
+B4     1        e     d  =                 -
+C#5    1        e     d  ]                 -
+measure 25
+D5     1        e     d  [                 -
+C#5    1        e     d  =                 -
+D5     1        e     d  =                 -
+E5     1        e     d  ]                 -
+D5     1        e     d  [                 -
+F#5    1        e     d  =                 -
+E5     1        e     d  =                 -
+D5     1        e     d  ]                 -
+C#5    2        q     d                    -
+C#5    1        e     d                    ri-
+C#5    1        e     d                    am
+F#5    4        h     d                    tu-
+measure 26
+B4     4        h     d                    am,
+rest   4        h
+rest   4        h
+D5     4        h     d                    gra-
+measure 27
+E5     4        h     d                    -
+F#5    4        h     d                    -
+G5     4        h     d                    -
+F#5    2        q     d                    ti-
+E5     2        q     d                    as
+measure 28
+F#5    2        q     d                    a-
+D5     2        q     d                    -
+G5     8        w     d                    -
+F#5    2        q     d                    gi-
+F#5    2        q     d                    mus
+measure 29
+E5     2        q     d                    ti-
+E5     2        q     d                    bi
+D5     4-       h     d        -           pro-
+D5     2        q     d                    -
+B4     2        q     d                    pter
+B4     2        q     d                    ma-
+B4     2        q     d                    gnam
+measure 30
+A4     2        q     u                    glo-
+A4     1        e     u                    ri-
+A4     1        e     u                    am
+B4     4        h     u                    tu-
+E4     2        q     u                    am,
+rest   2        q
+A4     4        h     u                    gra-
+measure 31
+B4     4        h     d                    -
+C#5    4        h     d                    -
+D5     4        h     d                    -
+C#5    2        q     d                    ti-
+B4     2        q     d                    as
+measure 32
+C#5    2        q     d                    a-
+A4     2        q     u                    -
+D5     8        w     d                    -
+C#5    2        q     d                    gi-
+C#5    2        q     d                    mus
+measure 33
+B4     8        w     d                    ti-
+A4     8        w     u                    bi,
+measure 34
+rest  16
+measure 35
+D5     8        w     d                    gra-
+E5     4        h     d                    -
+F#5    4        h     d                    -
+measure 36
+G5     4        h     d                    -
+F#5    2        q     d                    ti-
+E5     2        q     d                    as
+F#5    2        q     d                    a-
+D5     2        q     d                    -
+G5     4-       h     d        -           -
+measure 37
+G5     4        h     d                    -
+F#5    2        q     d                    gi-
+F#5    2        q     d                    mus
+E5     8        w     d                    ti-
+measure 38
+D5     4        h     d                    bi
+D5     4-       h     d        -           pro-
+D5     2        q     d                    -
+D5     2        q     d                    pter
+C#5    2        q     d                    ma-
+C#5    2        q     d                    gnam
+measure 39
+D5     1        e     d  [                 glo-
+E5     1        e     d  =                 -
+D5     1        e     d  =                 -
+C#5    1        e     d  ]                 -
+B4     1        e     d  [                 -
+C#5    1        e     d  =                 -
+A4     1        e     d  =                 -
+B4     1        e     d  ]                 -
+C#5    1        e     d  [                 -
+D5     1        e     d  =                 -
+B4     1        e     d  =                 -
+C#5    1        e     d  ]                 -
+D#5    1        e #   d  [                 -
+E5     1        e     d  =                 -
+C#5    1        e     d  =                 -
+D#5    1        e     d  ]                 -
+measure 40
+E5     8-       w     d        -           -
+E5     2        q     d                    -
+D5     1        e     d  [     +           -
+C#5    1        e     d  ]                 -
+D5     1        e     d  [                 -
+E5     1        e     d  =                 -
+F#5    1        e     d  =                 -
+D5     1        e     d  ]                 -
+measure 41
+G5    12        w.    d                    -
+F#5    2        q     d                    ri-
+F#5    2        q     d                    am
+measure 42
+E5    16        b     d                    tu-
+measure 43
+D5     4        h     d                    am,
+rest   2        q
+D5     2        q     d                    pro-
+E5     2        q     d                    pter
+E5     2-       q     d        -           ma-
+E5     1        e     d  [                 -
+F#5    1        e     d  =                 -
+E5     1        e     d  =                 -
+D5     1        e     d  ]                 -
+measure 44
+C#5    2        q     d                    -
+A4     2        q     u                    gnam
+F#5    8        w     d                    glo-
+E5     4-       h     d        -           -
+measure 45
+E5     2        q     d                    -
+A4     2        q     u                    -
+D5     4-       h     d        -           -
+D5     2        q     d                    -
+C#5    1        e     d                    ri-
+B4     1        e     d                    am
+C#5    4        h     d                    tu-
+measure 46
+D5    16        b     d        F           am.
+mheavy2
+/END

@@ -1,0 +1,195 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/16/09} [KHM:2202282840]
+TIMESTAMP: DEC/26/2001 [md5sum:4d25bb69d755455d10f369ac34e1b73b]
+02/21/95 S. Rasmussen
+WK#:232       MV#:17
+Bach Gesellschaft vi
+Mass in B Minor
+Crucifixus
+BASSO
+0 72 B
+Group memberships: score  sound
+score: part 9 of 10
+sound: part 9 of 10
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:1   Q:1   T:3/2  C:22
+rest   6
+measure 2
+rest   6
+measure 3
+rest   6
+measure 4
+rest   6
+measure 5
+rest   6
+measure 6
+rest   6
+measure 7
+rest   6
+measure 8
+rest   2        h
+F#3    2        h     d                    Cru-
+F#3    2        h     d                    ci-
+measure 9
+F#3    1        q     d        (           fi-
+E3     1        q     d        )           -
+E3     2        h     d                    xus,
+rest   2        h
+measure 10
+rest   6
+measure 11
+rest   2        h
+A3     2        h     d                    cru-
+A3     2        h     d                    ci-
+measure 12
+A3     1        q     d        (           fi-
+F#3    1        q     d        )           -
+D#3    2        h #   d                    xus,
+rest   2        h
+measure 13
+rest   6
+measure 14
+rest   6
+measure 15
+rest   2        h
+E3     2        h     d                    cru-
+F#3    2        h     d                    ci-
+measure 16
+G3     2        h     d        (           fi-
+F#3    2        h     d        )           -
+F#3    2        h     d                    xus,
+measure 17
+rest   6
+measure 18
+A3     2        h     d        (           cru-
+G3     2        h     d        )           -
+F#3    2        h     d                    ci-
+measure 19
+E3     2        h     d                    fi-
+F#3    1        q     d        (           xus_
+G3     1        q     d        )           _
+A3     2-       h     d        -           e-
+measure 20
+A3     1        q     d                    -
+F#3    1        q     d                    ti-
+B3     1        q     d        (           am_
+A3     1        q     d        )           _
+G3     1        q     d        (           pro_
+F#3    1        q     d        )           _
+measure 21
+G3     6        w.    d                    no-
+measure 22
+F#3    2        h     d                    -
+F3     4        w n   d                    -
+measure 23
+E3     2        h     d                    bis
+rest   2        h
+rest   2        h
+measure 24
+rest   6
+measure 25
+rest   2        h
+E3     1        q     d        (           sub_
+D#3    1        q #   d        )           _
+E3     2        h     d        (           Pon-
+measure 26
+F#3    2        h     d        )           -
+G#3    4        w #   d                    ti-
+measure 27
+A3     2        h     d                    o
+G3     2        h n   d        (+          Pi-
+A3     2        h     d        )           -
+measure 28
+B3     2        h     d        (           la-
+A3     1        q     d                    -
+G3     1        q     d                    -
+A3     2        h     d        )           -
+measure 29
+G3     2        h     d                    to,
+F#3    2        h     d                    pas-
+E3     2        h     d                    -
+measure 30
+D#3    2        h #   d                    -
+E3     2        h     d                    -
+D3     2        h n   d                    -
+measure 31
+C#3    2        h #   u                    sus
+D3     2        h     u                    et
+C3     2        h n   u                    se-
+measure 32
+B2     4        w     u                    pul-
+B2     2        h     u                    tus
+measure 33
+E3     2        h     d                    est,
+F#3    2        h     d        (           pas-
+G3     2        h     d        )           -
+measure 34
+F#3    2        h     d                    sus
+B3     2        h     d                    et
+G3     2        h     d                    se-
+measure 35
+E3     2        h     d        (           pul-
+D#3    2        h #   d        )           -
+E3     2        h     d                    tus
+measure 36
+B2     6        w.    u                    est;
+measure 37
+rest   6
+measure 38
+rest   6
+measure 39
+rest   6
+measure 40
+rest   2        h
+D3     4-       w     d        -           cru-
+measure 41
+D3     2        h     d        (           -
+F3     2        h n   d        )           -
+E3     2        h     d                    ci-
+measure 42
+C3     2        h     u                    fi-
+B2     4-       w     u        -           xus_
+measure 43
+B2     2        h     u                    _
+A2     1        q     u                    e-
+B2     1        q     u                    ti-
+G2     1        q     u                    am
+A2     1        q     u                    pro
+measure 44
+B2     6        w.    u                    no-
+measure 45
+E3     2        h     d                    bis,
+rest   2        h
+rest   2        h
+measure 46
+rest   6
+measure 47
+rest   2        h
+F#3    2        h     d                    pas-
+D#3    2        h #   d                    sus
+measure 48
+E3     1        q     d                    et
+A2     1        q     u                    se-
+B2     2        h     u                    pul-
+B2     2        h     u                    tus
+measure 49
+E2     4        w     u                    est,
+E3     2        h     d         p          se-
+P    C33:Y-10
+measure 50
+D#3    2        h #   u        (           pul-
+D3     2        h n   u        )           -
+D3     2        h     u                    tus
+measure 51
+C#3    2        h #   u                    est,
+C3     2        h n   u                    et
+C#3    2        h #   u                    se-
+measure 52
+D3     4        w     u                    pul-
+D3     2        h     u                    tus
+measure 53
+G2     6        w.    u        F           est.
+mheavy2
+/END

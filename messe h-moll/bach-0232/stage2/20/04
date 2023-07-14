@@ -1,0 +1,558 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/20/04} [KHM:2678017440]
+TIMESTAMP: DEC/26/2001 [md5sum:7f7de6a51dc8ca9f3bda70784effdff2]
+05/15/95 S. Rasmussen
+WK#:232       MV#:22a
+Bach Gesellschaft vi
+Mass in B minor
+Sanctus
+Timpani
+1 72
+Group memberships: score  sound
+score: part 4 of 17
+sound: part 4 of 17
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:0   Q:8   T:1/1  C:22  X:6
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 2
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 3
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 4
+rest  32
+measure 5
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 6
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     4        e     u
+rest   4        e
+G2     4        e     u  [
+G2     1        t     u  =[[
+G2     1        t     u  ===
+G2     1        t     u  ===
+G2     1        t     u  ]]]
+G2     4        e     u
+rest   4        e
+measure 7
+G2     4        e     u  [
+G2     1        t     u  =[[
+G2     1        t     u  ===
+G2     1        t     u  ===
+G2     1        t     u  ]]]
+G2     8        q     u
+rest  16        h
+measure 8
+G2     4        e     u  [
+G2     1        t     u  =[[
+G2     1        t     u  ===
+G2     1        t     u  ===
+G2     1        t     u  ]]]
+G2     8        q     u
+rest  16        h
+measure 9
+G2     4        e     u  [
+G2     1        t     u  =[[
+G2     1        t     u  ===
+G2     1        t     u  ===
+G2     1        t     u  ]]]
+G2     8        q     u
+rest  16        h
+measure 10
+rest  32
+measure 11
+G2     4        e     u  [
+G2     1        t     u  =[[
+G2     1        t     u  ===
+G2     1        t     u  ===
+G2     1        t     u  ]]]
+G2     8        q     u
+rest  16        h
+measure 12
+G2     4        e     u  [
+G2     1        t     u  =[[
+G2     1        t     u  ===
+G2     1        t     u  ===
+G2     1        t     u  ]]]
+G2     8        q     u
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+measure 13
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 14
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 15
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 16
+rest  32
+measure 17
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 18
+rest  32
+measure 19
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 20
+rest  32
+measure 21
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 22
+rest  32
+measure 23
+rest  32
+measure 24
+rest  32
+measure 25
+rest  32
+measure 26
+rest  32
+measure 27
+rest  32
+measure 28
+rest  32
+measure 29
+rest  32
+measure 30
+rest  32
+measure 31
+rest  32
+measure 32
+rest  32
+measure 33
+rest  32
+measure 34
+rest  32
+measure 35
+G2     4        e     u  [
+G2     1        t     u  =[[
+G2     1        t     u  ===
+G2     1        t     u  ===
+G2     1        t     u  ]]]
+G2     8        q     u
+rest  16        h
+measure 36
+rest  32
+measure 37
+G2     4        e     u  [
+G2     1        t     u  =[[
+G2     1        t     u  ===
+G2     1        t     u  ===
+G2     1        t     u  ]]]
+G2     8        q     u
+rest  16        h
+measure 38
+rest  32
+measure 39
+C3     4        e     u  [
+C3     1        t     u  =[[
+C3     1        t     u  ===
+C3     1        t     u  ===
+C3     1        t     u  ]]]
+C3     8        q     u
+rest  16        h
+measure 40
+rest  32
+measure 41
+rest  32
+measure 42
+rest  32
+measure 43
+rest  32
+measure 44
+rest  32
+measure 45
+rest  32
+measure 46
+rest  32
+measure 47
+rest  32
+mdouble 48
+$  Q:4   T:3/8
+rest   6
+measure 49
+rest   6
+measure 50
+rest   6
+measure 51
+rest   6
+measure 52
+rest   6
+measure 53
+rest   6
+measure 54
+rest   6
+measure 55
+rest   6
+measure 56
+rest   6
+measure 57
+rest   6
+measure 58
+rest   6
+measure 59
+rest   6
+measure 60
+rest   6
+measure 61
+rest   6
+measure 62
+rest   6
+measure 63
+rest   6
+measure 64
+rest   6
+measure 65
+rest   6
+measure 66
+rest   6
+measure 67
+rest   6
+measure 68
+rest   6
+measure 69
+rest   6
+measure 70
+rest   6
+measure 71
+rest   6
+measure 72
+G2     2        e     u
+rest   2        e
+rest   2        e
+measure 73
+G2     2        e     u
+rest   2        e
+rest   2        e
+measure 74
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 75
+rest   6
+measure 76
+rest   4        q
+C3     1        s     u  [[
+C3     1        s     u  ]]
+measure 77
+C3     2        e     u  [
+G2     1        s     u  =[
+G2     1        s     u  ==
+G2     1        s     u  ==
+G2     1        s     u  ]]
+measure 78
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 79
+rest   6
+measure 80
+rest   6
+measure 81
+rest   6
+measure 82
+rest   6
+measure 83
+rest   6
+measure 84
+rest   6
+measure 85
+rest   6
+measure 86
+rest   6
+measure 87
+rest   6
+measure 88
+rest   6
+measure 89
+rest   6
+measure 90
+rest   6
+measure 91
+rest   6
+measure 92
+rest   6
+measure 93
+rest   6
+measure 94
+rest   6
+measure 95
+rest   6
+measure 96
+rest   6
+measure 97
+rest   6
+measure 98
+rest   6
+measure 99
+rest   6
+measure 100
+rest   6
+measure 101
+rest   6
+measure 102
+rest   6
+measure 103
+rest   6
+measure 104
+rest   6
+measure 105
+rest   6
+measure 106
+rest   6
+measure 107
+rest   6
+measure 108
+rest   6
+measure 109
+rest   6
+measure 110
+rest   6
+measure 111
+rest   6
+measure 112
+rest   6
+measure 113
+G2     2        e     u  [
+G2     1        s     u  =[
+G2     1        s     u  ==
+G2     1        s     u  ==
+G2     1        s     u  ]]
+measure 114
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 115
+rest   6
+measure 116
+rest   6
+measure 117
+G2     2        e     u
+rest   2        e
+C3     1        s     u  [[
+C3     1        s     u  ]]
+measure 118
+C3     2        e     u  [
+G2     1        s     u  =[
+G2     1        s     u  ==
+G2     1        s     u  ==
+G2     1        s     u  ]]
+measure 119
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 120
+rest   6
+measure 121
+rest   6
+measure 122
+rest   6
+measure 123
+rest   6
+measure 124
+rest   6
+measure 125
+rest   6
+measure 126
+rest   6
+measure 127
+rest   6
+measure 128
+rest   6
+measure 129
+rest   6
+measure 130
+rest   6
+measure 131
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 132
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 133
+rest   6
+measure 134
+rest   6
+measure 135
+C3     2        e     u
+rest   2        e
+C3     1        s     u  [[
+C3     1        s     u  ]]
+measure 136
+C3     2        e     u  [
+C3     1        s     u  =[
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ]]
+measure 137
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 138
+rest   6
+measure 139
+rest   6
+measure 140
+rest   6
+measure 141
+rest   6
+measure 142
+rest   6
+measure 143
+rest   6
+measure 144
+rest   6
+measure 145
+rest   6
+measure 146
+rest   6
+measure 147
+rest   6
+measure 148
+C3     2        e     u  [
+C3     2        e     u  =
+C3     2        e     u  ]
+measure 149
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 150
+rest   6
+measure 151
+G2     2        e     u
+rest   2        e
+C3     1        s     u  [[
+C3     1        s     u  ]]
+measure 152
+C3     2        e     u  [
+G2     1        s     u  =[
+G2     1        s     u  ==
+G2     1        s     u  ==
+G2     1        s     u  ]]
+measure 153
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 154
+rest   6
+measure 155
+rest   6
+measure 156
+rest   6
+measure 157
+rest   6
+measure 158
+rest   6
+measure 159
+G2     2        e     u  [
+G2     2        e     u  =
+G2     2        e     u  ]
+measure 160
+C3     2        e     u  [
+G2     2        e     u  =
+G2     2        e     u  ]
+measure 161
+C3     2        e     u  [
+C3     1        s     u  =[
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ]]
+measure 162
+G2     2        e     u  [
+G2     2        e     u  =
+G2     2        e     u  ]
+measure 163
+G2     2        e     u
+rest   2        e
+rest   2        e
+measure 164
+C3     2        e     u
+rest   2        e
+rest   2        e
+measure 165
+rest   6
+measure 166
+G2     2        e     u  [
+G2     1        s     u  =[
+G2     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ]]
+measure 167
+C3     2        e     u  [
+G2     1        s     u  =[
+G2     1        s     u  ==
+G2     1        s     u  ==
+G2     1        s     u  ]]
+measure 168
+C3     6        q.    u        F
+mheavy2
+/END

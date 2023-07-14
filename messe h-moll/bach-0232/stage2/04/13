@@ -1,0 +1,924 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/04/13} [KHM:163552420]
+TIMESTAMP: DEC/26/2001 [md5sum:6044b81e251ac7155678c3e8c50ee8b4]
+11/01/94 S. Rasmussen
+WK#:232       MV#:4
+Bach Gesellschaft vi
+Mass in B Minor
+Gloria
+SOPRANO 1 
+1 72 S
+Group memberships: score  sound
+score: part 13 of 18
+sound: part 13 of 18
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:4   T:3/8  C:4  D:Vivace
+rest   6
+measure 2
+rest   6
+measure 3
+rest   6
+measure 4
+rest   6
+measure 5
+rest   6
+measure 6
+rest   6
+measure 7
+rest   6
+measure 8
+rest   6
+measure 9
+rest   6
+measure 10
+rest   6
+measure 11
+rest   6
+measure 12
+rest   6
+measure 13
+rest   6
+measure 14
+rest   6
+measure 15
+rest   6
+measure 16
+rest   6
+measure 17
+rest   6
+measure 18
+rest   6
+measure 19
+rest   6
+measure 20
+rest   6
+measure 21
+rest   6
+measure 22
+rest   6
+measure 23
+rest   6
+measure 24
+rest   6
+measure 25
+rest   6
+measure 26
+rest   6
+measure 27
+rest   6
+measure 28
+rest   6
+measure 29
+F#5    2        e     d                    Glo-
+D5     2        e     d                    ri-
+C#5    2        e     d                    a
+measure 30
+D5     2        e     d                    in
+E5     1        s     d  [[                ex-
+D5     1        s     d  ==                -
+C#5    1        s     d  ==                -
+D5     1        s     d  ]]                -
+measure 31
+E5     2        e     d                    cel-
+C#5    2        e     d                    sis,
+E5     2        e     d                    in
+measure 32
+D5     2        e     d                    ex-
+E5     1        s     d  [[                cel-
+D5     1        s     d  ]]                -
+C#5    1        s     d  [[                sis_
+B4     1        s     d  ]]                _
+measure 33
+C#5    4        q     d                    De-
+C#5    2        e     d                    o,
+measure 34
+rest   6
+measure 35
+rest   6
+measure 36
+rest   6
+measure 37
+rest   6
+measure 38
+rest   6
+measure 39
+rest   6
+measure 40
+rest   6
+measure 41
+A4     2        e     u  [                 glo-
+E4     2        e     u  =                 -
+A4     2        e     u  ]                 -
+measure 42
+B4     2        e     d  [                 -
+C#5    1        s     d  =[                -
+B4     1        s     d  ==                -
+A4     1        s     d  ==                -
+B4     1        s     d  ]]                -
+measure 43
+C#5    2        e     d                    -
+E5     1        s     d  [[                ri-
+D5     1        s     d  ]]                -
+E5     1        s     d  [[                a_
+C#5    1        s     d  ]]                _
+measure 44
+D5     2        e     d  [                 in_
+E5     2        e     d  ]                 _
+F#5    2        e     d                    ex-
+measure 45
+E5     6-       q.    d        -           cel-
+measure 46
+E5     2        e     d  [                 -
+F#5    1        s     d  =[                -
+E5     1        s     d  ==                -
+D5     1        s     d  ==                -
+C#5    1        s     d  ]]                -
+measure 47
+B4     2        e     d  [                 -
+E5     2        e     d  =                 -
+D5     2        e     d  ]                 -
+measure 48
+C#5    2        e     d                    -
+D5     1        s     d  [[                sis_
+C#5    1        s     d  ]]                _
+B4     1        s     u  [[                De-
+A4     1        s     u  ]]                -
+measure 49
+E5     2        e     d                    o,
+B4     2        e     d                    in
+B4     2        e     d                    ex-
+measure 50
+E5     6-       q.    d        -           cel-
+measure 51
+E5     6-       q.    d        -           -
+measure 52
+E5     1        s     d  [[                -
+G5     1        s     d  ==                -
+F#5    1        s     d  ==                -
+E5     1        s     d  ==                -
+D5     1        s     d  ==                -
+C#5    1        s     d  ]]                -
+measure 53
+D5     2        e     d                    -
+B4     2        e     d                    sis,
+rest   2        e
+measure 54
+rest   6
+measure 55
+rest   2        e
+B4     2        e     d                    in
+B4     2        e     d                    ex-
+measure 56
+E5     6-       q.    d        -           cel-
+measure 57
+E5     1        s     d  [[                -
+A4     1        s     d  ==                -
+C#5    1        s     d  ==                -
+E5     1        s     d  =]                -
+A5     2-       e     d  ]     -           -
+measure 58
+A5     2        e     d                    -
+G#5    1        s #   d  [[                sis,_
+F#5    1        s     d  =]                _
+G#5    2        e     d  ]                 _
+measure 59
+C#5    2        e     d                    glo-
+F#5    4-       q     d        -           -
+measure 60
+F#5    2        e     d                    -
+E5     1        s     d  [[                ri-
+D5     1        s     d  ]]                -
+E5     2        e     d                    a,
+measure 61
+A4     1        s     u  [[                glo-
+F#4    1        s     u  ==                -
+A4     1        s     u  ==                -
+C#5    1        s     u  =]                -
+D5     2-       e     u  ]     -           -
+measure 62
+D5     2        e     d                    -
+C#5    1        s     d  [[                ri-
+B4     1        s     d  ]]                -
+C#5    2        e     d                    a
+measure 63
+B4     2        e     d                    in
+C#5    2        e     d                    ex-
+D5     2        e     d                    cel-
+measure 64
+C#5    1        s     d  [[                sis_
+B4     1        s     d  ]]                _
+B4     3        e.    u  [                 De-
+A4     1        s     u  ]\                -
+measure 65
+A4     4        q     u                    o,
+rest   2        e
+measure 66
+rest   6
+measure 67
+rest   6
+measure 68
+rest   6
+measure 69
+rest   6
+measure 70
+rest   6
+measure 71
+rest   6
+measure 72
+rest   6
+measure 73
+rest   6
+measure 74
+rest   6
+measure 75
+D5     2        e     d  [                 glo-
+A4     2        e     d  =                 -
+D5     2        e     d  ]                 -
+measure 76
+E5     2        e     d  [                 -
+F#5    1        s     d  =[                -
+E5     1        s     d  ==                -
+D5     1        s     d  ==                -
+E5     1        s     d  ]]                -
+measure 77
+F#5    2        e     d  [                 -
+D5     2        e     d  =                 -
+F#5    2        e     d  ]                 -
+measure 78
+G5     2        e     d  [                 -
+A5     1        s     d  =[                -
+G5     1        s     d  ]]                -
+F#5    1        s     d  [[                ri-
+E5     1        s     d  ]]                -
+measure 79
+D5     2        e     d                    a,
+rest   2        e
+rest   2        e
+measure 80
+rest   6
+measure 81
+F#5    2        e     d                    glo-
+D5     2        e     d                    ri-
+C#5    2        e     d                    a,
+measure 82
+D5     3        e.    d  [                 glo-
+E5     1        s     d  ]\                -
+F#5    1        s     d  [[                ri-
+G5     1        s     d  ]]                -
+measure 83
+A5     2        e     d                    a
+rest   2        e
+rest   2        e
+measure 84
+rest   6
+measure 85
+rest   2        e
+C#5    2        e     d                    in
+C#5    2        e     d                    ex-
+measure 86
+F#5    6-       q.    d        -           cel-
+measure 87
+F#5    6-       q.    d        -           -
+measure 88
+F#5    1        s     d  [[                -
+A5     1        s     d  ==                -
+G5     1        s     d  ==                -
+F#5    1        s     d  ==                -
+E5     1        s     d  ==                -
+D#5    1        s #   d  ]]                -
+measure 89
+E5     2        e     d                    -
+B4     2        e     d                    sis,
+rest   2        e
+measure 90
+rest   6
+measure 91
+rest   2        e
+C#5    2        e     d                    in
+C#5    2        e     d                    ex-
+measure 92
+C#5    2        e     d  [                 cel-
+D5     2        e     d  ]                 -
+A4     2        e     u                    sis,
+measure 93
+rest   2        e
+F#5    2        e     d                    in
+D5     2        e     d                    ex-
+measure 94
+B5     2        e     d  [                 cel-
+A5     1        s     d  =[                -
+G5     1        s     d  ]]                -
+F#5    1        s     d  [[                sis_
+E5     1        s     d  ]]                _
+measure 95
+D5     6        q.    d                    De-
+measure 96
+C#5    4        q     d                    o,
+rest   2        e
+measure 97
+B4     1        s     d  [[                glo-
+G4     1        s     d  ==                -
+B4     1        s     d  ==                -
+D5     1        s     d  =]                -
+G5     2-       e     d  ]     -           -
+measure 98
+G5     2        e     d                    -
+F#5    1        s     d  [[                ri-
+E5     1        s     d  ]]                -
+F#5    2        e     d                    a
+measure 99
+E5     2        e     d                    in
+F#5    2        e     d                    ex-
+G5     2        e     d                    cel-
+measure 100
+F#5    1        s     d  [[                sis_
+E5     1        s     d  ]]                _
+E5     3        e.    d  [                 De-
+D5     1        s     d  ]\                -
+mdouble 101
+$  Q:8   T:1/1
+D5     8        q     d                    o
+rest   4        e
+A4     8        q     u        (           et_ 
+B4     4        e     u        )           _ 
+B4     4        e     u  [                 in_ 
+C5     4        e     u  ]                 _ 
+measure 102
+C5     4        e n   d  [                 ter-
+B4     4        e     d  ]                 -
+C5     4        e     d  [                 ra_
+D5     4        e     d  ]                 _
+B4     8        q     d                    pax,
+rest   8        q
+measure 103
+rest  32
+measure 104
+rest   8        q
+rest   4        e
+A4     8        q     u        (           et_ 
+B4     4        e     u        )           _ 
+B4     4        e     u  [                 in_ 
+C5     4        e     u  ]                 _ 
+measure 105
+C5     4        e n   d  [                 ter-
+B4     4        e     d  ]                 -
+C5     4        e     d  [                 ra_
+D5     4        e     d  ]                 _
+B4     8        q     d                    pax_
+E5     8-       q     d        -           _
+measure 106
+E5     8        q     d                    _
+D#5    8        q #   d                    ho-
+E5    16-       h     d        -           mi-
+measure 107
+E5     4        e     d                    -
+D#5    4        e #   d                    ni-
+D#5    8        q     d                    bus,
+rest  16        h
+measure 108
+rest   8        q
+rest   4        e
+B4     8        q     d        (           et_ 
+C#5    4        e     d        )+          _ 
+C#5    4        e     d  [                 in_ 
+D5     4        e     d  ]     +           _ 
+measure 109
+D5     4        e     d  [                 ter-
+C#5    4        e     d  ]                 -
+D5     4        e     d  [                 ra_
+E5     4        e     d  ]                 _
+C#5    4        e     d  [                 pax,_
+D#5    4        e #   d  ]                 _
+D#5    4        e     d  [                 in_
+E5     4        e     d  ]                 _
+measure 110
+E5     4        e     d  [                 ter-
+D#5    4        e #   d  ]                 -
+E5     4        e     d  [                 ra_
+F#5    4        e     d  ]                 _
+D#5    8        q     d                    pax,
+rest   8        q
+measure 111
+E5    24        h.    d                    pax
+E5     8        q     d                    ho-
+measure 112
+E5     4        e     d  [                 mi-
+D#5    4        e #   d  ]                 -
+E5     4        e     d                    ni-
+G5     4        e     d                    bus
+F#5    4        e     d                    bo-
+E5     2        s     d  [[                nae_
+D#5    2        s     d  ]]                _
+E5     4        e     d                    vo-
+A4     4        e     u                    lun-
+measure 113
+G4     8        q     u        (           ta-
+F#4    8        q     u        )           -
+E4     8        q     u                    tis,
+rest   8        q
+measure 114
+rest  32
+measure 115
+rest  32
+measure 116
+rest  32
+measure 117
+rest  32
+measure 118
+rest  32
+measure 119
+rest  32
+measure 120
+rest  16        h
+rest   8        q
+rest   4        e
+A4     4-       e     u        -           et_
+measure 121
+A4     4        e     u  [                 _
+B4     4        e     u  ]                 _
+B4     4        e     d  [                 in_
+C5     4        e n   d  ]                 _
+C5     4        e     d  [                 ter-
+B4     4        e     d  ]                 -
+C5     4        e     d  [                 ra_
+D5     4        e     d  ]                 _
+measure 122
+B4     4        e     u                    pax
+A4     4        e     u                    ho-
+G4     4        e     u                    mi-
+F#4    4        e     u                    ni-
+E4     4        e     u                    bus
+D5     2        s     d                    bo-
+C#5    2        s     d        +           nae
+D5     4        e     d                    vo-
+G4     4        e     u                    lun-
+measure 123
+F#4    8        q     u        (           ta-
+E4     8        q     u        )           -
+D4     4        e     u                    tis,
+D4     4        e     u  [                 bo-
+F#4    4        e     u  ]                 -
+A4     4        e     u                    nae
+measure 124
+D5     4        e     d  [                 vo-
+E5     2        s     d  =[                -
+F#5    2        s     d  ==                -
+E5     2        s     d  ==                -
+D5     2        s     d  ]]                -
+C#5    2        s     d  [[                lun-
+B4     2        s     d  ]]                -
+C#5    2        s     d  [[                ta-
+E5     2        s     d  ==                -
+A5     2        s     d  ==                -
+G5     2        s     d  ]]                -
+F#5    2        s     d  [[                -
+E5     2        s     d  ==                -
+D5     2        s     d  ==                -
+C#5    2        s     d  ]]                -
+measure 125
+B4     2        s     d  [[                -
+D5     2        s     d  ==                -
+G5     2        s     d  ==                -
+F#5    2        s     d  ]]                -
+E5     2        s     d  [[                -
+D5     2        s     d  ==                -
+C#5    2        s     d  ==                -
+B4     2        s     d  ]]                -
+A4     2        s     d  [[                -
+C#5    2        s     d  ==                -
+D5     2        s     d  ==                -
+E5     2        s     d  ]]                -
+F#5    2        s     d  [[                -
+G5     2        s     d  ==                -
+F#5    2        s     d  ==                -
+E5     2        s     d  ]]                -
+measure 126
+D5     2        s     d  [[                -
+C#5    2        s     d  ==                -
+B4     2        s     d  ==                -
+D5     2        s     d  ]]                -
+C#5    2        s     u  [[                -
+B4     2        s     u  ==                -
+A4     2        s     u  ==                -
+G#4    2        s #   u  ]]                -
+E5     4        e     d                    -
+A4     8        q     u                    -
+G#4    4        e     u                    -
+measure 127
+A4     4        e     u                    tis,
+C#5    4        e     d                    ho-
+A5     4        e     d                    mi-
+A4     4        e     u                    ni-
+B4     4        e     d                    bus
+C#5    2        s     d  [[                bo-
+D5     2        s     d  ]]                -
+E5     8-       q     d        -           -
+measure 128
+E5     4        e     d                    -
+D5     4        e     d                    nae
+D5     4        e     d                    vo-
+E5     4        e     d                    lun-
+E5     6        e.    d  [                 ta-
+F#5    2        s     d  ]\                -
+F#5    8        q     d                    -
+measure 129
+G5     8        q     d                    tis,
+rest   4        e
+D4     4        e     u                    in
+B4     4        e     u  [                 ter-
+A4     4        e     u  ]                 -
+A4     4        e     d  [                 ra_
+D5     4        e     d  ]                 _
+measure 130
+D5     4        e     d  [                 pax_
+C#5    2        s     d  =[                _
+B4     2        s     d  =]                _
+A4     4        e     d  ]                 _
+G4     4        e     u                    ho-
+F#4    4        e     u                    mi-
+F#4    2        s     u                    ni-
+G4     2        s     u                    bus
+A4     8-       q     u        -           bo-
+measure 131
+A4     4        e     u                    -
+D5     2        s     d  [[                nae_
+C#5    2        s     d  ]]                _
+D5     4        e     d                    vo-
+E5     4        e     d                    lun-
+C#5    4        e     d                    ta-
+A4     4        e     u                    tis, 
+rest   4        e
+D5     4        e     d                    pax,
+measure 132
+G5     8        q     d                    pax,
+rest   4        e
+E5     4        e     d                    pax,
+F#5    4        e     d                    pax,
+rest   4        e
+rest   4        e
+A4     4        e     u                    in
+measure 133
+B4     2        s     d  [[                ter-
+C#5    2        s     d  ==                -
+D5     2        s     d  ==                -
+B4     2        s     d  =]                -
+C#5    4        e     d  ]                 -
+D5     4        e     d                    ra
+E5    16-       h     d        -           pax,_
+measure 134
+E5    16        h     d                    _
+rest   4        e
+F#5    8        q     d                    pax
+D#5    4        e #   d                    ho-
+measure 135
+G5    12        q.    d                    mi-
+F#5    2        s     d                    ni-
+E5     2        s     d                    bus
+A5     4        e     d                    bo-
+A4     4        e     u                    nae
+B4     8-       q     d        -           vo-
+measure 136
+B4     2        s     u  [[                -
+G#4    2        s #   u  ]]                -
+F#4    2        s     u  [[                lun-
+E4     2        s     u  ]]                -
+E5     8-       q     d        -(          ta-
+E5     4        e     d  [                 -
+F#5    4        e     d  ]     )           -
+B4     4        e     d                    tis,
+E5     4-       e     d        -           bo-
+measure 137
+E5     2        s     d                    -
+D5     2        s     d                    nae
+C5     8        q n   d                    vo-
+B4     2        s     u  [[                lun-
+A4     2        s     u  ]]                -
+G4     4        e     u                    ta-
+E4     4        e     u                    tis,
+G4     4        e     u                    bo-
+B4     4        e     d                    nae
+measure 138
+E5     4        e     d  [                 vo-
+F#5    2        s     d  =[                -
+G5     2        s     d  ]]                -
+F#5    2        s     d  [[                -
+E5     2        s     d  ]]                -
+D5     2        s     d  [[                lun-
+C#5    2        s     d  ]]                -
+D5     4        e     d                    ta-
+B4     4        e     d                    tis,
+rest   8        q
+measure 139
+rest   8        q
+rest   4        e
+C#5    8        q     d        (           et_ 
+D#5    4        e #   d        )           _ 
+D#5    4        e     d  [                 in_ 
+E5     4        e     d  ]                 _ 
+measure 140
+E5     4        e     d  [                 ter-
+D#5    4        e #   d  ]                 -
+E5     4        e     d  [                 ra_
+F#5    4        e     d  ]                 _
+D#5    8        q     d                    pax,
+rest   8        q
+measure 141
+rest   8        q
+rest   4        e
+B4     8        q     d        (           et_ 
+C#5    4        e     d        )           _ 
+C#5    4        e     d  [                 in_ 
+D5     4        e     d  ]                 _ 
+measure 142
+D5     4        e     d  [                 ter-
+C#5    4        e     d  ]                 -
+D5     4        e     d  [                 ra_
+E5     4        e     d  ]                 _
+C#5    8        q     d                    pax,
+rest   8        q
+measure 143
+rest   8        q
+rest   4        e
+A4     8        q     u        (           et_ 
+B4     4        e     u        )           _ 
+B4     4        e     u  [                 in_ 
+C5     4        e     u  ]                 _ 
+measure 144
+C5     4        e n   d  [                 ter-
+B4     4        e     d  ]                 -
+C5     4        e     d  [                 ra_
+D5     4        e     d  ]                 _
+B4     4        e     u                    pax
+A4     4        e     u                    ho-
+G4     4        e     u                    mi-
+F#4    4        e     u                    ni-
+measure 145
+E4     4        e     u                    bus
+D5     2        s     d                    bo-
+C#5    2        s     d                    nae
+D5     4        e     d                    vo-
+G4     4        e     u                    lun-
+F#4    8        q     u        (           ta-
+E4     8        q     u        )           -
+measure 146
+D4     4        e     u                    tis,
+D4     4        e     u  [                 bo-
+F#4    4        e     u  ]                 -
+A4     4        e     u                    nae
+D5     4        e     d  [                 vo-
+E5     2        s     d  =[                -
+F#5    2        s     d  ==                -
+E5     2        s     d  ==                -
+D5     2        s     d  ]]                -
+C#5    2        s     d  [[                lun-
+B4     2        s     d  ]]                -
+measure 147
+C#5    2        s     d  [[                ta-
+E5     2        s     d  ==                -
+A5     2        s     d  ==                -
+G5     2        s     d  ]]                -
+F#5    2        s     d  [[                -
+E5     2        s     d  ==                -
+D5     2        s     d  ==                -
+C#5    2        s     d  ]]                -
+B4     2        s     d  [[                -
+D5     2        s     d  ==                -
+G5     2        s     d  ==                -
+F#5    2        s     d  ]]                -
+E5     2        s     d  [[                -
+D5     2        s     d  ==                -
+C#5    2        s     d  ==                -
+B4     2        s     d  ]]                -
+measure 148
+A4     2        s     d  [[                -
+C#5    2        s     d  ==                -
+D5     2        s     d  ==                -
+E5     2        s     d  ]]                -
+F#5    2        s     d  [[                -
+G5     2        s     d  ==                -
+F#5    2        s     d  ==                -
+E5     2        s     d  ]]                -
+D5     2        s     d  [[                -
+C#5    2        s     d  ==                -
+B4     2        s     d  ==                -
+D5     2        s     d  ]]                -
+C#5    2        s     u  [[                -
+B4     2        s     u  ==                -
+A4     2        s     u  ==                -
+G#4    2        s #   u  ]]                -
+measure 149
+E5     4        e     d                    -
+A4     8        q     u                    -
+G#4    4        e #   u                    -
+A4     4        e     u                    tis,
+E5     4        e     d                    ho-
+A5     4        e     d                    mi-
+A4     4        e     u                    ni-
+measure 150
+B4     4        e     d                    bus
+C#5    2        s     d  [[    (           bo-
+D5     2        s     d  ]]                -
+E5     8-       q     d        -           -
+E5     4        e     d        )           -
+D5     4        e     d                    nae
+D5     4        e     d                    vo-
+E5     4        e     d                    lun-
+measure 151
+E5     6        e.    d  [                 ta-
+F#5    2        s     d  ]\                -
+F#5    8        q     d                    -
+G5     8        q     d                    tis,
+rest   4        e
+D4     4        e     u                    in
+measure 152
+B4     4        e     u  [                 ter-
+A4     4        e     u  ]                 -
+A4     4        e     d  [                 ra_
+D5     4        e     d  ]                 _
+D5     4        e     d  [                 pax_
+C#5    2        s     d  =[                _
+B4     2        s     d  =]                _
+A4     4        e     d  ]                 _
+G4     4        e     u                    ho-
+measure 153
+F#4    4        e     u                    mi-
+F#4    2        s     u                    ni-
+G4     2        s     u                    bus
+A4     8-       q     u        -           bo-
+A4     4        e     u                    -
+C5     2        s n   d  [[                nae_
+B4     2        s     d  ]]                _
+C5     4        e     d                    vo-
+D5     4        e     d                    lun-
+measure 154
+B4     4        e     d                    ta-
+G4     4        e     u                    tis,
+rest   4        e
+C5     4        e n   d                    pax,
+F5     8        q n   d                    pax,
+rest   4        e
+D5     4        e     d                    pax,
+measure 155
+E5     8        q     d                    pax,
+rest   4        e
+G4     4        e     u                    in
+A4     2        s     d  [[                ter-
+B4     2        s     d  ==                -
+C5     2        s n   d  ==                -
+A4     2        s     d  =]                -
+B4     4        e     d  ]                 -
+C5     4        e     d                    ra
+measure 156
+D5    16-       h     d        -           pax_
+D5     4        e     d                    _
+D4     4        e     u                    ho-
+D5     8-       q     d        -           mi-
+measure 157
+D5     4        e     d  [                 -
+C#5    2        s     d  =[    +           -
+B4     2        s     d  ]]                -
+C#5    6        e.    d  [                 ni-
+D5     2        s     d  ]\                -
+D5     8        q     d                    bus,
+D5     8-       q     d        -           pax_
+measure 158
+D5    16-       h     d        -           _
+D5     4        e     d                    _
+B4     4        e     d                    ho-
+E5     8-       q     d        -           mi-
+measure 159
+E5     4        e     d                    -
+A5     2        s     d                    ni-
+G5     2        s     d                    bus
+A5     4        e     d                    bo-
+D5     4        e     d                    nae
+D5     4        e     d                    vo-
+C#5    2        s     d  [[                lun-
+B4     2        s     d  ]]                -
+C#5    8        q     d                    ta-
+measure 160
+D5     8        q     d                    tis,
+rest   8        q
+rest  16        h
+measure 161
+rest  32
+measure 162
+rest   4        e
+E4     4        e     u  [                 bo- 
+G4     4        e     u  ]                 - 
+B4     4        e     d                    nae 
+E5     4        e     d  [                 vo- 
+F#5    2        s     d  =[                - 
+G5     2        s     d  ==                - 
+F#5    2        s     d  ==                - 
+E5     2        s     d  ]]                - 
+D5     2        s     d  [[                lun-
+C#5    2        s     d  ]]                -
+measure 163
+D5     4        e     d                    ta-
+B4     4        e     d                    tis,
+D5    24-       h.    d        -           pax_
+measure 164
+D5     4        e     d  [                 _
+C#5    4        e     d  ]                 _
+C#5    4        e     d  [                 ho-
+B4     4        e     d  ]                 -
+B4     4        e     d  [                 mi-
+F#5    4        e     d  ]                 -
+E5     4        e     d                    ni-
+D5     4        e     d                    bus
+measure 165
+C#5    4        e     d                    bo-
+F#5    4        e     d                    nae
+F#5    4        e     d                    vo-
+E5     2        s     d  [[                lun-
+D5     2        s     d  ]]                -
+C#5    6        e.    d  [                 ta-
+D5     1        t     d  =[[               -
+E5     1        t     d  ]]]               -
+A4     4        e     u                    tis,
+A4     4-       e     u        -           et_
+measure 166
+A4     4        e     u  [                 _
+B4     4        e     u  ]                 _
+B4     4        e     d  [                 in_
+C5     4        e n   d  ]                 _
+C5     4        e     d  [                 ter-
+B4     4        e     d  ]                 -
+C5     4        e     d  [                 ra_
+D5     4        e     d  ]                 _
+measure 167
+B4     8        q     d                    pax,
+rest   4        e
+B4     8        q     d        (           et_ 
+C#5    4        e     d        )+          _ 
+C#5    4        e     d  [                 in_ 
+D5     4        e     d  ]                 _ 
+measure 168
+D5     4        e     d  [                 ter-
+C#5    4        e     d  ]                 -
+D5     4        e     d  [                 ra_
+E5     4        e     d  ]                 _
+C#5    8        q     d                    pax,
+rest   4        e
+C#5    4-       e     d        -           et_
+measure 169
+C#5    4        e     d  [                 _
+D5     4        e     d  ]                 _
+D5     4        e     d  [                 in_
+E5     4        e     d  ]                 _
+E5     4        e     d  [                 ter-
+D5     4        e     d  ]                 -
+E5     4        e     d  [                 ra_
+F#5    4        e     d  ]                 _
+measure 170
+D5    32-       w     d        -           pax_
+measure 171
+D5     8        q     d                    _
+C#5    8        q     d                    ho-
+C#5    8        q     d                    mi-
+B4     4        e     d                    ni-
+A4     4        e     u                    bus
+measure 172
+G#4    4        e #   u                    bo-
+A4     2        s     u  [[                nae_
+B4     2        s     u  ]]                _
+E4     4        e     u                    vo-
+A4     4        e     u                    lun-
+A4     8        q     u        (           ta-
+G#4    8        q     u        )           -
+measure 173
+A4     4        e     u                    tis,
+E5     4        e     d                    ho-
+A5     4        e     d                    mi-
+A4     4        e     u                    ni-
+B4     4        e     d                    bus
+C#5    2        s     d  [[                bo-
+D5     2        s     d  ]]                -
+E5     8-       q     d        -           -
+measure 174
+E5     4        e     d                    -
+D5     4        e     d                    nae
+D5     4        e     d                    vo-
+E5     4        e     d                    lun-
+E5     6        e.    d  [                 ta-
+F#5    2        s     d  ]\                -
+F#5    8        q     d                    -
+measure 175
+G5     4        e     d                    tis,
+F#5    4        e     d  [                 bo-
+E5     4        e     d  ]                 -
+D5     4        e     d                    nae
+C#5    4        e     d  [                 vo-
+B4     2        s     d  =[                -
+A4     2        s     d  =]                -
+A5     4        e     d  ]                 -
+G5     4        e     d                    lun-
+measure 176
+F#5    8        q     d        (           ta-
+E5     8        q     d        )           -
+D5    16        h     d        F           tis!
+mheavy2
+/END

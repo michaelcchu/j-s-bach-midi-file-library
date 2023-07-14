@@ -1,0 +1,208 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/16/06} [KHM:2202282840]
+TIMESTAMP: DEC/26/2001 [md5sum:3080892cf38d06b8d81ce397fc6d2e6d]
+02/21/95 S. Rasmussen
+WK#:232       MV#:17
+Bach Gesellschaft vi
+Mass in B Minor
+Crucifixus
+SOPRANO 2
+0 72 S
+Group memberships: score  sound
+score: part 6 of 10
+sound: part 6 of 10
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:1   Q:1   T:3/2  C:4
+rest   6
+measure 2
+rest   6
+measure 3
+rest   6
+measure 4
+rest   6
+measure 5
+rest   2        h
+C5     2        h     d                    Cru-
+C5     2        h     d                    ci-
+measure 6
+C5     1        q     d        (           fi-
+B4     1        q     d        )           -
+B4     2        h     d                    xus,
+rest   2        h
+measure 7
+rest   6
+measure 8
+rest   6
+measure 9
+rest   6
+measure 10
+rest   2        h
+F4     2        h n   u                    cru-
+F4     2        h     u                    ci-
+measure 11
+F4     1        q n   u        (           fi-
+E4     1        q     u        )           -
+E4     2        h     u                    xus,
+rest   2        h
+measure 12
+rest   6
+measure 13
+rest   2        h
+G4     2        h     u                    cru-
+A#4    2        h #   u                    ci-
+measure 14
+B4     2        h     d        (           fi-
+C5     1        q     d                    -
+B4     1        q     d        )           -
+B4     2        h     d                    xus
+measure 15
+C#5    1        q #   d                    e-
+D#5    1        q #   d                    ti-
+E5     2        h     d                    am
+E5     2        h     d                    pro
+measure 16
+E5     2        h     d        (           no-
+D#5    2        h #   d        )           -
+D#5    2        h     d                    bis,
+measure 17
+rest   6
+measure 18
+rest   6
+measure 19
+G4     2        h     u        (           cru-
+F#4    2        h     u        )           -
+E4     2        h     u                    ci-
+measure 20
+D#4    2        h #   u                    fi-
+B3     2        h     u                    xus
+rest   2        h
+measure 21
+rest   2        h
+C5     4-       w     d        -           e-
+measure 22
+C5     2        h     d                    -
+B4     1        q     u        (           ti-
+A4     1        q     u        )           -
+B4     2        h     u                    am
+measure 23
+rest   2        h
+E4     2        h     u        (           pro_
+F#4    2        h     u        )           _
+measure 24
+G4     2        h     u        (           no-
+F#4    1        q     u                    -
+G4     1        q     u                    -
+A4     2        h     u                    -
+measure 25
+G#4    2        h #   u        )           -
+A4     2        h     u                    bis
+G4     2        h n   u                    sub
+measure 26
+F#4    2        h     u        (           Pon-
+F4     2        h n   u        )           -
+F4     2        h     u                    ti-
+measure 27
+E4     4        w     u                    o
+E4     2-       h     u        -           Pi-
+measure 28
+E4     2        h     u                    -
+D#4    4        w #   u                    la-
+measure 29
+E4     2        h     u                    to,
+F#4    2        h     u        (           pas-
+A#4    2        h #   u                    -
+measure 30
+B4     2        h     u        )           -
+E4     2        h     u                    sus
+G#4    2        h #   u                    et
+measure 31
+A4     2        h     u                    se-
+A4     4-       w     u        -           pul-
+measure 32
+A4     2        h     u                    -
+A4     4        w     u                    tus
+measure 33
+G4     2        h     u                    est,
+C5     4-       w     d        -           pas-
+measure 34
+C5     2        h     d                    -
+B4     2        h     d                    sus
+B4     2        h     d                    et
+measure 35
+E5     1        q     d        (           se-
+E4     1        q     u        )           -
+A4     3        h.    u                    pul-
+A4     1        q     u                    tus
+measure 36
+B4     6        w.    d                    est;
+measure 37
+rest   2        h
+C5     4-       w     d        -           cru-
+measure 38
+C5     2        h     d        (           -
+A#4    2        h #   u        )           -
+B4     2        h     u                    ci-
+measure 39
+G#4    2        h #   u        (           fi-
+A4     1        q n   u        )+          -
+C5     1        q     d                    xus
+B4     1        q     d                    e-
+A4     1        q     u                    ti-
+measure 40
+D5     2        h     d                    am
+A4     2        h     u        (           pro_
+D5     1        q     d                    _
+A4     1        q     u        )           _
+measure 41
+B4     4        w     d                    no-
+B4     2        h     d                    bis
+measure 42
+rest   1        q
+A4     1        q     u                    sub
+B4     1        q     d                    Pon-
+C5     1        q     d                    ti-
+D5     1        q     d                    o
+B4     1        q     d                    Pi-
+measure 43
+E5     6-       w.    d        -           la-
+measure 44
+E5     2        h     d        (           -
+D5     2        h     d        )           -
+B4     2        h     d                    to,
+measure 45
+C5     6-       w.    d        -           pas-
+measure 46
+C5     2        h     d                    -
+B4     1        q     u                    -
+A4     1        q     u                    -
+B4     2-       h     u        -           -
+measure 47
+B4     2        h     u                    -
+A4     2        h     u                    sus
+F#4    2        h     u                    et
+measure 48
+G4     1        q     u        (           se-
+A4     1        q     u        )           -
+F#4    3        h.    u                    pul-
+E4     1        q     u                    tus
+measure 49
+E4     4        w     u                    est,
+F4     2        h     u         p          se-
+P    C33:Y-10
+measure 50
+F#4    4        w     u                    pul-
+F4     2        h n   u                    tus
+measure 51
+E4     4        w     u                    est,
+Ef4    2        h f   u                    se-
+measure 52
+D4     2        h     u        (           pul-
+C4     1        q     u                    -
+B3     1        q     u        )           -
+C4     2        h     u                    tus
+measure 53
+B3     6        w.    u        F           est.
+mheavy2
+/END

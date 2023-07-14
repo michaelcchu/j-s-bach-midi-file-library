@@ -1,0 +1,65 @@
+MUSICXML : kyrie 1 data (5).mxl
+
+TITLE : Kyrie I
+
+SET MARKS :
+1:M1
+5:M5
+30:M30
+48:M48
+50:M50
+
+PLAY MARKS :
+M1
+M5
+M30
+M48
+M50
+
+PARTS :
+P1_:played/visible
+P2_:played/visible
+P3_:played/visible
+P4_:played/visible
+P5_:played/visible
+P6_:played/visible
+P7_:played/visible
+P8_:played/visible
+P9_:played/visible
+P10_:played/visible
+P11_:played/visible
+P12_:played/visible
+P13_:played/visible
+P14_:played/visible
+
+ORNAMENTS :
+14.4@P4_:trill=4
+14.4@P6_:trill=4
+15.4@P13_:trill=4
+16.4@P14_:trill=4
+17.4@P13_:trill=4
+29.2@P4_:trill=4
+29.2@P14_:trill=6
+30.2@P3_:piano
+30.2@P4_:piano
+42.3@P11_:trill=6
+48.1@P13_:forte
+48.1.2@P3_:forte
+50.3@P4_:forte
+50.3@P14_:forte
+54.3@P8_:trill=6
+126.2@P14_:trill=4
+126.3@P1_:fermata
+126.3@P2_:fermata
+126.3@P3_:fermata
+126.3@P4_:fermata
+126.3@P5_:fermata
+126.3@P6_:fermata
+126.3@P7_:fermata
+126.3@P8_:fermata
+126.3@P9_:fermata
+126.3@P10_:fermata
+126.3@P11_:fermata
+126.3@P12_:fermata
+126.3@P13_:fermata
+126.3@P14_:fermata

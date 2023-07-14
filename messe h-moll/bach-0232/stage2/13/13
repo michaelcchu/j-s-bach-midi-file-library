@@ -1,0 +1,392 @@
+(C) 1994, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/13/13} [KHM:492421421]
+TIMESTAMP: DEC/26/2001 [md5sum:33fb0d9ec0e7fa7895fc659beb496124]
+01/21/94 S. Rasmussen
+WK#:232       MV#:14
+Bach Gesellschaft vi
+Mass in B Minor
+Patrem omnipotentem
+BASSO
+1 72 B
+Group memberships: score  sound
+score: part 13 of 14
+sound: part 13 of 14
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:2   T:0/0  C:22
+A3     4        h     d                    Pa-
+A3     2        q     d                    trem
+A3     2        q     d                    o-
+measure 2
+F#3    2        q     d                    mni-
+A3     2        q     d                    po-
+C#4    4        h     d                    ten-
+measure 3
+D3     2        q     d                    tem,
+D4     2        q     d                    fa-
+B3     2        q     d                    cto-
+F#3    2        q     d                    rem
+measure 4
+G#3    2        q #   d        (           coe-
+E3     2        q     d        )           -
+A3     2        q     d                    li
+D3     2        q     d                    et
+measure 5
+C#3    4        h     u        (           ter-
+B2     4        h     u        )           -
+measure 6
+A2     2        q     u                    rae,
+C#4    2        q     d                    fa-
+A3     2        q     d                    cto-
+E3     2        q     d                    rem
+measure 7
+F#3    2        q     d        (           coe-
+D3     2        q     d        )           -
+B2     2        q     u                    li
+G#3    2        q #   d                    et
+measure 8
+A3     2        q     d                    ter-
+A2     2        q     u                    rae,
+rest   2        q
+A2     2        q     u                    fa-
+measure 9
+B2     1        e     u  [                 cto-
+D3     1        e     u  =                 -
+E3     1        e     u  =                 -
+F#3    1        e     u  ]                 -
+G3     4-       h     d        -           -
+measure 10
+G3     2        q     d                    -
+F#3    4        h     d                    rem
+B3     2        q     d                    coe-
+measure 11
+A3     2        q     d                    li
+D3     2        q     u                    et
+D3     2        q     u        (           ter-
+C#3    2        q     u        )           -
+measure 12
+D3     2        q     d                    rae,
+F#3    1        e     d                    vi-
+G3     1        e     d                    si-
+A3     4-       h     d        -           bi-
+measure 13
+A3     2        q     d                    -
+G#3    1        e #   d                    li-
+A3     1        e     d                    um
+B3     4-       h     d        -           o-
+measure 14
+B3     2        q     d                    -
+A3     1        e     d  [                 mni-
+G#3    1        e #   d  ]                 -
+F#3    2        q     d                    um
+F#3    1        e     d                    et
+G#3    1        e     d                    in-
+measure 15
+A3     2        q     d                    vi-
+F#3    2        q     d                    si-
+D3     2        q     d                    bi-
+E3     2        q     d                    li-
+measure 16
+A2     4        h     u                    um;
+rest   4        h
+measure 17
+rest   8
+measure 18
+rest   8
+measure 19
+rest   8
+measure 20
+rest   8
+measure 21
+A3     4        h     d                    Pa-
+A3     2        q     d                    trem
+A3     2        q     d                    o-
+measure 22
+F#3    2        q     d                    mni-
+A3     2        q     d                    po-
+C#4    4        h     d                    ten-
+measure 23
+D3     2        q     d                    tem,
+D4     2        q     d                    fa-
+B3     2        q     d                    cto-
+F#3    2        q     d                    rem
+measure 24
+G#3    2        q #   d        (           coe-
+E3     2        q     d        )           -
+A3     2        q     d                    li
+D3     2        q     d                    et
+measure 25
+C#3    4        h     u        (           ter-
+B2     4        h     u        )           -
+measure 26
+A2     4        h     u                    rae,
+rest   2        q
+A2     2        q     u                    fa-
+measure 27
+B2     1        e     u  [                 cto-
+D3     1        e     u  =                 -
+E3     1        e     u  =                 -
+F#3    1        e     u  ]                 -
+G3     4-       h     d        -           -
+measure 28
+G3     2        q     d                    -
+F#3    1        e     d  [     (           rem_
+E3     1        e     d  ]                 _
+F#3    2        q     d        )           _
+B3     2        q     d                    coe-
+measure 29
+A3     2        q     d                    li
+D3     2        q     u                    et
+D3     2        q     u        (           ter-
+C#3    2        q     u        )           -
+measure 30
+D3     4        h     u                    rae,
+rest   2        q
+G2     2        q     u                    fa-
+measure 31
+C3     4-       h n   u        -           cto-
+C3     1        e     u  [                 -
+A2     1        e     u  =                 -
+B2     1        e     u  =                 -
+C3     1        e     u  ]                 -
+measure 32
+D3     2        q     u                    -
+B2     2        q     u                    rem
+E3     1        e     d  [                 coe-
+D3     1        e     d  =                 -
+E3     1        e     d  =                 -
+F#3    1        e     d  ]                 -
+measure 33
+G3     2        q     d                    -
+C4     4        h n   d                    li
+D#3    2        q #   d                    et
+measure 34
+E3     2        q     d                    ter-
+A2     2        q     u                    rae,
+A3     2        q     d                    vi-
+B3     2        q     d                    si-
+measure 35
+C4     2        q n   d                    bi-
+B3     2        q     d                    li-
+A3     2        q     d                    um
+A3     2-       q     d        -           o-
+measure 36
+A3     2        q     d                    -
+G3     1        e     d  [                 mni-
+F#3    1        e     d  ]                 -
+G3     2        q     d                    um
+A3     2        q     d                    et
+measure 37
+B3     2        q     d                    in-
+B3     1        e     d                    vi-
+A3     1        e     d                    si-
+B3     2        q     d                    bi-
+B2     2        q     u                    li-
+measure 38
+E3     2        q     d                    um,
+E3     4        h     d                    et
+E3     2-       q     d        -           in-
+measure 39
+E3     2        q     d                    -
+E3     1        e     d                    vi-
+D3     1        e     d                    si-
+E3     2        q     d                    bi-
+E3     2        q     d                    li-
+measure 40
+A2     2        q     u                    um;
+rest   2        q
+rest   4        h
+measure 41
+rest   8
+measure 42
+A3     4        h     d                    cre-
+A3     4        h     d                    do
+measure 43
+rest   2        q
+A3     2        q     d                    in
+A3     2        q     d                    u-
+A2     2        q     u                    num
+measure 44
+D3     2        q     d                    De-
+D3     2        q     d                    um,
+rest   4        h
+measure 45
+rest   8
+measure 46
+rest   8
+measure 47
+rest   8
+measure 48
+A3     4        h     d                    cre-
+D3     4        h     d                    do
+measure 49
+rest   2        q
+E3     2        q     d                    in
+G3     2        q     d                    u-
+E3     2        q     d                    num
+measure 50
+A3     2        q     d                    De-
+A2     2        q     u                    um,
+rest   4        h
+measure 51
+rest   2        q
+A3     2        q     d                    Pa-
+A3     2        q     d                    trem
+A3     2        q     d                    o-
+measure 52
+F#3    2        q     d                    mni-
+A3     2        q     d                    po-
+B3     4        h     d                    ten-
+measure 53
+C3     2        q n   u                    tem,
+C4     2        q n   d                    fa-
+A3     2        q     d                    cto-
+E3     2        q     d                    rem
+measure 54
+F#3    2        q     d        (           coe-
+D3     2        q     d        )           -
+G3     2        q     d                    li
+C3     2        q n   u                    et
+measure 55
+C3     2        q n   u        (           ter-
+B2     2        q     u        )           -
+A2     2        q     u                    rae,
+A3     2-       q     d        -           coe-
+measure 56
+A3     2        q     d                    -
+G3     1        e     d  [     (           li_
+F#3    1        e     d  ]                 _
+G3     2        q     d        )           _
+E3     2        q     d                    et
+measure 57
+F#3    2        q     d                    ter-
+B2     2        q     u                    rae,
+B3     4-       h     d        -           coe-
+measure 58
+B3     2        q     d                    -
+A3     1        e     d  [     (           li_
+G3     1        e     d  ]                 _
+A3     2        q     d        )           _
+D3     2        q     d                    et
+measure 59
+G3     2        q     d                    ter-
+G2     2        q     u                    rae,
+G3     2        q     d                    vi-
+F#3    1        e     d  [                 si-
+G3     1        e     d  ]                 -
+measure 60
+A3     6        h.    d                    bi-
+G3     1        e     d                    li-
+A3     1        e     d                    um
+measure 61
+B3     4-       h     d        -           o-
+B3     1        e     d  [                 -
+A3     1        e     d  =                 -
+B3     1        e     d  =                 -
+C#4    1        e     d  ]                 -
+measure 62
+D4     2        q     d                    -
+D3     2        q     d                    mni-
+D3     2        q     d                    um
+D4     2-       q     d        -           et_
+measure 63
+D4     2        q     d                    _
+C#4    1        e     d  [                 in-
+B3     1        e     d  ]                 -
+C#4    2        q     d                    vi-
+A3     2        q     d                    si-
+measure 64
+B3     6        h.    d                    bi-
+B3     2        q     d                    li-
+measure 65
+A3     8-       w     d        -           um,_
+measure 66
+A3     8-       w     d        -           _
+measure 67
+A3     2        q     d                    _
+F#3    2        q     d                    in-
+B3     2        q     d                    vi-
+G3     2        q     d                    si-
+measure 68
+A3     4        h     d                    bi-
+A2     4        h     u                    li-
+measure 69
+D3     8-       w     d        -           um,_
+measure 70
+D3     8-       w     d        -           _
+measure 71
+D3     8-       w     d        -           _
+measure 72
+D3     2        q     d                    _
+E3     1        e     d                    vi-
+F#3    1        e     d                    si-
+G3     4-       h     d        -           bi-
+measure 73
+G3     2        q     d                    -
+F#3    1        e     d                    li-
+E3     1        e     d                    um
+F#3    2        q     d                    o-
+D3     2        q     d                    mni-
+measure 74
+E3     2        q     d                    um
+rest   2        q
+rest   4        h
+measure 75
+rest   8
+measure 76
+rest   2        q
+E3     2        q     d                    et
+A3     4-       h     d        -           in-
+measure 77
+A3     2        q     d                    -
+G3     1        e     d                    vi-
+F#3    1        e     d                    si-
+G3     2        q     d                    bi-
+F#3    1        e     d                    li-
+E3     1        e     d                    um
+measure 78
+F#3    1        e     d  [                 o-
+D3     1        e     d  =                 -
+E3     1        e     d  =                 -
+F#3    1        e     d  ]                 -
+G3     1        e     d  [                 -
+F#3    1        e     d  =                 -
+G3     1        e     d  =                 -
+A3     1        e     d  ]                 -
+measure 79
+B3     1        e     d  [                 -
+A3     1        e     d  =                 -
+B3     1        e     d  =                 -
+C#4    1        e     d  ]                 -
+D4     4-       h     d        -           -
+measure 80
+D4     2        q     d                    -
+D3     1        e     d  [                 -
+E3     1        e     d  ]                 -
+F#3    1        e     d  [                 -
+E3     1        e     d  =                 -
+F#3    1        e     d  =                 -
+G3     1        e     d  ]                 -
+measure 81
+A3     1        e     d  [                 -
+D3     1        e     d  =                 -
+E3     1        e     d  =                 -
+F#3    1        e     d  ]                 -
+G3     1        e     d  [                 -
+F#3    1        e     d  ]                 -
+G3     1        e     d  [                 mni-
+A3     1        e     d  ]                 -
+measure 82
+B3     2        q     d                    um,
+A3     1        e     d                    et
+G3     1        e     d                    in-
+F#3    2        q     d                    vi-
+G3     2        q     d                    si-
+measure 83
+A3     4        h     d                    bi-
+A2     4        h     u                    li-
+measure 84
+D3     8        w     d        F           um.
+mheavy2
+/END

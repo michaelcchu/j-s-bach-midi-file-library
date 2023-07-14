@@ -1,0 +1,428 @@
+(C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
+ID: {bach/bg/vocal/0232/stage2/19b/s14} [KHM:3910635215]
+TIMESTAMP: DEC/26/2001 [md5sum:8b3de7262992bc3fd1e633743796abbc]
+04/10/95 S. Rasmussen
+WK#:232       MV#:21
+Bach Gesellschaft vi
+Mass in B Minor
+Confiteor
+ALTO
+1 72 A
+Group memberships: score 
+score: part 14 of 17 
+&
+Initial conversion from stage 1 to stage 2
+&
+$  K:2   Q:2   T:1/1  C:4  D:Vivace e Allegro
+rest   8
+measure 148 
+rest   4        h
+A4     2        q     u                    et
+A4     2        q     u                    ex-
+measure 149 
+A4     8-       w     u        -           pe-
+measure 150 
+A4     4        h     u                    -
+F#4    2        q     u                    cto,
+D4     2        q     u                    ex-
+measure 151 
+A4     2        q     u                    pe-
+A4     2        q     u                    cto
+A4     2        q     u                    re-
+A4     2        q     u                    sur-
+measure 152 
+A4     2        q     u        (           re-
+G4     1        e     u  [                 -
+A4     1        e     u  ]                 -
+B4     2        q     u        )           -
+A4     1        e     u  [                 cti-
+G4     1        e     u  ]                 -
+measure 153 
+A4     6        h.    u                    o-
+D4     2        q     u                    nem
+measure 154 
+G4     2        q     u                    mor-
+A4     1        e     u  [                 tu-
+B4     1        e     u  ]                 -
+A4     4        h     u                    o-
+measure 155 
+A4     4        h     u                    rum.
+rest   4        h
+measure 156 
+rest   8
+measure 157 
+rest   8
+measure 158 
+rest   8
+measure 159 
+rest   8
+measure 160 
+rest   8
+measure 161 
+rest   8
+measure 162 
+rest   8
+measure 163 
+rest   8
+measure 164 
+rest   4        h
+D4     4        h     u                    Ex-
+measure 165 
+G4     8-       w     u        -           pe-
+measure 166 
+G4     4        h     u                    -
+F#4    4        h     u                    -
+measure 167 
+E4     4        h     u                    cto
+E4     4-       h     u        -           re-
+measure 168 
+E4     2        q     u                    -
+F#4    2        q     u                    sur-
+G4     2        q     u                    re-
+E4     2        q     u                    cti-
+measure 169 
+A4     6        h.    u                    o-
+G4     1        e     u  [                 nem_
+F#4    1        e     u  ]                 _
+measure 170 
+E4     6        h.    u                    mor-
+F#4    1        e     u  [                 tu-
+G4     1        e     u  ]                 -
+measure 171 
+A4     8-       w     u        -           o-
+measure 172 
+A4     8        w     u                    -
+measure 173 
+A4     4        h     u                    rum,
+rest   4        h
+measure 174 
+E4     2        q     u                    re-
+E4     2        q     u                    sur-
+E4     2        q     u                    re-
+E4     2        q     u                    cti-
+measure 175 
+F#4    2        q     u                    o-
+D4     1        e     u  [                 -
+F#4    1        e     u  ]                 -
+A4     2        q     u                    -
+F#4    1        e     u  [                 -
+A4     1        e     u  ]                 -
+measure 176 
+D5     2        q     d                    -
+D5     2        q     d                    nem
+E5     1        e     d  [                 mor-
+D5     1        e     d  ]                 -
+C#5    1        e     d  [                 tu-
+B4     1        e     d  ]                 -
+measure 177 
+A4     8-       w     u        -           o-
+measure 178 
+A4     4        h     u                    -
+A4     4        h     u                    rum,
+measure 179 
+F#4    2        q     u                    et
+A4     2        q     u                    ex-
+A4     4-       h     u        -           pe-
+measure 180 
+A4     4        h     u                    -
+F#4    2        q     u                    cto,
+D4     2        q     u                    ex-
+measure 181 
+D5     4        h     d                    pe-
+A4     2        q     u                    cto,
+F#4    2        q     u                    ex-
+measure 182 
+A4     8-       w     u        -           pe-
+measure 183 
+A4     2        q     u                    -
+A4     2        q     u                    cto
+A4     2        q     u                    re-
+A4     2        q     u                    sur-
+measure 184 
+A4     2        q     u        (           re-
+G4     1        e     u  [                 -
+A4     1        e     u  ]                 -
+B4     2        q     u        )           -
+A4     1        e     u  [                 cti-
+G4     1        e     u  ]                 -
+measure 185 
+A4     4        h     u                    o-
+D4     4        h     u                    nem,
+measure 186 
+rest   4        h
+E4     2        q     u                    re-
+A4     2        q     u                    sur-
+measure 187 
+F#4    2        q     u                    re-
+D4     2        q     u                    cti-
+E4     1        e     u  [                 o-
+F#4    1        e     u  =                 -
+D4     1        e     u  =                 -
+E4     1        e     u  ]                 -
+measure 188 
+F#4    1        e     u  [                 -
+G#4    1        e #   u  =                 -
+E4     1        e     u  =                 -
+F#4    1        e     u  ]                 -
+G#4    1        e     u  [                 -
+A4     1        e     u  =                 -
+F#4    1        e     u  =                 -
+G#4    1        e     u  ]                 -
+measure 189 
+A4     1        e     u  [                 -
+B4     1        e     u  =                 -
+G#4    1        e #   u  =                 -
+A4     1        e     u  ]                 -
+F#4    2        q     u                    -
+F#4    2        q     u                    nem
+measure 190 
+G#4    4        h #   u                    mor-
+A#4    4        h #   u                    tu-
+measure 191 
+B4     8-       w     u        -           o-
+measure 192 
+B4     2        q     u                    -
+B4     2        q     u                    rum,
+A4     2        q     u                    re-
+F#4    2        q     u                    sur-
+measure 193 
+E4     2        q     u                    re-
+C#5    2        q     d                    cti-
+B4     2        q     d                    o-
+G#4    2        q #   u                    nem
+measure 194 
+F#4    4        h     u                    mor-
+B3     4        h     u                    tu-
+measure 195 
+A3     8-       w     u        -           o-
+measure 196 
+A3     2        q     u                    -
+D4     2        q     u                    rum,
+B3     2        q     u                    re-
+E4     2        q     u                    sur-
+measure 197 
+E4     2        q     u                    re-
+E4     2        q     u                    cti-
+E4     2        q     u                    o-
+E4     2        q     u                    nem
+measure 198 
+E4     2        q     u                    mor-
+F#4    2        q     u                    tu-
+F#4    2        q     u        (           o-
+E4     2        q     u        )           -
+measure 199 
+E4     4        h     u                    rum.
+rest   4        h
+measure 200 
+rest   8
+measure 201 
+rest   8
+measure 202 
+rest   8
+measure 203 
+rest   8
+measure 204 
+rest   8
+measure 205 
+rest   8
+measure 206 
+rest   8
+measure 207 
+rest   4        h
+E4     4        h     u                    Et
+measure 208 
+A4     8-       w     u        -           vi-
+measure 209 
+A4     4        h     u                    -
+G#4    2        q #   u                    tam
+G#4    2        q     u                    ven-
+measure 210 
+A4     2        q     u                    tu-
+A4     2        q     u                    ri
+E4     2        q     u                    sae-
+E4     2        q     u                    cu-
+measure 211 
+F#4    4        h     u                    li,
+E4     4-       h     u        -           vi-
+measure 212 
+E4     4        h     u                    -
+E4     2        q     u                    tam
+E4     2        q     u                    ven-
+measure 213 
+D4     2        q     u        (           tu-
+E4     4        h     u        )           -
+F#4    2        q     u                    ri
+measure 214 
+F#4    2        q     u                    sae-
+E4     1        e     u  [                 -
+D4     1        e     u  ]                 -
+E4     4-       h     u        -           -
+measure 215 
+E4     2        q     u                    -
+A3     1        e     u  [                 -
+C#4    1        e     u  ]                 -
+E4     2        q     u                    -
+C#4    1        e     u  [                 -
+E4     1        e     u  ]                 -
+measure 216 
+A4     2        q     u                    -
+G#4    1        e #   u  [                 -
+A4     1        e     u  =                 -
+B4     1        e     u  =                 -
+A4     1        e     u  ]                 -
+G#4    1        e     u                    cu-
+F#4    1        e     u                    li,
+measure 217 
+G#4    8-       w #   u        -           A-
+measure 218 
+G#4    8        w     u                    -
+measure 219 
+A4     8-       w     u        -           -
+measure 220 
+A4     8-       w     u        -           -
+measure 221 
+A4     8-       w     u        -           -
+measure 222 
+A4     4        h     u                    -
+A4     4        h     u                    men,
+measure 223 
+B4     8-       w     u        -           A-
+measure 224 
+B4     2        q     u                    -
+G4     2        q     u                    men,
+E4     1        e     u  [                 A-
+G4     1        e     u  =                 -
+F#4    1        e     u  =                 -
+E4     1        e     u  ]                 -
+measure 225 
+A4     8-       w     u        -           -
+measure 226 
+A4     1        e     u  [                 -
+G4     1        e     u  =                 -
+F#4    1        e     u  =                 -
+A4     1        e     u  ]                 -
+D4     1        e     u  [                 -
+F#4    1        e     u  =                 -
+E4     1        e     u  =                 -
+D4     1        e     u  ]                 -
+measure 227 
+G4     8        w     u                    -
+measure 228 
+G4     2        q     u                    men,
+E4     2        q     u                    et
+E5     2        q     d                    vi-
+E5     2        q     d                    tam
+measure 229 
+rest   2        q
+A4     2        q     u                    ven-
+E4     4-       h     u        -           tu-
+measure 230 
+E4     2        q     u                    -
+A4     2        q     u                    ri
+A4     2        q     u                    sae-
+A4     2        q     u                    cu-
+measure 231 
+A4     4        h     u                    li,
+rest   2        q
+A4     1        e     u  [                 ven-
+G4     1        e     u  ]                 -
+measure 232 
+A4     2        q     u                    tu-
+G4     1        e     u  [                 ri_
+F#4    1        e     u  ]                 _
+G4     2        q     u                    sae-
+F#4    1        e     u                    cu-
+E4     1        e     u                    li,
+measure 233 
+F#4    2        q     u                    A-
+F#4    2        q     u                    men,
+rest   4        h
+measure 234 
+rest   8
+measure 235 
+rest   4        h
+D4     1        e     u  [                 A-
+E4     1        e     u  =                 -
+C#4    1        e     u  =                 -
+D4     1        e     u  ]                 -
+measure 236 
+E4     1        e     u  [                 -
+F#4    1        e     u  =                 -
+D4     1        e     u  =                 -
+E4     1        e     u  ]                 -
+F#4    1        e     u  [                 -
+G4     1        e     u  =                 -
+E4     1        e     u  =                 -
+F#4    1        e     u  ]                 -
+measure 237 
+G4     1        e     u  [                 -
+A4     1        e     u  =                 -
+F#4    1        e     u  =                 -
+G4     1        e     u  ]                 -
+E4     2        q     u                    -
+E4     2        q     u                    men,
+measure 238 
+F#4    4        h     u                    A-
+G4     4        h     u                    -
+measure 239 
+A4     1        e     u  [                 -
+B4     1        e     u  =                 -
+G4     1        e     u  =                 -
+A4     1        e     u  ]                 -
+F#4    2        q     u                    -
+F#4    2        q     u                    men,
+measure 240 
+E4     4        h     u                    A-
+A3     4        h     u                    -
+measure 241 
+B3     4        h     u                    men,
+rest   4        h
+measure 242 
+rest   8
+measure 243 
+rest   4        h
+E4     1        e     u  [                 A-
+F#4    1        e     u  =                 -
+D4     1        e     u  =                 -
+E4     1        e     u  ]                 -
+measure 244 
+F#4    1        e     u  [                 -
+G4     1        e     u  =                 -
+E4     1        e     u  =                 -
+F#4    1        e     u  ]                 -
+G4     1        e     u  [                 -
+A4     1        e     u  =                 -
+F#4    1        e     u  =                 -
+G4     1        e     u  ]                 -
+measure 245 
+A4     2        q     u                    -
+F#4    2        q     u                    men,
+rest   4        h
+measure 246 
+rest   4        h
+A4     4        h     u                    ex-
+measure 247 
+A4     8-       w     u        -           pe-
+measure 248 
+A4     2        q     u                    -
+G4     1        e     u  [                 cto_
+F#4    1        e     u  ]                 _
+B4     2        q     u                    vi-
+A4     2-       q     u        -           tam_
+measure 249 
+A4     2        q     u                    _
+A4     2        q     u                    ven-
+B4     2        q     u                    tu-
+B4     2        q     u                    ri
+measure 250 
+A4     2        q     u                    sae-
+B4     1        e     u                    cu-
+B4     1        e     u                    li,
+A4     2        q     u        (           A-
+G4     2        q     u        )           -
+measure 251 
+F#4    2        q     u                    men.
+rest   2        q
+rest   4        h
+mheavy2
+/END

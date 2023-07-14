@@ -1,0 +1,11 @@
+prelude 5, measure 20: changed beat for e to g in LH bass part
+prelude 6, measure 21: changed b-flat to b-natural
+fugue 6, measure 9: added tie to b-flats
+fugue 7, measure 18: changed e-flat to d
+prelude 8, measure 12: changed c-flat to c-natural
+prelude 8, measure 14: raised b-flat up an octave
+prelude 8, measure 15: changed c-natural to a-natural
+prelude 8, measure 23: changed e-flat to f
+fugue 8, measure 6: added tie to RH soprano part
+fugue 8, measure 73: added sixteenth note to LH bass part
+fugu 8, measure 77: changed f-sharp to e-sharp in LH bass part
