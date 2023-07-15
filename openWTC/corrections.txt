@@ -8,4 +8,11 @@ prelude 8, measure 15: changed c-natural to a-natural
 prelude 8, measure 23: changed e-flat to f
 fugue 8, measure 6: added tie to RH soprano part
 fugue 8, measure 73: added sixteenth note to LH bass part
-fugu 8, measure 77: changed f-sharp to e-sharp in LH bass part
+fugue 8, measure 77: changed f-sharp to e-sharp in LH bass part
+fugue 9, measure 16: split quarter note g into two eighth notes
+fugue 9, measure 26: changed e to c# in bass line
+fugue 9, measure 27: fixed LH bass line
+fugue 10, measure 14: changed g-natural to g# in bass line
+prelude 11, measure 8: changed a to b-flat in bass line
+fugue 11, measure 68: added tie to f's
+
