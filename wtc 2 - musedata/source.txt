@@ -1,0 +1,12 @@
+https://kern.humdrum.org/cgi-bin/browse?l=musedata/bach/keyboard/wtc
+
+corrections:
+wtc2p02
+wtc2f02
+wtc2p03
+wtc2p04
+
+verovio humdrum viewer is very useful for finding errors and correcting them
+
+https://www.humdrum.org/guide/ch06/
+
